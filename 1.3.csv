@@ -1,54 +1,90 @@
-disarming;Forced to Disarm;Devra se d�sarmer;Zur Entwaffnung gezwungen;;Obligado a desarmarse;;;;;;;;x,,,,,,,,,,,,,,,,,,
-HAS_NOT_RECENTLY_LOST_WAR;Have NOT lost a war in the last five years.;N�ont perdu AUCUNE guerre au cours des cinq ann�es pass�es.;Verlor keinen Krieg in den letzten 5 Jahren.;;NO ha perdido una guerra en los �ltimos cinco a�os.;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-HAS_RECENTLY_LOST_WAR;Have lost a war in the last five years..;Ont perdu une guerre au cours des cinq ann�es pass�es.;Verlor einen Krieg in den letzten 5 Jahren.;;Ha perdido una guerra en los �ltimos cinco a�os.;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-IN_SAME_SPHERE;This country is in the same sphere of influence as us.;Ce pays fait partie de la m�me sph�re d�influence que nous.;Dieses Land ist in derselben Einflusssph�re wie wir.;;Este pa�s est� en la misma esfera de influencia que nosotros.;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-DIPLOMACY_CHANCE_JOIN_WAR;Likelyhood of joining the war: �Y$VAL$�W;Probabilit� de rejoindre : �Y$VAL$�W;Wahrscheinlichkeit des Kriegseintritts: �Y$VAL$�W;;Probabilidad de que se incorpore a la guerra: �Y$VAL$�W;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PO_ISBETTER;If we refuse this offer we will suffer the following:\n �R+$MIL$�W Militancy, �R+$WE$�W War exhaustion;Si nous refusons cette offre, nous subirons ce qui suit :\n �R+$MIL$�W de militantisme, �R+$WE$�W d��puisement de guerre;Wenn wir dieses Angebot ablehnen, werden wird das folgende Konsequenzen haben:\n �R+$MIL$�W Militanz, �R+$WE$�W Kriegsm�digkeit;;Si rechazamos la oferta sufriremos lo siguiente:\n �R+$MIL$�W de militancia, �R+$WE$�W de agotamiento b�lico;;;;;;;;;x,,,,,,,,,,,,
-leave_soi_title;Leave Sphere of Influence;Quitter la sph�re d�influence;Einflusssph�re verlassen;;Abandonar esfera de influencia;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-leave_soi_desc;We can leave this Sphere of Influence, however our former master may well declare war to stop us.;Nous pouvons quitter cette sph�re d�influence, mais notre ancien ma�tre risque de nous d�clarer la guerre pour nous arr�ter.;Wir k�nnen diese Einflusssph�re verlassen, aber unser fr�herer Herr k�nnte uns den Krieg erkl�ren, um uns daran zu hindern.;;Podemos abandonar esta esfera de influencia, pero nuestro antiguo se�or podr�a declararnos la guerra.;;;;;;;;;x,,,,,,,,,,,,,
-NEW_PARTY_AVAIL_SETUP;New political party;Nouveau parti politique;Neue politische Partei;;Nuevo partido pol�tico;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NEW_PARTY_AVAIL_HEADER;New political party formed;Nouveau parti politique form�;Neue politische Partei gegr�ndet;;Se ha formado un nuevo partido pol�tico;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NEW_PARTY_AVAIL_1;$PARTY$ has been formed;$PARTY$ a �t� form�;$PARTY$ wurde soeben gegr�ndet;;Se ha formado un partido: $PARTY$;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NEW_PARTY_AVAIL_2;*;*;*;*;*;*;*;;;;;;;x,,,,,,,,,,,,,,,,,,
-NEW_PARTY_AVAIL_3;*;*;*;*;*;*;*;;;;;;;x,,,,,,,,,,,,,,,,,,
-NEW_PARTY_AVAIL_4;*;*;*;*;*;*;*;;;;;;;x,,,,,,,,,,,,,,,,,,
-NEW_PARTY_AVAIL_5;*;*;*;*;*;*;*;;;;;;;x,,,,,,,,,,,,,,,,,,
-NEW_PARTY_AVAIL_6;*;*;*;*;*;*;*;;;;;;;x,,,,,,,,,,,,,,,,,,
-NEW_PARTY_AVAIL_BTN1;OK;D'accord;OK;OK;;Aceptar;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NEW_PARTY_AVAIL_BTN2;OK;D'accord;OK;OK;;Aceptar;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NEW_PARTY_AVAIL_BTN3;Go to;Voir;Goto;;Ir a;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NEW_PARTY_AVAIL_LOG;New political party;Nouveau parti politique;Neue Partei gegr�ndet: $PARTY$.;;Nuevo partido pol�tico;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PARTY_UNAVAIL_SETUP;Political party defunct;Parti politique dissous;Partei aufgel�st;;Partido pol�tico desaparecido;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PARTY_UNAVAIL_HEADER;Political party defunct;Parti politique dissous;Partei aufgel�st;;Partido pol�tico desaparecido;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PARTY_UNAVAIL_1;$PARTY$ is now defunct;$PARTY$ est � pr�sent dissous;$PARTY$ wurde aufgel�st;;Ha desaparecido un partido pol�tico: $PARTY$;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PARTY_UNAVAIL_2;*;*;*;*;*;*;*;;;;;;;x,,,,,,,,,,,,,,,,,,
-PARTY_UNAVAIL_3;*;*;*;*;*;*;*;;;;;;;x,,,,,,,,,,,,,,,,,,
-PARTY_UNAVAIL_4;*;*;*;*;*;*;*;;;;;;;x,,,,,,,,,,,,,,,,,,
-PARTY_UNAVAIL_5;*;*;*;*;*;*;*;;;;;;;x,,,,,,,,,,,,,,,,,,
-PARTY_UNAVAIL_6;*;*;*;*;*;*;*;;;;;;;x,,,,,,,,,,,,,,,,,,
-PARTY_UNAVAIL_BTN1;OK;D'accord;OK;OK;;Aceptar;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PARTY_UNAVAIL_BTN2;OK;D'accord;OK;OK;;Aceptar;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PARTY_UNAVAIL_BTN3;Go to;Voir;Goto;;Ir a;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PARTY_UNAVAIL_LOG;Political party now unavailable;Parti politique d�sormais indisponible;Die Partei �Y$PARTY$�W wurde aufgel�st und existiert nicht l�nger.;;Ha desaparecido un partido pol�tico;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_FACTORY_DAYSRED_TOOLTIP;Days of insolvency: �R$DAYS$�W;Jour d�insolvabilit� : �R$DAYS$�W;Tage mit Verlusten: �R$DAYS$�W;;D�as de insolvencia: �R$DAYS$�W;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EXPENSE_NO_AFFORD;We can only afford to pay �R$VAL$�W� of our expenses!;Nous ne pouvons nous acquitter que de �R$VAL$�W�de nos d�penses !;Wir k�nnen nur �R$VAL$�W� unserer Ausgaben zahlen!;;�Solo podemos pagar el �R$VAL$�W� de nuestros gastos!;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_FACTORY_DAYSRED_TOOLTIP;Days of insolvency: �R$DAYS$�W;Jours d�insolvabilit� : �R$DAYS$�W;Insolvenztage: �R$DAYS$�W;;D�as de insolvencia: �R$DAYS$�W;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ENG_presidential_dictatorship;Great Britain;Grande-Bretagne;Gro�britannien;;Gran Breta�a;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTNAME16451;Raiding the garrisons;Attaque des garnisons;�berfall auf Garnisonen;;Asalto contra las guarniciones;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTDESC16451;During the early days of the Texan Revolution, Texan troops were able to overrun several Mexican garrisons. This provided the Texan army with much needed money and supplies.;Aux premiers jours de la R�volution texane, les troupes du Texas ont r�ussi � renverser plusieurs garnisons mexicaines permettant ainsi � leur arm�e de disposer des fonds et ravitaillements n�cessaires.;W�hrend der ersten Tage der texanischen Revolution konnten texanische Truppen mehrere mexikanische Garnisonen �berrennen. Dies brachte der texanischen Armee stark ben�tigte Gelder und Nachschubmaterial ein.;;Durante los primeros d�as de la Revoluci�n Texana, las tropas de Texas pudieron destruir varias guarniciones mexicanas. Gracias a esto, el ej�rcito texano obtuvo unos fondos y pertrechos de los que estaba muy necesitado.;;;;;;;x,,,,,,,,,,,,,,
-CB_ALLOWED_GUNBOAT;Force Debt Repayment;Forcer le remboursement de la dette;Schuldentilgung erzwingen;;Forzar pago de deuda;;;;;;;;x,,,,,,,,,,,,,,,,,,
-po_gunboat;Repay Debts.;Rembourser les dettes;Schulden tilgen.;;Pagar deudas.;;;;;;;;x,,,,,,,,,,,,,,,,,,
-IS_IN_DEFAULT_TO;Is in Default to;Est d�biteur de;ist im Zahlungsr�ckstand gegen�ber;;Est� en situaci�n de incumplimiento de pagos con;;;;;;;;x,,,,,,,,,,,,,,,,,,
-IS_NOT_IN_DEFAULT_TO;Is not in Default to;N�est pas d�biteur de;ist nicht im Zahlungsr�ckstand gegen�ber;;No est� en situaci�n de incumplimiento de pagos con;;;;;;;;x,,,,,,,,,,,,,,,,,,
-gunboat;Repay Debts;Rembourser les dettes;Schulden tilgen;;Pagar deudas;;;;;;;;x,,,,,,,,,,,,,,,,,,
-gunboat_desc;Force them to resume repayment of their debts to us.;Les forcer � reprendre le remboursement des dettes contract�es envers nous.;Sie zwingen, ihre Schuldenr�ckzahlungen weiterzuf�hren.;;Obligarlos a reanudar el pago de sus deudas con nosotros.;;;;;;;;x,,,,,,,,,,,,,,,,,
-gunboat_setup;Will force them to honor their debts to us.;Nous les forceront � honorer les dettes contract�es envers nous.;Werden sie zwingen, uns ihre Schulden zur�ckzuzahlen.;;Los obligar� a hacer frente a sus deudas con nosotros.;;;;;;;;x,,,,,,,,,,,,,,,,,
-gunboat_short;Repay Debts;Rembourser les dettes;Schulden tilgen;;Pagar deudas;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTNAME70002;$FROMCOUNTRY$ goes bankrupt!;$FROMCOUNTRY$ a fait faillite !;$FROMCOUNTRY$ ist bankrott!;;�$FROMCOUNTRY$ est� en bancarrota!;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTDESC70002;$FROMCOUNTRY$ has gone bankrupt and claims that they owe us nothing! We must use our military might to safeguard our investors.;\n$FROMCOUNTRY$ a fait faillite et ils crient haut et fort qu�ils ne nous doivent rien !\nIl nous faut recourir � notre puissance militaire pour prot�ger nos investisseurs.;$FROMCOUNTRY$ ist bankrott und behauptet, sie schulden uns nichts! Wir m�ssen unsere Investoren mit unserer Milit�rmacht sch�tzen.;;�$FROMCOUNTRY$ ha declarado la bancarrota y afirma que no nos debe nada! Debemos usar nuestras fuerzas armadas para proteger los intereses de nuestros inversores.;;;;;;;;x,,,,,,,,,,,,,,,,,
-EVTOPTA70002;OK;Ils vont voir qui nous sommes;OK;;Aceptar;;;;;;;;x,,,,,,,,,,,,,,,,,,
-USE_LEADER;Use leader;Utiliser cet officier;Anf�hrer verwenden;;Usar l�der;;;;;;;;x,,,,,,,,,,,,,,,,,,
-SHORTCUT;�WShortcut: �Y;�WRaccourci : �Y;�WTastenk�rzel: �Y;;�WAtajo: �Y;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-SM_SHORTCUT;Shortcut tooltip;Raccourci infobulle;Tastenk�rzel Tooltipp;;Recuadro de texto de atajo;;;;;;;;x,,,,,,,,,,,,,,,,,,
-move_capital_to_moscow_title;Return to the Third Rome;Retourner � la Troisi�me Rome;Zur�ck zum Dritten Rom;;Volver a la tercera Roma;;;;;;;;x,,,,,,,,,,,,,,,,,,
-move_capital_to_moscow_desc;Glorious St Petersburg, the city of Peter the Great, is uncomfortably close to the border. Perhaps it would be prudent to move our capital back to Moscow," the Pervoprestolnaya"""," which invading armies might find harder to reach..."";La glorieuse Saint-P�tersbourg", ville de Pierre le Grand, est inconfortablement proche de la fronti�re. Il serait peut-�tre plus prudent de retransf�rer notre capitale � Moscou, la � Pervoprestolnaya �, que les arm�es d�invasion auront plus de mal � rejoindre...;Das famose St. Petersburg, Stadt Peter des Gro�en, liegt unangenehm nah an der Grenze. Vielleicht w�re es sinnvoll, unsere Hauptstadt zur�ck nach Moskau," der ""Perwoprestolnaja""", zu verlegen, das f�r einfallende Armeen schwerer zu erreichen ist ...;;La gloriosa San Petersburgo, ciudad de Pedro el Grande, est� inc�modamente cerca de la frontera. Puede que sea prudente trasladar de nuevo la capital a Mosc�," la ""Pervoprestolnaya""", mucho m�s dif�cil de alcanzar para los ej�rcitos enemigos...;;;;;;;;x
+disarming;강제적 군비제한;;;;;;;;;;;;;
+HAS_NOT_RECENTLY_LOST_WAR; 최근 5년 사이의 패전 횟수 = 0;;;;;;;;;;;;;
+HAS_RECENTLY_LOST_WAR; 최근 5년 사이의 패전 횟수 ≥ 1;;;;;;;;;;;;;
+IN_SAME_SPHERE; 같은 영향권에 속합니다.;;;;;;;;;;;;;
+NOR_reactionary;근왕당;;;;;;;;;;;;;
+ATJ_reactionary;민족주의 파벌;;;;;;;;;;;;;
+ATJ_liberal;자유당;;;;;;;;;;;;;
+ATJ_anarcho_liberal;급진당;;;;;;;;;;;;;
+ATJ_socialist;사회당;;;;;;;;;;;;;
+ATJ_communist;공산당;;;;;;;;;;;;;
+ATJ_fascist;파쇼당;;;;;;;;;;;;;
+CAL_conservative;캘리포니아 공화당;;;;;;;;;;;;;
+KHI_conservative;왕당파;;;;;;;;;;;;;
+KHI_liberal;자유당;;;;;;;;;;;;;
+KHI_reactionary;민족주의 파벌;;;;;;;;;;;;;
+KHI_anarcho_liberal;급진당;;;;;;;;;;;;;
+KHI_socialist;사회당;;;;;;;;;;;;;
+KHI_communist;공산당;;;;;;;;;;;;;
+KHI_fascist;파쇼당;;;;;;;;;;;;;
+MAD_conservative;왕당파;;;;;;;;;;;;;
+MAD_liberal;자유당;;;;;;;;;;;;;;
+MAD_reactionary;민족주의 파벌;;;;;;;;;;;;;
+MAD_anarcho_liberal;급진당;;;;;;;;;;;;;
+MAD_socialist;사회당;;;;;;;;;;;;;
+MAD_communist;공산당;;;;;;;;;;;;;
+MAD_fascist;파쇼당;;;;;;;;;;;;;
+TRI_conservative;왕당파;;;;;;;;;;;;;
+TRI_liberal;자유당;;;;;;;;;;;;;
+TRI_reactionary;민족주의 파벌;;;;;;;;;;;;;
+TRI_anarcho_liberal;급진당;;;;;;;;;;;;;
+TRI_socialist;사회당;;;;;;;;;;;;;
+TRI_communist;공산당;;;;;;;;;;;;;
+TRI_fascist;파쇼당;;;;;;;;;;;;;
+TEX_communist;공산당;;;;;;;;;;;;;
+BAD_fascist;국가사회주의 노동자당;;;;;;;;;;;;;
+BAV_fascist;국가사회주의 노동자당;;;;;;;;;;;;;
+WEI_fascist;국가사회주의 노동자당;;;;;;;;;;;;;
+WLL_fascist;렉스당;;;;;;;;;;;;;
+NEW_fascist;파쇼당;;;;;;;;;;;;;
+DIPLOMACY_CHANCE_JOIN_WAR;참전 가능성: [SUB_A7]Y$VAL$[SUB_A7]W;;;;;;;;;;;;;
+PO_ISBETTER;제안을 거부하면 다음과 같은 문제가 발생합니다.\n 투쟁도: [SUB_A7]R+$MIL$[SUB_A7]W, 전쟁피로도: [SUB_A7]R+$WE$[SUB_A7]W;;;;;;;;;;;;;
+leave_soi_title;영향권 이탈;;;;;;;;;;;;;
+leave_soi_desc;영향권을 떠날 수 있으나, 분명 과거 맹주는 저지하고자 선전포고를 할 것입니다.;;;;;;;;;;;;;
+NEW_PARTY_AVAIL_SETUP;창당했을 때;;;;;;;;;;;;;
+NEW_PARTY_AVAIL_HEADER;창당;;;;;;;;;;;;;
+NEW_PARTY_AVAIL_1;$PARTY$ 정당이 창당했습니다.;;;;;;;;;;;;;
+NEW_PARTY_AVAIL_2;*;;;;;;;;;;;;;
+NEW_PARTY_AVAIL_3;*;;;;;;;;;;;;;
+NEW_PARTY_AVAIL_4;*;;;;;;;;;;;;;
+NEW_PARTY_AVAIL_5;*;;;;;;;;;;;;;
+NEW_PARTY_AVAIL_6;*;;;;;;;;;;;;;
+NEW_PARTY_AVAIL_BTN1;확인;;;;;;;;;;;;;
+NEW_PARTY_AVAIL_BTN2;확인;;;;;;;;;;;;;
+NEW_PARTY_AVAIL_BTN3;참조;;;;;;;;;;;;;
+NEW_PARTY_AVAIL_LOG;신당이 창당했습니다.;;;;;;;;;;;;;
+PARTY_UNAVAIL_SETUP;해당했을 때;;;;;;;;;;;;;
+PARTY_UNAVAIL_HEADER;해당;;;;;;;;;;;;;
+PARTY_UNAVAIL_1;$PARTY$ 정당이 해당했습니다.;;;;;;;;;;;;;
+PARTY_UNAVAIL_2;*;;;;;;;;;;;;;
+PARTY_UNAVAIL_3;*;;;;;;;;;;;;;
+PARTY_UNAVAIL_4;*;;;;;;;;;;;;;
+PARTY_UNAVAIL_5;*;;;;;;;;;;;;;
+PARTY_UNAVAIL_6;*;;;;;;;;;;;;;
+PARTY_UNAVAIL_BTN1;확인;;;;;;;;;;;;;
+PARTY_UNAVAIL_BTN2;확인;;;;;;;;;;;;;
+PARTY_UNAVAIL_BTN3;참조;;;;;;;;;;;;;
+PARTY_UNAVAIL_LOG;정당이 해당했습니다.;;;;;;;;;;;;;
+PRODUCTION_FACTORY_DAYSRED_TOOLTIP;채무 초과 일수: [SUB_A7]R$DAYS$[SUB_A7]W;;;;;;;;;;;;;
+EXPENSE_NO_AFFORD;지불할 양이 [SUB_A7]R$VAL$[SUB_A7]W[SUB_A4] 밖에 없습니다!;;;;;;;;;;;;;
+PRODUCTION_FACTORY_DAYSRED_TOOLTIP;채무 초과 일수: [SUB_A7]R$DAYS$[SUB_A7]W;;;;;;;;;;;;;
+ENG_presidential_dictatorship;그레이트브리튼;;;;;;;;;;;;;
+EVTNAME16451;주둔지 급습;;;;;;;;;;;;;
+EVTDESC16451;텍사스 혁명 초기에 텍사스 군대는 여러 멕시코 주둔지를 점령했습니다. 습격을 통해 텍사스군은 절실히 필요한 돈과 물자를 손에 넣었습니다.;;;;;;;;;;;;;
+CB_ALLOWED_GUNBOAT;채무 상환;;;;;;;;;;;;;
+po_gunboat;채무를 상환받습니다.;;;;;;;;;;;;;
+IS_IN_DEFAULT_TO; 채무불이행 대상 = ;;;;;;;;;;;;;
+IS_NOT_IN_DEFAULT_TO; 채무불이행 대상 ≠;;;;;;;;;;;;;
+gunboat;채무 상환;;;;;;;;;;;;;
+gunboat_desc;적국에게 채무 상환을 요구합니다.;;;;;;;;;;;;;
+gunboat_setup;적국에게 채무 상환을 요구합니다.;;;;;;;;;;;;;
+gunboat_short;차관 상환;;;;;;;;;;;;;
+EVTNAME70002;$FROMCOUNTRY$ 파산!;;;;;;;;;;;;;
+EVTDESC70002;$FROMCOUNTRY$이 파산 후 더는 채무가 없다고 주장합니다! 투자자들을 보호하려면 군사력을 사용해야 합니다.;;;;;;;;;;;;;
+EVTOPTA70002;알았다.;;;;;;;;;;;;;
+USE_LEADER;지휘관 등용;;;;;;;;;;;;;
+SHORTCUT;[SUB_A7]W단축키: [SUB_A7]Y;;;;;;;;;;;;;
+SM_SHORTCUT;단축키 도움말;;;;;;;;;;;;;
+TUR_proletarian_dictatorship_ADJ;터키령;;;;;;;;;;;;;;
+move_capital_to_moscow_title;제3로마 환도;;;;;;;;;;;;;
+move_capital_to_moscow_desc;표트르 대제의 도시인 영광스러운 상트페테르부르크는 국경과 불편할 정도로 가깝습니다. 아마도 침공군이 접근하기 어려울 수도 있는 페르보프레스톨나야(러시아어로 첫번째 왕좌를 의미)라는 별명을 가진 모스크바로의 환도가 현명할 것 같습니다.;;;;;;;;;;;;;
