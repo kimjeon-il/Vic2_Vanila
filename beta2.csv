@@ -145,102 +145,110 @@ MILITARY_DIG_IN_CAP;참호 한도;;;;;;;;;;;;;
 MILITARY_MILITARY_TACTICS;군사 전술;;;;;;;;;;;;;
 COUNTRYALERT_NO_CanDoDecisions;현재 주의가 필요한 결정은 없습니다.;;;;;;;;;;;;;
 POP_OTHER_LABEL;기타;;;;;;;;;;;;;
-annex_hawaii_title;The Newlands Resolution;Résolution Newlands;Die Newlands Resolution;;La resolución Newlands;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-annex_hawaii_desc;;La résolution Newlands était une résolution commune du Congrès américain passée en 1898, du nom du congressiste Francis G. Newlands, qui annexa la République de Hawaï aux États-Unis, créant ainsi le Territoire de Hawaï.;Die Newlands Resolution war ein gemeinschaftlicher Beschluss des amerikanischen Kongresses und wurde im Jahr 1898 verabschiedet. Benannt wurde er nach dem Kongressabgeordneten Francis G. Newlands, der die Republik Hawaii für die USA annektierte und dadurch den Bundesstaat Hawaii schuf.;;La resolución Newlands fue una resolución conjunta del congreso de los EE. UU. aprobada en 1898, y bautizada así por el congresista Francis G. Newlands, por la que la República de Hawai quedaba anexionada a los Estados Unidos y se creaba el territorio de Hawai.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,
-ionian_islands_question_title;Treaty of London (1864);Traité de Londres (1864);Das Londoner Protokoll (1864);;Tratado de Londres (1864);;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ionian_islands_question_desc;The Ionian Islands had been an amical protectorate of the United Kingdom ever since the end of the Napoelonic Wars. In 1862 the protectorate was deemed to expensive to maintain, and the islands were, after two years of negotiations, seceded to Greece.;Les Îles Ioniennes furent placées sous protectorat britannique et ce, depuis la fin des guerres napoléoniennes. En 1862, ce protectorat fut jugé trop onéreux à conserver et les îles furent, au terme de deux ans de négociations, rattachées à la Grèce.;Die ionischen Inseln waren seit dem Ende der napoleonischen Kriege ein Protektorat Großbritanniens gewesen. Im Jahr 1862 betrachtete man die Aufrechterhaltung dieses Protektorats als zu teuer, und nach zweijährigen Verhandlungen wurden die Inseln an Griechenland abgetreten.;;Las islas Jónicas habían sido un protectorado amigo del Reino Unido desde el final de las Guerras Napoleónicas. En 1862 se decidió que el protectorado resultaba demasiado caro de mantener y las islas fueron, tras dos años de negociación, escindidas a Grecia.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,
-WARSUBSIDIES_DESC;Offer §Y$MONEY$§W¤ each day to help this nation;Offrir §Y$MONEY$§W¤chaque jour pour aider cette nation;Bieten Sie zur Unterstützung dieser Nation täglich §Y$MONEY$§W¤ an.;;Ofrecer §Y$MONEY$§W¤ cada día para ayudar a esta nación;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-release_puppet;Release Puppet;Libérer un État fantoche;Marionettenstaat entlassen;;Desvincular títere;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-release_puppet_short;$THIRD$ is released;$THIRD$ est libéré;$THIRD$ wurde entlassen;;$THIRD$ ha quedado desvinculada;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-release_puppet_setup;Release $THIRD$ from $RECIPIENT$;Libérer $THIRD$ de $RECIPIENT$.;Entlassen Sie $THIRD$ aus $RECIPIENT$;;Desvincular $THIRD$ de $RECIPIENT$;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-release_puppet_desc;Release a §Ycountry§W from its sovereign nation;Libérer un §Ypays§W de sa nation souveraine;Entlassen Sie ein §YLand§W von seinem Herrenland.;;Desvincula a un §Ypaís§W de su nación soberana;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-IS_NOT_OUR_VASSAL; is NOT our Puppet; n'est PAS notre État fantoche;ist NICHT unser Marionettenstaat;; NO es títere nuestro;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-IS_OUR_VASSAL; is our Puppet; est notre État fantoche;ist unser Marionettenstaat;; es nuestro títere;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-COUNTRYALERT_HaveOrganizingRebels;Rebel Factions are organizing in our country!;Les factions rebelles s'organisent dans notre pays !;In unserem Land organisieren sich Rebellenfraktionen!;;¡Se están organizando facciones rebeldes en nuestro país!;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-TOTAL_REBEL_POP;Rebel Faction Members;Membres de la faction rebelle;Rebellenfraktionsmitglieder;;Miembros de facción rebelde;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PROV2918;Bight of Benin;Golfe du Bénin;Bucht von Benin;;Ensenada de Benín;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PROV2921;Coast of Guinea;Côte de Guinée;Küste von Guinea;;Costa de Guinea;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PROV2922;Coast of Senegambia;Côte de Sénégambie;Küste von Senegambia;;Costa de Senegambia;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NUMBER_OF_EMIREES;§Y$NUM$§W have left our nation for other countries this month;§Y$NUM$§W personnes ont quitté notre nation à destination d'autres pays ce mois-ci.;§Y$NUM$§W haben unsere Nation diesen Monat in andere Länder verlassen.;;§Y$NUM$§W personas han abandonado este mes nuestro país para emigrar a otros;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NUMBER_OF_IMMIGREES;§Y$NUM$§W have arrived our nation from other countries this month;§Y$NUM$§W personnes ont rejoint notre nation en provenance d'autres pays ce mois-ci.;§Y$NUM$§W sind diesen Monat aus anderen Ländern in unserer Nation angekommen.;;§Y$NUM$§W personas han llegado este mes a nuestro país desde otros;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-alaskan_purchase_title;Seward's Icebox;Seward's Icebox;Sewards Kühlschrank;;La nevera de Seward;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-alaskan_purchase_desc;After the events of the Crimean War Russia had begun believing that it could not hope to protect its North American possessions in the event of another war with Britain, and had begun considering a sale of what was to become the U.S. state of Alaska. The territory was bought by the United States in 1867 at the price of 2.3 cents per acre. The Alaska purchase was widely derided in the American press of the day as 'Seward's Icebox' after then Secretary of State William H. Seward, at whose initiative the purchase was made.;Après les événements de la guerre de Crimée, la Russie comprit qu'il ne lui serait plus possible de protéger ses possessions nord-américaines si une autre guerre venait à éclater avec le Royaume-Uni et commença à vendre ce qui allait devenir l'État américain d'Alaska. En 1867, les États-Unis acquirent ce territoire au prix de 2,"3 cents l'acre. L'achat de l'Alaska fut largement tourné en dérision par la presse américaine de l'époque qui le surnomma ""Seward's Icebox"" du nom du secrétaire d'État William H.Seward à l'origine de cette initiative.;Nach den Ereignissen des Krimkriegs kam Russland allmählich zu der Erkenntnis", dass es seine nordamerikanischen Besitztümer in einem weiteren Krieg mit Großbritannien nicht würde behaupten können, und spielte deshalb mit dem Gedanken, das Gebiet zu verkaufen, das später zum US-Bundesstaat Alaska werden sollte. Die USA kaufen das Gebiet im Jahr 1867 zum Quadratmeterpreis von nur 0,0004 Cent. Der Kauf Alaskas wurde in der amerikanischen Presse damals als 'Sewards Kühlschrank' verspottet, da das Gebiet aufgrund der Initiative des damaligen Außenministers William H. Seward gekauft worden war.;;Tras los sucesos de la Guerra de Crimea, Rusia había empezado a sospechar que no podría proteger sus posesiones en Norteamérica en caso de que se produjera otra guerra con los británicos, por lo que empezó a considerar la venta de lo que habría de convertirse en el estado de Alaska de los EE. UU. En 1867, los EE. UU. compraron el territorio al precio de 2,3 centavos por acre. La adquisición de Alaska fue ridiculizada por la prensa americana del momento, quien la bautizó como la 'nevera de Seward', pues la iniciativa de compra había partido del secretario de estado William H. Seward.;;;;;;;;;x;;,,,,,,,,,,,,
-EVTNAME32509;The Alaska Purchase?;L'achat de l'Alaska ?;Der Alaska-Kauf?;;¿La adquisición de Alaska?;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC32509;The feelers put out by Eduard Andreevich Stoeckl, chargé d'affaires at our embassy in Washington, have had results, as The United States has today offered to enter into negotiations over a proposed sale of our territories in North America. The Americans are offering us a price of 2.3 cents per acre for the Alaskan territories, and that price seems relatively fair. The colonies could become hard to defend in the event of war with the United Kingdom, so getting rid of them for a price now might not be such a bad idea. What say you, $MONARCHTITLE$?;Les sondages réalisés par Eduard Andreevich Stoeckl, chargé d'affaires à notre ambassade de Washington, ont porté leurs fruits puisque les États-Unis ont, ce jour, accepté de mener des négociations portant sur la vente de nos territoires en Amérique du Nord. Les Américains nous offrent 2,3 cents l'acre pour les territoires de l'Alaska, ce qui semble relativement raisonnable. Les colonies seraient bien difficiles à défendre en cas de guerre avec le Royaume-Uni et les vendre maintenant ne serait pas une mauvaise idée. Qu'en dites-vous, $MONARCHTITLE$ ?;Nachdem der Leiter unserer Botschaft in Washington, Eduard Andreevich Stoeckl, bezüglich des Interesses der USA am Kauf unseres Gebiets in Nordamerika vorgefühlt hatte, begannen heute die offiziellen Verhandlungen. Die Amerikaner bieten uns einen Quadratmeterpreis von 0,0004 Cent für das Gebiet von Alaska an, und dieser Preis scheint relativ fair zu sein. Im Falle eines Krieges mit Großbritannien könnte die Verteidigung der Kolonien schwierig werden, deshalb ist es wohl keine schlechte Idee, sie jetzt noch gewinnbringend zu verkaufen. Was sagen Sie dazu, $MONARCHTITLE$?;;Los tanteos realizados por Eduard Andreevich Stoeckl, encargado de negocios en nuestra embajada en Washington, han dado fruto, ya que los Estados Unidos han ofrecido hoy iniciar negociaciones sobre la propuesta de venta de nuestros territorios en el norte de América. Los americanos nos ofrecen un precio de 2,3 centavos por acre por los territorios de Alaska, y ese precio parece bastante razonable. En caso de guerra con el Reino Unido, podría ser difícil defender las colonias, por lo que deshacernos de ellas vendiéndolas ahora podría no ser tan mala idea. ¿Qué os parece, $MONARCHTITLE$?;;;;;;;;;x;;
-EVTOPTA32509;We have more bad climate than we need anyway;Un rude climat, on en a bien assez;Uns weht eh ein strengerer Wind ins Gesicht, als uns lieb ist.;;En cualquier caso, ya tenemos más mal tiempo del que necesitamos;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,
-EVTOPTB32509;No, I don't think so. Maybe we could build a bridge there someday?;Non, je ne pense pas. On pourrait peut-être y construire un pont, un jour ?;Nein, das machen wir nicht! Vielleicht könnten wir eines Tages eine Brücke dorthin bauen?;;No, creo que no. En su momento, podríamos construir allí un puente, ¿no?;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME32510;Russia Accepts!;La Russie accepte !;Russland akzeptiert!;;¡Rusia acepta!;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC32510;$MONARCHTITLE$, Russia has agreed to sell Alaska to us!;$MONARCHTITLE$, la Russie accepte de nous vendre l'Alaska !;$MONARCHTITLE$, Russland hat eingewilligt, uns Alaska zu verkaufen!;;¡$MONARCHTITLE$, Rusia ha aceptado vendernos Alaska!;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,
-EVTOPTA32510;Excellent!;Formidable !;Hervorragend!;;¡Excelente!;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME32511;Russia Declines!;La Russie refuse !;Russland lehnt ab!;;¡Rusia rehúsa!;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC32511;$MONARCHTITLE$, negotiations with Russia over a sale of the Alaska territory have stranded, and Russia has declined to sell us the territory.;$MONARCHTITLE$, les négociations menées avec la Russie sur la vente du territoire de l'Alaska ont échoué et la Russie a refusé notre offre d'achat.;$MONARCHTITLE$, die Verhandlungen mit Russland über den Verkauf von Alaska sind gescheitert. Russland weigert sich, uns das Gebiet zu verkaufen.;;$MONARCHTITLE$, las negociaciones con Rusia sobre la venta del territorio de Alaska han fracasado, y Rusia ha rehusado vendernos el territorio.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,
-EVTOPTA32511;Blast!;Damnation !;Verdammt!;;¡Maldición!;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-IS_DISARMED;is disarmed;est désarmé(e);ist entwaffnet;;está desarmada;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-IS_NOT_DISARMED;is not disarmed;n'est pas désarmé(e);ist nicht entwaffnet;;no está desarmada;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-TRUCE_LASTS_UNTIL;Truce lasts until §Y$DATE$§W;La trêve durera jusqu'au §Y$DATE$§W.;Waffenruhe dauert bis zum §Y$DATE$§W;;La tregua dura hasta §Y$DATE$§W;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LOBBY_HOST_ONLY;Only the host may start the game;Seul l'hôte peut lancer la partie.;Das Spiel kann nur vom Host begonnen werden;;Solo puede iniciar la partida el anfitrión;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LOBBY_WAITING;You must wait for all players to start, or kick the ones who are missing.;Vous devez attendre tous les joueurs pour commencer ou expulser ceux qui manquent.;Sie müssen zum Starten auf alle Spieler warten oder jene ausschließen, die noch fehlen.;;Debes esperar a todos los jugadores para iniciar la partida, o expulsar a los que faltan.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,
-NO_UNIT_TECH;We must discover §Y$TECH$§W to build §Y$UNIT$§W;Nous devons découvrir §Y$TECH$§W pour construire/former §Y$UNIT$§W.;Zum Bau von §Y$UNIT$§W müssen wir §Y$TECH$§W erforschen.;;Tenemos que descubrir §Y$TECH$§W para construir §Y$UNIT$§W;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NO_UNIT_REGIMENTS;We cannot build §Y$UNIT$§W anywhere. Get more §YSoldiers§W.;Nous ne pouvons pas former §Y$UNIT$§W n'importe où. Recrutez plus de §Ysoldats§W.;Wir können §Y$UNIT$§W nirgendwo bauen. Rekrutieren Sie mehr §YSoldaten§W.;;No podemos construir §Y$UNIT$§W en cualquier sitio. Consigue más §YSoldados§W.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NO_UNIT_PORTS;We cannot build §Y$UNIT$§W anywhere. Get a §YCoastal§W province.;Nous ne pouvons pas construire §Y$UNIT$§W n'importe où. Procurez-vous une province §Ycôtière§W.;Wir können §Y$UNIT$§W nirgendwo bauen. Verschaffen Sie sich eine §YKüsten§W-Provinz.;;No podemos construir §Y$UNIT$§W en cualquier sitio. Consigue una provincia §YCostera§W.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DIPLOMACY_WARDIALOG_ALLIES;§Y$COUNTRY$§W is protected by the following nation(s):;§Y$COUNTRY$§W est sous la protection de la ou des nations suivantes :;§Y$COUNTRY$§W steht unter dem Schutz folgender Nation(en):;;§Y$COUNTRY$§W está protegido por lo(s) siguiente(s) país(es):;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DIPLOMACY_WARDIALOG_NUM_ALLIES;§Y$COUNTRY$§W is protected by §Y$NUM$§W nation(s);§Y$COUNTRY$§W est sous la protection de §Y$NUM$§W nation(s).;§Y$COUNTRY$§W steht unter dem Schutz von §Y$NUM$§W Nation(en):;;§Y$COUNTRY$§W está protegido por §Y$NUM$§W país(es);;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DIPLOMACY_WARDIALOG_ALLY;Ally;Allié;Verbündeter;;Aliado;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_WE_ACCEPT_HEADER;The Foreign Minister reports;Le ministre des Affaires étrangères indique :;Der Außenminister berichtet:;;El ministro de Exteriores informa;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_WE_ACCEPT_1;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;;$MONARCHTITLE$;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_WE_ACCEPT_2;$ACTOR$ has decided to expand our current war by demanding;$ACTOR$ a décidé d'étendre notre guerre actuelle en demandant;$ACTOR$ hat sich entschieden, unseren aktuellen Krieg mit folgender Forderung zu erweitern:;;$ACTOR$ ha decidido ampliar nuestra guerra al exigir;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_WE_ACCEPT_3;$WARGOAL$;§Y$WARGOAL$§W;$WARGOAL$;;$WARGOAL$;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_WE_ACCEPT_4;The fools think we will somehow cave into them.;Ces imbéciles pensent que nous allons céder.;Die Narren denken, dass wir schon irgendwie nachgeben werden.;;Los muy insensatos se creen que, de un modo u otro, nos rendiremos ante ellos.;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_WE_ACCEPT_5;*;*;*;*;*;*;*;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_WE_ACCEPT_6;We will punish them for their insolence.;Nous les punirons pour leur insolence.;Ihre Unverschämtheit wird sie noch teuer zu stehen kommen!;;Los castigaremos por su insolencia.;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_WE_ACCEPT_BTN1;OK;D'accord;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;;x;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_WE_ACCEPT_BTN2;OK;D'accord;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;;x;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_WE_ACCEPT_BTN3;Go to;Voir;Go to;Id do;Ir allí;Andare;Ugrás;Pøejít na;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_WE_ACCEPT_LOG;$ACTOR$ expanded their war with us to include $WARGOAL$.;$ACTOR$ a étendu sa guerre contre nous pour inclure $WARGOAL$.;$ACTOR$ erweiterte seinen Krieg gegen uns um das Ziel '$WARGOAL$'.;;$ACTOR$ ha ampliado su guerra con nosotros para incluir $WARGOAL$.;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_THEY_ACCEPT_HEADER;The Foreign Minister reports;Le ministre des Affaires étrangères indique :;Der Außenminister berichtet:;;El ministro de Exteriores informa;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_THEY_ACCEPT_1;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;;$MONARCHTITLE$;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_THEY_ACCEPT_2;We have decided to expand our war by demanding;Nous avons décidé d'étendre notre guerre en demandant;Wir haben uns entschieden, unseren aktuellen Krieg mit folgender Forderung zu erweitern:;;Hemos decidido ampliar nuestra guerra exigiendo;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_THEY_ACCEPT_3;$WARGOAL$;§Y$WARGOAL$§W;$WARGOAL$;;$WARGOAL$;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_THEY_ACCEPT_4;We had tried to be reasonable with $RECIPIENT$;Nous avons essayé d'être raisonnables avec $RECIPIENT$.;Wir haben versucht, vernünftig mit $RECIPIENT$ zu verhandeln.;;Hemos intentado ser razonables con $RECIPIENT$;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_THEY_ACCEPT_5;*;*;*;*;*;*;*;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_THEY_ACCEPT_6;Now they will pay the price for their lack of vision.;Maintenant, ils vont payer le prix pour leur manque de vision.;Nun werden sie den Preis für ihre Engstirnigkeit zahlen.;;Ahora pagarán el precio por su falta de visión.;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_THEY_ACCEPT_BTN1;OK;D'accord;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;;x;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_THEY_ACCEPT_BTN2;OK;D'accord;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;;x;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_THEY_ACCEPT_BTN3;Go to;Voir;Go to;Id do;Ir allí;Andare;Ugrás;Pøejít na;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_THEY_ACCEPT_LOG;We expanded our war with $RECIPIENT$ to include $WARGOAL$.;Nous avons étendu notre guerre contre $RECIPIENT$ pour inclure $WARGOAL$.;Wir haben den Krieg mit $RECIPIENT$ um das Ziel '$WARGOAL$' erweitert.;;Hemos ampliado nuestra guerra con $RECIPIENT$ para incluir $WARGOAL$.;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_OTHER_ACCEPT_HEADER;The Foreign Minister reports;Le ministre des Affaires étrangères indique :;Der Außenminister berichtet:;;El ministro de Exteriores informa;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_OTHER_ACCEPT_1;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;;$MONARCHTITLE$;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_OTHER_ACCEPT_2;We have heard rumours from distant lands;Des rumeurs nous sont parvenues depuis de lointaines contrées.;Uns sind Gerüchte aus fernen Landen zu Ohren gekommen:;;Nos llegan rumores desde tierras lejanas;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_OTHER_ACCEPT_3;It seems that $ACTOR$;Il semble que $ACTOR$;Es scheint so, als ob sich $ACTOR$;;Por lo visto, $ACTOR$;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_OTHER_ACCEPT_4;has decided to expand its war with $RECIPIENT$;ait décidé d'étendre sa guerre contre $RECIPIENT$;entschieden hätte, den Krieg mit $RECIPIENT$;;ha decidido ampliar su guerra con $RECIPIENT$;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_OTHER_ACCEPT_5;by adding $WARGOAL$;en ajoutant $WARGOAL$.;um das Ziel '$WARGOAL$' zu erweitern.;;para $WARGOAL$;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_OTHER_ACCEPT_6;Like we care.;Comme si cela nous importait.;Als ob uns das interessieren würde.;;Como si nos importara.;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_OTHER_ACCEPT_BTN1;OK;D'accord;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;;x;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_OTHER_ACCEPT_BTN2;OK;D'accord;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;;x;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_OTHER_ACCEPT_BTN3;Go to;Voir;Go to;Id do;Ir allí;Andare;Ugrás;Pøejít na;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WARGOAL_OTHER_ACCEPT_LOG;$ACTOR$ expanded their war with $RECIPIENT$ to include $WARGOAL$.;$ACTOR$ a étendu sa guerre contre $RECIPIENT$ pour inclure $WARGOAL$.;$ACTOR$ erweiterte den Krieg mit $RECIPIENT$ um das Ziel '$WARGOAL$'.;;$ACTOR$ ha ampliado su guerra con $RECIPIENT$ para incluir $WARGOAL$.;;;;;;;;;x ;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NO_GP_ACTION_ON_SELF;It would be foolish to target ourselves;Cela serait idiot de nous viser.;Es wäre unsinnig, uns selbst ins Visier zu nehmen ...;;Sería absurdo apuntar hacia nosotros mismos;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL_VIEW_SIEGES;Toggles §YOccupation§W view;Active la vue §YOccupation§W.;Schaltet §YBesetzungs§W-Ansicht um;;Activa/Desactiva la vista de §YOcupación§W;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BADBOY_EFFECT;$DIRECTION$ $VALUE$ infamy.\n;$DIRECTION$ $VALUE$ en infamie.\n;$DIRECTION$ $VALUE$ Infamie.\n;;$DIRECTION$ $VALUE$ infamia.\n;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-unification_annex_casus_belli;War of Unification;Guerre d'unification;Vereinigungskrieg;;Guerra de unificación;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-unification_annex_casus_belli_desc;Liberate core territory of our §YCultural Union§W.;Libérez un territoire clé de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;Liberar territorio fundamental de nuestra §Yunión cultural§W;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-unification_annex_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;Libérez un territoire clé de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;Liberar territorio fundamental de nuestra §Yunión cultural§W;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-unification_annex_casus_belli_short;Annexation;Annexion;Annektierung;;Anexión;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-enlightenment_thought;The Rights of Man;Les droits de l'homme;Die Menschenrechte;;Los derechos del hombre;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-enlightenment_thought_desc;The Rights of Man;Les droits de l'homme;Die Menschenrechte;;Los derechos del hombre;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_UNIFICATION_ANNEX_NAME;$ORDER$ $FIRST$ Liberation of $SECOND_COUNTRY$;$ORDER$ $FIRST$ libération de $SECOND_COUNTRY$;$ORDER$$FIRST$e Befreiung von $SECOND_COUNTRY$;;$ORDER$ Liberación $FIRST$ de $SECOND_COUNTRY$;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AGRESSION_WAR_UNIFICATION_ANNEX_NAME;$ORDER$ $FIRST$ Liberation of $SECOND_COUNTRY$;$ORDER$ $FIRST$ libération de $SECOND_COUNTRY$;$ORDER$$FIRST$e Befreiung von $SECOND_COUNTRY$;;$ORDER$ Liberación $FIRST$ de $SECOND_COUNTRY$;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-springtime_of_nations;The Springtime of Nations!;Le Printemps des nations !;Frühling der Nationen!;;¡La primavera de las naciones!;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-springtime_of_nations_desc;The slumbering nations of Europe awake to throw of the spectres of despotism and tyranny;Les nations endormies d'Europe se réveillent pour lutter contre les spectres du despotisme et de la tyrannie.;Die schlummernden Nationen Europa erwachen, um die Gespenster des Despotismus und der Tyrannei zu vertreiben.;;Las adormiladas naciones de Europa despiertan para acabar con los espectros del despotismo y la tiranía;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WEDID_ISDISCREDITED_DESC;Discredited until §Y$UNTIL$§W. We are behind this.;Discrédit jusqu'au §Y$UNTIL$§W. Nous sommes derrière tout cela.;In Verruf gebracht bis zum §Y$UNTIL$§W. Wir stecken dahinter.;;Desacreditado hasta §Y$UNTIL$§W. Estamos detrás de esto.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-WEDID_ISBANNEDEMBASSY_DESC;Banned embassy until §Y$UNTIL$§W. We are behind this.;Ambassade interdite jusqu'au §Y$UNTIL$§W. Nous sommes derrière tout cela.;Botschaft verbannt bis zum §Y$UNTIL$§W. Wir stecken dahinter.;;Embajada cerrada hasta §Y$UNTIL$§W. Estamos detrás de esto.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OTHER_MUST_NEGOTIATE_WITH_WAR_LEADER;We are not allowed to negotiate with the enemy §YWar leader§W since that would end the war. A peace treaty can only be signed between §Y$ENEMY$§W and §Y$COUNTRY$§W.;Nous ne sommes pas autorisés à négocier avec le §Ymeneur de guerre§W ennemi, car cela mettrait fin à la guerre. Un traité de paix ne peut être signé qu'entre §Y$ENEMY$§W et §Y$COUNTRY$§W.;Wir dürfen nicht mit dem feindlichen §YKriegsführer§W verhandeln, da dies den Krieg beenden würde. Ein Friedensvertrag kann nur zwischen §Y$ENEMY$§W und §Y$COUNTRY$§W unterzeichnet werden.;;No podemos negociar con el §YLíder de guerra§W enemigo, pues eso pondría fin a la guerra. Solo se puede firmar un tratado de paz entre §Y$ENEMY$§W y §Y$COUNTRY$§W.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,
-unification_humiliate_cb;Assert Hegemony;Imposer l'hégémonie;Vorherrschaft durchsetzen;;Imponer hegemonía;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-REMOVE_unification_humiliate_cb_desc;Humiliate another Great Power to assert leadership over your common cultural union.;Humiliez une autre Grande Puissance pour imposer la primauté sur votre union culturelle commune.;Erniedrigen Sie eine andere Großmacht, um die Vorherrschaft über ihre gemeinsame Kulturunion zu übernehmen.;;Humillar a otra gran potencia para imponer el liderazgo sobre vuestra unión cultural común.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-REMOVE_unification_humiliate_cb_setup;Humiliate another Great Power to assert leadership over your common cultural union.;Humiliez une autre Grande Puissance pour imposer la primauté sur votre union culturelle commune.;Erniedrigen Sie eine andere Großmacht, um die Vorherrschaft über ihre gemeinsame Kulturunion zu übernehmen.;;Humillar a otra gran potencia para imponer el liderazgo sobre vuestra unión cultural común.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-unification_humiliate_cb_short;Admit Hegemony;Admettre l'hégémonie;Vorherrschaft anerkennen;;Aceptar hegemonía;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NORMAL_UNIFICATION_HUMILIATE_NAME;The $FIRST$-$SECOND$ Brother's War;$FIRST$-$SECOND$ guerre fraternelle ;$ORDER$$FIRST$-$SECOND$er Bruderkrieg;;La Guerra Fraticida $FIRST$-$SECOND$;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AGRESSION_UNIFICATION_HUMILIATE_NAME;The $FIRST$-$SECOND$ Brother's War;$FIRST$-$SECOND$ guerre fraternelle ;$ORDER$$FIRST$-$SECOND$er Bruderkrieg;;La Guerra Fraticida $FIRST$-$SECOND$;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+annex_hawaii_title;뉴랜즈 결의안;;;;;;;;;;;;;
+annex_hawaii_desc;<뉴랜즈 결의안>은 1898년 통과된 미국 의회의 양원 합동결의안으로, 프랜시스 G. 뉴랜즈 하원의원의 이름에서 따왔습니다. 미국은 결의안에 따라 하와이 준주를 창설함으로써 하와이 공화국을 병합했습니다.;;;;;;;;;;;;;
+ionian_islands_question_title;런던 조약(1864);;;;;;;;;;;;;
+ionian_islands_question_desc;이오니아제도는 나폴레옹 전쟁이 끝난 이후 줄곧 영국의 보호국 지위를 유지했습니다. 1862년, 보호국의 유지비가 비싸다고 여긴 영국은 2년간의 협상 끝에 이오니아제도를 그리스에 양도했습니다.;;;;;;;;;;;;;
+WARSUBSIDIES_DESC;해당 국가를 돕고자 매일마다 보조금을 [SUB_A7]Y$MONEY$[SUB_A7]W[SUB_A4]  제공합니다.;;;;;;;;;;;;;
+release_puppet;종속국 해방;;;;;;;;;;;;;
+release_puppet_short;$THIRD$ 해방;;;;;;;;;;;;;
+release_puppet_setup;$RECIPIENT$에 종속된 $THIRD$을 해방합니다.;;;;;;;;;;;;;
+release_puppet_desc;적국의 [SUB_A7]Y종속국[SUB_A7]W을 주권국으로 해방합니다.;;;;;;;;;;;;;
+IS_NOT_OUR_VASSAL; ≠ 우리나라의 종속국;;;;;;;;;;;;;
+IS_OUR_VASSAL; = 우리나라의 종속국;;;;;;;;;;;;;
+COUNTRYALERT_HaveOrganizingRebels;반군 세력이 조직을 키우고 있습니다!;;;;;;;;;;;;;
+TOTAL_REBEL_POP;반군 세력 회원;;;;;;;;;;;;;
+PROV2918;베냉만;;;;;;;;;;;;;;
+PROV2921;기니해안;;;;;;;;;;;;;;
+PROV2922;세네감비아해안;;;;;;;;;;;;;;
+NUMBER_OF_EMIREES;이달 [SUB_A7]Y$NUM$[SUB_A7]W명이 다른 국가로 이민갔습니다.;;;;;;;;;;;;;
+NUMBER_OF_IMMIGREES;이달 [SUB_A7]Y$NUM$[SUB_A7]W명이 다른 국가에서 이민왔습니다.;;;;;;;;;;;;;
+alaskan_purchase_title;수어드의 냉장고;;;;;;;;;;;;;
+alaskan_purchase_desc;크림 전쟁을 겪은 러시아는 영국과 또 다른 전쟁을 벌일 경우 북아메리카 영토의 보호를 바랄 수 없음을 확신하기 시작했고, 미국의 알래스카주가 될 영토의 매각을 고려하기 시작했습니다. 1867년 미국은 알래스카 지역을 1에이커(약 4050제곱미터)당 2.3센트(약 0.17파운드)에 매입했습니다. 미국 언론은 알래스카 매입에 대해 매입을 주도한 국무장관 윌리엄 H. 수어드의 이름을 따 '수어드의 냉장고'라며 조롱했습니다.;;;;;;;;;;;;;
+EVTNAME32509;알래스카 매각?;;;;;;;;;;;;;;
+EVTDESC32509;오늘 미국이 $COUNTRY_ADJ$ 북아메리카 영토 매각 협상을 시작하겠다고 제안하면서, 워싱턴 주재 대사관 임시대리대사 예두아르트 안드레예비치 스테클이 보낸 요청에 대한 결과가 나왔습니다. 미국인들은 알래스카 지역에 대해 1에이커(약 4050제곱미터)당 2.3센트(약 0.17파운드)의 가격을 제시합니다. 그리고 그 가격은 비교적 공정한 것 같습니다. 영국과의 전쟁이 일어나면 식민지의 방어가 어려울 수 있으므로, 지금 가격에 북아메리카 영토의 처분이 그렇게 나쁜 생각이 아닐 수도 있습니다. $MONARCHTITLE$, 어떻게 생각십니까?;;;;;;;;;;;;;;
+EVTOPTA32509;매각이 좋겠다.;;;;;;;;;;;;;;
+EVTOPTB32509;그렇게 생각하지 않는다. 미래에 알래스카까지 다리를 놓을지도 모르지 않는가?;;;;;;;;;;;;;;
+EVTNAME32510;러시아의 알래스카 매각 수락!;;;;;;;;;;;;;;
+EVTDESC32510;$MONARCHTITLE$, 러시아가 알래스카 매각에 동의했습니다!;;;;;;;;;;;;;;
+EVTOPTA32510;좋아!;;;;;;;;;;;;;;
+EVTNAME32511;러시아의 알래스카 매각 거부!;;;;;;;;;;;;;;
+EVTDESC32511;$MONARCHTITLE$, 알라스카 영토에 대한 러시아와의 협상은 교착상태에 빠졌고, 러시아는 알래스카 매각을 거부했습니다.;;;;;;;;;;;;;;
+EVTOPTA32511;젠장!;;;;;;;;;;;;;;
+IS_DISARMED; = 군비제한 국가;;;;;;;;;;;;;
+IS_NOT_DISARMED; ≠ 군비제한 국가;;;;;;;;;;;;;
+TRUCE_LASTS_UNTIL;휴전조약 만료일: [SUB_A7]Y$DATE$[SUB_A7]W;;;;;;;;;;;;;
+LOBBY_HOST_ONLY;방장만이 게임을 시작할 수 있습니다.;;;;;;;;;;;;;
+LOBBY_WAITING;모든 플레이어가 시작할 때까지 기다리거나 누락된 플레이어를 쫓아내야 합니다.;;;;;;;;;;;;;
+NO_UNIT_TECH;[SUB_A7]Y$UNIT$[SUB_A7]W 편제에는 [SUB_A7]Y$TECH$[SUB_A7]W 기술이 필요합니다.;;;;;;;;;;;;;
+NO_UNIT_REGIMENTS;[SUB_A7]Y$UNIT$[SUB_A7]W 편제에는 [SUB_A7]Y병사[SUB_A7]W 확충이 필요합니다.;;;;;;;;;;;;;
+NO_UNIT_PORTS;[SUB_A7]Y$UNIT$[SUB_A7]W 편제에는 [SUB_A7]Y연안 지역[SUB_A7]W이 필요합니다.;;;;;;;;;;;;;
+DIPLOMACY_WARDIALOG_ALLIES;[SUB_A7]Y$COUNTRY$[SUB_A7]W의 동맹국:;;;;;;;;;;;;;
+DIPLOMACY_WARDIALOG_NUM_ALLIES;[SUB_A7]Y$COUNTRY$[SUB_A7]W의 동맹국: [SUB_A7]Y$NUM$[SUB_A7]W개국;;;;;;;;;;;;;
+DIPLOMACY_WARDIALOG_ALLY;동맹국;;;;;;;;;;;;;
+WARGOAL_WE_ACCEPT_HEADER;외무대신 보고;;;;;;;;;;;;;
+WARGOAL_WE_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;;
+WARGOAL_WE_ACCEPT_2;$ACTOR$ 측이 $WARGOAL$ 요구를 통해;;;;;;;;;;;;;
+WARGOAL_WE_ACCEPT_3;현재 전쟁에 대해 확전을 결정했습니다.;;;;;;;;;;;;;
+WARGOAL_WE_ACCEPT_4;$ACTOR$ 바보들은 우리나라가 어떻게든 자신들에게 굴복하리라고 생각합니다.;;;;;;;;;;;;;
+WARGOAL_WE_ACCEPT_5;*;;;;;;;;;;;;;
+WARGOAL_WE_ACCEPT_6;그 오만을 응징해야겠습니다.;;;;;;;;;;;;;
+WARGOAL_WE_ACCEPT_BTN1;확인;;;;;;;;;;;;;
+WARGOAL_WE_ACCEPT_BTN2;확인;;;;;;;;;;;;;
+WARGOAL_WE_ACCEPT_BTN3;참조;;;;;;;;;;;;;
+WARGOAL_WE_ACCEPT_LOG;$ACTOR$ 측이 $WARGOAL$ 요구를 통해 우리나라와의 전쟁을 확대했습니다.;;;;;;;;;;;;;
+WARGOAL_THEY_ACCEPT_HEADER;외무대신 보고;;;;;;;;;;;;;
+WARGOAL_THEY_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;;
+WARGOAL_THEY_ACCEPT_2;우리나라가 $WARGOAL$ 요구를 통해;;;;;;;;;;;;;
+WARGOAL_THEY_ACCEPT_3;현재 전쟁에 대해 확전을 결정했습니다.;;;;;;;;;;;;;
+WARGOAL_THEY_ACCEPT_4;우리는 $RECIPIENT$에게 합리적이고자 노력했습니다.;;;;;;;;;;;;;
+WARGOAL_THEY_ACCEPT_5;*;;;;;;;;;;;;;
+WARGOAL_THEY_ACCEPT_6;이제 그들은 장기적 안목의 부재에 대한 대가를 치를 것입니다.;;;;;;;;;;;;;
+WARGOAL_THEY_ACCEPT_BTN1;확인;;;;;;;;;;;;;
+WARGOAL_THEY_ACCEPT_BTN2;확인;;;;;;;;;;;;;
+WARGOAL_THEY_ACCEPT_BTN3;참조;;;;;;;;;;;;;
+WARGOAL_THEY_ACCEPT_LOG;우리나라가 $WARGOAL$ 요구를 통해 $RECIPIENT$ 측과의 전쟁을 확대했습니다.;;;;;;;;;;;;;
+WARGOAL_OTHER_ACCEPT_HEADER;외무대신 보고;;;;;;;;;;;;;
+WARGOAL_OTHER_ACCEPT_1;$MONARCHTITLE$;;;;;;;;;;;;;
+WARGOAL_OTHER_ACCEPT_2;먼 곳에서의 소문에 따르면;;;;;;;;;;;;;
+WARGOAL_OTHER_ACCEPT_3;$ACTOR$ 측이 $WARGOAL$ 요구를 통해;;;;;;;;;;;;;
+WARGOAL_OTHER_ACCEPT_4;$RECIPIENT$ 측과의 전쟁에 대해;;;;;;;;;;;;;
+WARGOAL_OTHER_ACCEPT_5;확전을 결정했습니다.;;;;;;;;;;;;;
+WARGOAL_OTHER_ACCEPT_6;신경 써야 할 것 같습니다.;;;;;;;;;;;;;
+WARGOAL_OTHER_ACCEPT_BTN1;확인;;;;;;;;;;;;;
+WARGOAL_OTHER_ACCEPT_BTN2;확인;;;;;;;;;;;;;
+WARGOAL_OTHER_ACCEPT_BTN3;참조;;;;;;;;;;;;;
+WARGOAL_OTHER_ACCEPT_LOG;$ACTOR$이 $WARGOAL$ 요구를 통해 $RECIPIENT$ 측과의 전쟁을 확대했습니다.;;;;;;;;;;;;;
+NO_GP_ACTION_ON_SELF;스스로를 목표로 지정할 수 없습니다.;;;;;;;;;;;;;
+OL_VIEW_SIEGES;[SUB_A7]Y아군 점령[SUB_A7]W의 표시를 전환합니다.;;;;;;;;;;;;;
+BADBOY_EFFECT; 악명: $DIRECTION$ $VALUE$\n;;;;;;;;;;;;;
+unification_annex_casus_belli;통일전쟁;;;;;;;;;;;;;
+unification_annex_casus_belli_desc;우리나라가 속한 [SUB_A7]Y문화연합[SUB_A7]W의 영유권 보유 지역을 해방합니다.;;;;;;;;;;;;;
+unification_annex_casus_belli_setup;우리나라가 속한 [SUB_A7]Y문화연합[SUB_A7]W의 영유권 보유 지역을 해방합니다.;;;;;;;;;;;;;
+unification_annex_casus_belli_short;합병;;;;;;;;;;;;;
+enlightenment_thought;인권;;;;;;;;;;;;;
+enlightenment_thought_desc;인권;;;;;;;;;;;;;
+NORMAL_WAR_UNIFICATION_ANNEX_NAME;$ORDER$$SECOND_COUNTRY$ 해방전쟁;;;;;;;;;;;;;
+AGRESSION_WAR_UNIFICATION_ANNEX_NAME;$ORDER$$SECOND_COUNTRY$ 해방전쟁;;;;;;;;;;;;;
+springtime_of_nations;국민국가들의 봄!;;;;;;;;;;;;;;
+springtime_of_nations_desc;유럽의 잠든 국민국가들이 폭정과 압제의 망령을 뿌리치고 깨어납니다.;;;;;;;;;;;;;;
+HND_conservative;국민의회당;;;;;;;;;;;;;;
+HND_liberal;독립당;;;;;;;;;;;;;;
+HND_reactionary;국민전선;;;;;;;;;;;;;;
+HND_anarcho_liberal;자유당;;;;;;;;;;;;;;
+HND_socialist;인도 국민의회;;;;;;;;;;;;;;
+HND_communist;공산당;;;;;;;;;;;;;;
+HND_fascist;통합당;;;;;;;;;;;;;
+HND;인도;;;;;;;;;;;;;
+WEDID_ISDISCREDITED_DESC;$UNTIL$[SUB_A7]W까지 발언력을 실추합니다. 우리나라가 그 배후에 있습니다.;;;;;;;;;;;;;
+WEDID_ISBANNEDEMBASSY_DESC;[SUB_A7]Y$UNTIL$[SUB_A7]W까지 대사를 추방합니다. 우리나라가 그 배후에 있습니다.;;;;;;;;;;;;;
+OTHER_MUST_NEGOTIATE_WITH_WAR_LEADER;전쟁이 끝나므로 적 진영의 [SUB_A7]Y전쟁주도국[SUB_A7]W과 협상할 수 없습니다. 평화조약은 [SUB_A7]Y$ENEMY$[SUB_A7]W 측과 [SUB_A7]Y$COUNTRY$[SUB_A7]W 측만이 체결할 수 있습니다.;;;;;;;;;;;;;
+unification_humiliate_cb;패권 주장;;;;;;;;;;;;;
+REMOVE_unification_humiliate_cb_desc;다른 강대국과 공유하는 문화연합의 지도권을 이양받습니다.;;;;;;;;;;;;;
+REMOVE_unification_humiliate_cb_setup;다른 강대국과 공유하는 문화연합의 지도권을 이양받습니다.;;;;;;;;;;;;;
+unification_humiliate_cb_short;패권 인용;;;;;;;;;;;;;
+NORMAL_UNIFICATION_HUMILIATE_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 형제 전쟁;;;;;;;;;;;;;
+AGRESSION_UNIFICATION_HUMILIATE_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 형제 전쟁;;;;;;;;;;;;;
 PRODUCTION_REQUIRED_DAILY_INPUTS;Required daily inputs:;Matières premières quotidiennement requises :;Erforderlicher täglicher Input:;;Recursos diarios requeridos:;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 PRODUCTION_DAILY_OUTPUT;Daily output:;Production quot.;Tägliche Leistung:;;Producción diaria:;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 COUNTRYALERT_NO_HasClosedFactories;There are no bankrupt factories in our nation;Aucune usine n'est en faillite dans notre nation.;In unserer Nation gibt es keine bankrotten Fabriken.;;En nuestra nación no hay fábricas en bancarrota.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
