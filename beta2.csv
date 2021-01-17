@@ -135,16 +135,16 @@ tut_7b_8;아래 이미지는 범선의 세계시장 진입을 보여줍니다. �
 DIPLO_CALL_ALLIES;참전 요청;;;;;;;;;;;;;
 RULE_OPEN_FACTORY;공장 가동/폐쇄;;;;;;;;;;;;;
 PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_TOOLTIP;해당 공장을 철거할 수 [SUB_A7]R없습니다[SUB_A7]W.\n이유:\n;;;;;;;;;;;;;
-BE_ANNEXED;Annexed;Annexée;Annektiert;;Anexionada;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PW_COLONY_NO_STATE;At least §Y$NUM$§W% of the population need to be Bureaucrats of an accepted Culture in order to convert this colonial possession into a full national state. Current ratio is §Y$CURR$§W%;Au moins §Y$NUM$%§W de la population d'une culture acceptée doit être composée de bureaucrates pour convertir cette possession coloniale en État national à part entière.\nLa proportion actuelle est de §Y$CURR$%§W.;Mindestens §Y$NUM$§W% der Bevölkerung müssen Bürokraten einer akzeptierten Kultur sein, damit wir diesen Kolonialbesitz zu einem vollwertigen Nationalstaat machen können. Aktuelle Rate ist §Y$CURR$§W%;;Al menos un §Y$NUM$§W% de la población debe estar formado por burócratas de una cultura aceptada para poder convertir esta posesión colonial en un estado nacional completo. La proporción actual es de un §Y$CURR$§W%;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-REMOVE_PW_COLONY_NO_STATE;At least §Y$NUM$§W% of the population need to be Bureaucrats of an accepted Culture. Current ratio is §Y$CURR$§W%;Au moins §Y$NUM$%§W de la population d'une culture acceptée doit être composée de bureaucrates. La proportion actuelle est de §Y$CURR$%§W.;Mindestens §Y$NUM$§W% der Bevölkerung müssen Bürokraten einer akzeptierten Kultur sein. Aktuelle Rate ist §Y$CURR$§W%;;Al menos un §Y$NUM$§W% de la población tienen que ser burócratas de una cultura aceptada. La proporción actual es de un §Y$CURR$§W%;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BAD_SAVE;Error: Bad save.;Erreur : mauvaise sauvegarde;Fehler: Gespeicherter Spielstand schadhaft.;;Error: guardado defectuoso.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-tut_4c_12b;Let's continue to Army.;Passons à l'armée.;Lassen Sie uns nun mit der Armee fortfahren.;;Pasemos a Ejército;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-USA_reactionary;Southern Democrats;Démocrates du sud;Südliche Demokraten;;Demócratas sureños;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MILITARY_DIG_IN_CAP;Dig-in cap;Capacité à se retrancher;Eingrabungs-Limit;;Límite de atrincheramiento;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MILITARY_MILITARY_TACTICS;Military tactics;Tactiques militaires;Militärtaktik;;Tácticas militares;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-COUNTRYALERT_NO_CanDoDecisions;There are no decisions that presently demand our attention.;Actuellement, aucune décision ne nécessite notre attention.;Derzeit gibt es keine Entscheidungen, die unserer Aufmerksamkeit bedürfen.;;No hay decisiones que reclamen nuestra atención en estos momentos.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,
-POP_OTHER_LABEL;Other;Autres;Andere;;Otra;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BE_ANNEXED;합병됨;;;;;;;;;;;;;
+PW_COLONY_NO_STATE;해당 식민지를 주로 승격하려면 핵심/수용문화에 속한 관료가 [SUB_A7]Y$NUM$[SUB_A7]W% 이상이어야 합니다. 현재 비율은 [SUB_A7]Y$CURR$[SUB_A7]W%입니다.;;;;;;;;;;;;;
+REMOVE_PW_COLONY_NO_STATE;핵심/수용문화에 속한 관료가 [SUB_A7]Y$NUM$[SUB_A7]W% 이상이어야 합니다. 현재 비율은 [SUB_A7]Y$CURR$[SUB_A7]W%입니다.;;;;;;;;;;;;;;
+BAD_SAVE;오류: 잘못 저장했습니다.;;;;;;;;;;;;;
+tut_4c_12b;육군에서 계속합시다.;;;;;;;;;;;;;
+USA_reactionary;남부 민주당;;;;;;;;;;;;;;
+MILITARY_DIG_IN_CAP;참호 한도;;;;;;;;;;;;;
+MILITARY_MILITARY_TACTICS;군사 전술;;;;;;;;;;;;;
+COUNTRYALERT_NO_CanDoDecisions;현재 주의가 필요한 결정은 없습니다.;;;;;;;;;;;;;
+POP_OTHER_LABEL;기타;;;;;;;;;;;;;
 annex_hawaii_title;The Newlands Resolution;Résolution Newlands;Die Newlands Resolution;;La resolución Newlands;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 annex_hawaii_desc;The Newlands Resolution was a joint resolution of The U.S. Congress passed in 1898, and named after congressman Francis G. Newlands, which annexed the Republic of Hawaii to the United States, thus creating the Territory of Hawaii.;La résolution Newlands était une résolution commune du Congrès américain passée en 1898, du nom du congressiste Francis G. Newlands, qui annexa la République de Hawaï aux États-Unis, créant ainsi le Territoire de Hawaï.;Die Newlands Resolution war ein gemeinschaftlicher Beschluss des amerikanischen Kongresses und wurde im Jahr 1898 verabschiedet. Benannt wurde er nach dem Kongressabgeordneten Francis G. Newlands, der die Republik Hawaii für die USA annektierte und dadurch den Bundesstaat Hawaii schuf.;;La resolución Newlands fue una resolución conjunta del congreso de los EE. UU. aprobada en 1898, y bautizada así por el congresista Francis G. Newlands, por la que la República de Hawai quedaba anexionada a los Estados Unidos y se creaba el territorio de Hawai.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,
 ionian_islands_question_title;Treaty of London (1864);Traité de Londres (1864);Das Londoner Protokoll (1864);;Tratado de Londres (1864);;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
