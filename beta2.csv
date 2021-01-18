@@ -249,56 +249,58 @@ REMOVE_unification_humiliate_cb_setup;다른 강대국과 공유하는 문화연
 unification_humiliate_cb_short;패권 인용;;;;;;;;;;;;;
 NORMAL_UNIFICATION_HUMILIATE_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 형제 전쟁;;;;;;;;;;;;;
 AGRESSION_UNIFICATION_HUMILIATE_NAME;$ORDER$$FIRST_COUNTRY$-$SECOND_COUNTRY$ 형제 전쟁;;;;;;;;;;;;;
-PRODUCTION_REQUIRED_DAILY_INPUTS;Required daily inputs:;Matières premières quotidiennement requises :;Erforderlicher täglicher Input:;;Recursos diarios requeridos:;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PRODUCTION_DAILY_OUTPUT;Daily output:;Production quot.;Tägliche Leistung:;;Producción diaria:;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-COUNTRYALERT_NO_HasClosedFactories;There are no bankrupt factories in our nation;Aucune usine n'est en faillite dans notre nation.;In unserer Nation gibt es keine bankrotten Fabriken.;;En nuestra nación no hay fábricas en bancarrota.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-COUNTRYALERT_HasClosedFactories;There are bankrupt factories in the following states:;Il y a des usines en faillite dans les États suivants :;In folgenden Staaten gibt es bankrotte Fabriken:;;Hay fábricas en bancarrota en los siguientes estados:;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CHI_1496;Hong Kong & Macao;Hong Kong & Macao;Hong Kong & Macao;;Hong Kong y Macao;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ANY_STATE_STARTS;Any State;Tout État;Beliebiger Staat;;Cualquier estado;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-indian_sepoys_title;Sepoy Rebels;Rebelles Cipayes;Sepoy-Rebellen;;Rebeldes cipayos;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-indian_sepoys_name;Indian Sepoys;Cipayes indiens;Sepoyaufstand;;Cipayos indios;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-indian_sepoys_desc;A Sepoy, from the Persian 'Siphai', meaning soldier, was a term generally applied to indian soldiers in the service of a European Power. In 1857 a number of Sepoys employed by the British East India Company rose in rebellion against British rule in what has been called both 'The Sepoy Rebellion' and 'India's First War of Independence'. Rebelling Sepoys fight for Indian Freedom from colonial rule.;Un cipaye," du perse ""Siphai"" qui signifie ""soldat""", désignait généralement un soldat indien au service d'une puissance européenne. En 1857," plusieurs Cipayes employés par la Compagnie anglaise des Indes orientales se rebellèrent contre l'autorité britannique au cours de ce qu'on a appelé la ""Révolte des Cipayes"" et la ""Première guerre d'indépendance de l'Inde"". Les Cipayes rebelles luttent pour libérer l'Inde du joug colonial.;Sepoy", abgeleitet vom persischen Wort 'Siphai' für Soldat, war ein Ausdruck, der allgemein für indische Soldaten in den Diensten einer europäischen Macht benutzt wurde. Im Jahr 1857 rebellierten Sepoys im Sold der British East India Company gegen die britische Herrschaft. Dies wurde mit 'Sepoyaufstand' und 'Erster indischer Unabhängigkeitskrieg' bezeichnet. Die rebellierenden Sepoys kämpften für die Befreiung Indiens von der Kolonialherrschaft.;;Cipayo, del persa 'Siphai', que significa 'soldado', era un término generalmente aplicado a los soldados indios al servicio de una potencia europea. En 1857, cierto número de cipayos empelados por Compañía Británica de las Indias Orientales se rebeló contra el gobierno británico en lo que se conoce tanto por el nombre de 'La rebelión cipaya' como por el de 'Primera Guerra de Independencia India'. Los cipayos rebeldes luchan por liberar a la India del gobierno colonial.;;;;;;;;;x;;,,,,,,,,,,,,,,,,
-indian_sepoys_army;Sepoy Rebellion;Révolte des Cipayes;Sepoyaufstand;;Rebelión cipaya;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-REMOVED_BUDGET_CANT_LOAN_DESC;Banks will only loan you money if you have been meeting your interest payments and are not hostile. Foreign banks will also never loan you more than $MAXLOAN$% of their total available funds for security reasons.;Les banques ne vous prêteront d'argent que si vous avez respecté les paiements de vos intérêts et n'êtes pas hostile. Pour des raisons de sécurité, les banques étrangères ne vous prêteront jamais plus de $MAXLOAN$% de leurs fonds totaux disponibles.;Banken leihen Ihnen nur dann Geld, wenn Sie Ihren Zinszahlungen nachgekommen sind und nicht als feindlich eingestuft werden. Ausländische Banken leihen Ihnen aus Sicherheitsgründen außerdem niemals mehr als $MAXLOAN$% ihrer gesamten Geldmittel.;;Los bancos solo te prestarán dinero si has cumplido con el pago de tus intereses y no eres hostil. Además, los bancos extranjeros nunca te prestarán más del $MAXLOAN$% de sus fondos totales disponibles, por razones de seguridad.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,
-WE_ARE_DISCREDITED;We are discredited;Nous sommes discrédités.;Wir wurden in Verruf gebracht;;Estamos desacreditados;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-INFLUENCE_NEIGHBOUR;Neighbouring nation;Nation voisine;Nachbarnation;;Nación vecina;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-INFLUENCE_OTHER_CONTINENT;Nation is on another continent;La nation se trouve sur un autre continent.;Nation befindet sich auf einem anderen Kontinent;;La nación está en otro continente;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-INFLUENCE_RELATIVE;Total score of nation relative to our total score;Score total de la nation par rapport au nôtre;Gesamtpunkte der Nation in Beziehung zu unseren Gesamtpunkten;;Puntuación total de nación, en relación con nuestra puntuación total;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-INFLUENCE_AT_MAX;We cannot have more than §Y$MAX$§W influence in a single nation;Nous ne pouvons pas bénéficier de plus de §Y$MAX$§W d'influence dans une même nation.;Wir können in einer einzelnen Nation nicht mehr als §Y$MAX$§W Einfluss haben.;;No podemos tener una influencia superior a §Y$MAX$§W en una sola nación;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DIPLOMACY_DAILYINFLULENCE_GAIN;We gain §Y$NUM$§W influence in §Y$COUNTRY$§W each day. Our base influence gain is §Y$BASE$§W;Nous gagnons quotidiennement §Y$NUM$§W points d'influence en §Y$COUNTRY$§W. Notre gain d'influence de base s'élève à §Y$BASE$§W;Wir erhalten in §Y$COUNTRY$§W täglich zusätzlich §Y$NUM$§W Einfluss. Unser Basis-Einfluss-Zugewinn ist §Y$BASE$§W;;Obtenemos una influencia de §Y$NUM$§W en §Y$COUNTRY$§W cada día. Nuestra ganancia base de influencia es de §Y$BASE$§W;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DECL_WAR_NO_VASSAL;We are not allowed to declare war against §Ysatellites§W or §Ydominions§W;Nous ne sommes pas autorisés à déclarer la guerre à des §Ysatellites§W ou §Ydominions§W.;Wir dürfen §YSatellitenstaaten§W oder §YDominions§W nicht den Krieg erklären.;;No podemos declarar la guerra contra §Ysatélites§W o §Ydominios§W;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-austrian_form_south_german_confederation_title;The South German Confederation;La Confédération d'Allemagne du sud;Der Süddeutsche Bund;;La Confederación de Alemania del Sur;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-austrian_form_south_german_confederation_desc;While Germany was not united until the proclamation of the German Empire, following the Franco-Prussian war, rising nationalism in the 19th century had meant that unification had been on the cards long before that, with the Frankfurt assembly of 1848 being an important forerunner. By achieving a dominant position among the South German states, we can form the South German Confederation.;Il fallut attendre la proclamation de l'Empire allemand qui suivit la guerre franco-allemande pour assister à l'unification de l'Allemagne. Pourtant, avec la montée du nationalisme au XIXe siècle, l'unification aurait été possible bien avant cela, comme en témoigne l'assemblée de Francfort de 1848. En nous imposant dans les États du sud, nous formerons les États du sud de l'Allemagne.;Obwohl Deutschland bis zur Proklamation des Deutschen Kaiserreichs nach dem deutsch-französischen Krieg nicht geeint war, bedeutete der steigende Nationalismus des neunzehnten Jahrhunderts, dass eine Vereinigung schon seit langer Zeit geplant war. Ein wichtiges vorbereitendes Ereignis war die Frankfurter Nationalversammlung von 1848. Wenn wir uns eine dominierende Position unter den norddeutschen Staaten erarbeiten, können wir den Süddeutschen Bund gründen.;;Aunque Alemania no estuvo unida hasta la proclamación del Imperio Alemán, tras la guerra franco-prusiana, el nacionalismo emergente del siglo XIX puso de relieve que la unificación era inevitable. La asamblea de Frankfurt de 1848 supuso un importante precedente. Al alcanzar una posición dominante entre los estados germanos meridionales, podemos formar la Confederación de Alemania del Sur.;;;;;;;;;x;;,,,,,,,,,,,,,,,
-OL_HOSTILE_SIEGES;Hostile occupation;Occupation ennemie;Feindliche Besetzung;;Ocupación hostil;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL_VIEW_HOSTILE_SIEGES;Toggles §YHostile Occupation§W view.;Active la vue §YOccupation ennemie§W.;Schaltet §YFeindliche Besetzung§W-Ansicht um.;;Activa/Desactiva la vista de §YOcupación hostil§W;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-civil_war_setup;End the war by reuniting our nation under a common banner again.;Mettez fin à la guerre en réunifiant notre nation sous une même bannière.;Beenden Sie den Krieg durch die Wiedervereinigung unserer Nation unter einer gemeinsamen Flagge.;;Poner fin a la guerra reunificando de nuevo nuestra nación bajo un estandarte común.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-POOR_MILITANCY_MORE_THAN;Poor strata militancy more than ;Militantisme des classes défavorisées supérieur à ;Militanz der Unterschicht höher als ;;Militancia de estrato pobre de más de ;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MIDDLE_MILITANCY_MORE_THAN;Middle strata militancy more than ;Militantisme des classes moyennes supérieur à ;Militanz der Mittelschicht höher als ;;Militancia de clase media de más de ;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-RICH_MILITANCY_MORE_THAN;Rich strata militancy more than ;Militantisme des classes supérieures supérieur à ;Militanz der Oberschicht höher als ;;Militancia de estrato rico de más de ;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-POOR_MILITANCY_LESS_THAN;Poor strata militancy less than ;Militantisme des classes défavorisées inférieur à ;Militanz der Unterschicht geringer als ;;Militancia de estrato pobre de menos de ;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MIDDLE_MILITANCY_LESS_THAN;Middle strata militancy less than ;Militantisme des classes moyennes inférieur à ;Militanz der Mittelschicht geringer als ;;Militancia de clase media de menos de ;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-RICH_MILITANCY_LESS_THAN;Rich strata militancy less than ;Militantisme des classes supérieures inférieur à ;Militanz der Oberschicht geringer als ;;Militancia de estrato rico de menos de ;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PRODUCTION_SORT_BY_AVAILABLE_WORKFORCE_TOOLTIP;Sort by unemployed §Y$TYPE$§W;Classer par §Y$TYPE$§W sans emploi;Sortieren nach arbeitslosen §Y$TYPE$§W;;Ordenar por §Y$TYPE$§W desempleados;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PRODUCTION_SORT_BY_AVG_INVESTORS_TOOLTIP;Sort by average §Y$TYPE$§W in state;Classer par §Y$TYPE$§W moyen dans l'État;Sortieren nach durchschnittlichen §Y$TYPE$§W im Staat;;Ordenar por media de §Y$TYPE$§W en el estado;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PRODUCED_DETAIL;$VAL$ available for our country;$VAL$ sur notre marché commun (priorité/rang);$VAL$ für unser Land verfügbar;;$VAL$ disponible para nuestro país;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-TRADE_AVAILABLE;Available;Dispo.;Verfügbar;;Dispone;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SPA_2517;Micronesia;Micronésie;Mikronesien;;Micronesia;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-hungarian_culture_group;Hungarian;Hongrois;Ungarisch;;Húngara;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-polish_culture_group;Polish;Polonais;Polnisch;;Polaca;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-czecho_slovak_culture_group;Czecho-Slovak;Tchécoslovaque;Tschechoslowakisch;;Checoslovaca;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DZG_ADJ;Danziger;Danzigeois;Danziger;;de Danzig;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EVTNAME13201;Diplomatic Mission under Siege!;Notre mission diplomatique assiégée !;Botschaft wird belagert!;;¡Misión diplomática bloqueada!;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EVTDESC13201;News reaches us from $FROMCOUNTRY$ that the local ruling elites have thrown our ambassador out of the country, and that their troops are laying siege to our embassy with apparent intent to enforce that decision. This affair is developing into an enormous loss of international face, one which can only be avoided through a formal declaration of war against $FROMCOUNTRY$. Sire, how should we respond?;Nous venons d'apprendre que les élites locales de $FROMCOUNTRY$ ont expulsé notre ambassadeur et que leurs troupes assiègent notre ambassade. Cette affaire s'avère lourde de conséquences aux yeux du monde et il nous faut reprendre les choses en mains en déclarant la guerre à $FROMCOUNTRY$. Monsieur, que devons-nous faire ?;Uns erreichen Nachrichten aus $FROMCOUNTRY$, dass die lokale Herrscherelite unseren Botschafter des Landes verwiesen hat, und dass ihre Truppen unsere Botschaft anscheinend mit der Absicht belagern, diese Entscheidung auch durchzusetzen. Diese Affäre bedeutet für uns einen gewaltigen internationalen Gesichtsverlust, auf den wir nur mit einer formalen Kriegserklärung an $FROMCOUNTRY$ reagieren können. Wir sollen wir handeln?;;Nos llega la noticia desde $FROMCOUNTRY$ de que las élites gobernantes locales han expulsado del país a nuestro embajador y sus tropas han sitiado nuestra embajada con la clara intención de hacer cumplir tal decisión. Este asunto está derivando en una enorme pérdida de prestigio internacional, que solo se podrá contener mediante una declaración formal de guerra contra $FROMCOUNTRY$. Señor, ¿cómo debemos responder?;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,
-EVTOPTA13201;By Jingo!;Bon sang !;Auf in den Krieg!;;¡Por Jingo!;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EVTOPTB13201;Perhaps we should let the $FROMCOUNTRY_ADJ$ Dragon sleep.;Nous devrions peut-être laisser le dragon $FROMCOUNTRY_ADJ$ dormir.;Vielleicht sollten wir den $FROMCOUNTRY_ADJ$en Drachen schlafen lassen.;;Quizá deberíamos dejar dormir a la hidra $FROMCOUNTRY_ADJ$.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-annex_core_country;Restore Order;Rétablir l'ordre;Stellen Sie die Ordnung wieder her;;Restablecer el orden;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-annex_core_country_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;Anexionar $RECIPIENT$;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-annex_core_country_setup;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;Anexionar $RECIPIENT$;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-annex_core_country_desc;Annex a foreign §Ycountry§W all provinces of which are your cores.;Annexez un §Ypays§W étranger dont toutes les provinces sont vos territoires clés.;Annektieren Sie alle Provinzen eines ausländischen §YLandes§W, die zu Ihren Kernprovinzen gehören.;;Anexiona un §Ypaís§W extranjero cuyas provincias son todas núcleos tuyos.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-liberal_rebels_title;Jacobin Rebels;Rebelles Jacobins;Jakobinische Rebellen;;Rebeldes jacobinos;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-liberal_rebels_name;Jacobin Rebels;Rebelles Jacobins;Jakobinische Rebellen;;Rebeldes jacobinos;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-liberal_rebels_desc;Liberal Jacobin Rebels strive for the inclusion of broader stratas of the population in the government of the nation. In an absolute monarchy they will rise to impose a constitutional monarchy, whereas they in all other cases seek to establish a democracy.;Les rebelles Jacobins libéraux luttent pour inclure des classes plus larges de la population dans le gouvernement de la nation. En présence d'une monarchie absolue, ils se dresseront pour imposer une monarchie constitutionnelle, s'ils ne cherchent pas à établir une démocratie.;Liberale jakobinische Rebellen streben danach, größere Teile unserer Bevölkerung in die Regierung unseres Landes zu integrieren. In einer absoluten Monarchie werden sie sich zur Erzwingung einer konstitutionellen Monarchie erheben. In anderen Situationen werden sie sich für die Errichtung einer Demokratie einsetzen.;;Los rebeldes jacobinos liberales pugnan por la inclusión de estratos más amplios de la población en el gobierno de la nación. En una monarquía absoluta, se alzarán para imponer una monarquía constitucional, mientras que en cualquier otro caso buscarán establecer una democracia.;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,
-liberal_rebels_army;Republican Guard;Garde républicaine;Republikanische Wache;;Guardia republicana;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_RESTORE_ORDER_NAME;$ORDER$$FIRST$ Restoration of Order to the $SECOND$ provinces;$ORDER$$FIRST$ rétablissement de l'ordre dans les provinces de $SECOND$;$ORDER$$FIRST$e Wiederherstellung der Ordnung in den $SECOND$en Provinzen;;$ORDER$ Restauración $FIRST$ del orden en las provincias $SECOND$;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AGRESSION_WAR_RESTORE_ORDER_NAME;$ORDER$$FIRST$ Restoration of Order to the $SECOND$ provinces;$ORDER$$FIRST$ rétablissement de l'ordre dans les provinces de $SECOND$;$ORDER$$FIRST$e Wiederherstellung der Ordnung in den $SECOND$en Provinzen;;$ORDER$ Restauración $FIRST$ del orden en las provincias $SECOND$;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NOT_ENOUGH_FOR_BRIGADE;There is not enough currently to mobilize a brigade;Il ny a pas assez de soldats pour mobiliser un régiment.;Es gibt zur Mobilisierung einer Brigade derzeit nicht ausreichend viele Soldaten;;En este momento no hay suficiente para movilizar una brigada;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PRODUCTION_REQUIRED_DAILY_INPUTS;필요 일일 투입량:;;;;;;;;;;;;;
+PRODUCTION_DAILY_OUTPUT;일일 생산량:;;;;;;;;;;;;;
+COUNTRYALERT_NO_HasClosedFactories;파산한 공장이 없습니다.;;;;;;;;;;;;;
+COUNTRYALERT_HasClosedFactories;파산한 공장 목록:;;;;;;;;;;;;;
+CHI_1496;홍콩 및 마카오;;;;;;;;;;;;;;
+ANY_STATE_STARTS; 주 전체;;;;;;;;;;;;;
+indian_sepoys_title;세포이 항쟁군;;;;;;;;;;;;;
+indian_sepoys_name;인도인 세포이;;;;;;;;;;;;;
+indian_sepoys_desc;페르시아어로 군인을 뜻하는 '시파이'에서 유래한 세포이는 유럽 강대국이 고용한 인도인 용병을 일반적으로 가리키는 용어입니다. 1857년 영국 동인도회사가 고용한 많은 세포이가 영국의 통치에 대항해 '세포이 항쟁' 또는 '제1차 인도 독립전쟁'이라고 불리는 반란을 일으켰습니다. 세포이는 식민지 지배로부터 인도의 자유를 위해 싸웁니다.;;;;;;;;;;;;;
+indian_sepoys_army;세포이 항쟁군;;;;;;;;;;;;;
+HND_ADJ;인도령;;;;;;;;;;;;;
+ALD;알제리;;;;;;;;;;;;;
+REMOVED_BUDGET_CANT_LOAN_DESC;은행은 우리나라가 이자 지급을 충족하며 적대적이지 않은 경우에만 채무를 제공합니다. 외국 은행들은 현재 보안상의 이유를 들어 가용 총자금 중 $MAXLOAN$[SUB_A4] 이상으로는 채무를 제공하지 않을 것입니다.;;;;;;;;;;;;;
+WE_ARE_DISCREDITED;발언력 실추 상태;;;;;;;;;;;;;
+INFLUENCE_NEIGHBOUR;인접국;;;;;;;;;;;;;
+INFLUENCE_OTHER_CONTINENT;다른 대륙에 위치;;;;;;;;;;;;;
+INFLUENCE_RELATIVE;총점 비교;;;;;;;;;;;;;
+INFLUENCE_AT_MAX;이미 영향력을 최대([SUB_A7]Y$MAX$[SUB_A7]W)로 투사하고 있습니다.;;;;;;;;;;;;;
+DIPLOMACY_DAILYINFLULENCE_GAIN;매일마다 [SUB_A7]Y$COUNTRY$[SUB_A7]W에 영향력을 [SUB_A7]Y$NUM$[SUB_A7]W 투사합니다. 기본 영향력 증가량은 [SUB_A7]Y$BASE$[SUB_A7]W입니다.;;;;;;;;;;;;;
+DECL_WAR_NO_VASSAL;[SUB_A7]Y종속국[SUB_A7]W/[SUB_A7]Y자치령[SUB_A7]W에게는 전쟁을 선포할 수 없습니다.;;;;;;;;;;;;;
+austrian_form_south_german_confederation_title;남독일 연방;;;;;;;;;;;;;
+austrian_form_south_german_confederation_desc;독일은 프로이센-프랑스 전쟁 이후의 독일 제국 선포 전까지 통일되지 않았지만, 19세기에 발흥한 민족주의는 1848년 통일이 훨씬 오래 전부터 발생했으며 프랑크푸르트 회의가 그 중요한 전조라는 사실을 의미했습니다. 남독일 국가들 사이에서 지배적인 위치를 확보함으로써 남독일 연방을 결성할 수 있습니다.;;;;;;;;;;;;;
+OL_HOSTILE_SIEGES;적군 점령;;;;;;;;;;;;;
+OL_VIEW_HOSTILE_SIEGES;[SUB_A7]Y적군 점령[SUB_A7]W의 표시를 전환합니다.;;;;;;;;;;;;;
+civil_war_setup;다시 하나의 깃발 아래 전국을 통일함으로써 전쟁을 끝냅니다.;;;;;;;;;;;;;
+POOR_MILITANCY_MORE_THAN; 하류층 투쟁도 > ;;;;;;;;;;;;;
+MIDDLE_MILITANCY_MORE_THAN; 중류층 투쟁도 > ;;;;;;;;;;;;;
+RICH_MILITANCY_MORE_THAN; 상류층 투쟁도 > ;;;;;;;;;;;;;
+POOR_MILITANCY_LESS_THAN; 하류층 투쟁도 < ;;;;;;;;;;;;;
+MIDDLE_MILITANCY_LESS_THAN; 중류층 투쟁도 < ;;;;;;;;;;;;;
+RICH_MILITANCY_LESS_THAN; 상류층 투쟁도 < ;;;;;;;;;;;;;
+PRODUCTION_SORT_BY_AVAILABLE_WORKFORCE_TOOLTIP;[SUB_A7]Y$TYPE$[SUB_A7]W 실업자 순서대로 정렬합니다.;;;;;;;;;;;;;
+PRODUCTION_SORT_BY_AVG_INVESTORS_TOOLTIP;주의 평균 [SUB_A7]Y$TYPE$[SUB_A7]W 순서대로 정렬합니다.;;;;;;;;;;;;;
+PRODUCED_DETAIL;국내 총유통량: $VAL$;;;;;;;;;;;;;
+TRADE_AVAILABLE;유통;;;;;;;;;;;;;
+SPA_2517;미크로네시아;;;;;;;;;;;;;;
+hungarian_culture_group;헝가리 문화권;;;;;;;;;;;;;;
+polish_culture_group;폴란드 문화권;;;;;;;;;;;;;;
+czecho_slovak_culture_group;체코-슬로바키아 문화권;;;;;;;;;;;;;;
+DZG_ADJ;단치히령;;;;;;;;;;;;;
+EVTNAME13201;$COUNTRY$ 외교단 포위!;;;;;;;;;;;;;
+EVTDESC13201;$FROMCOUNTRY$ 현지 지배층이 우리 대사를 국외로 내쫓았으며, $FROMCOUNTRY$ 군대가 명백한 의도를 가지고 우리 대사관을 포위 공격하고 있다는 소식이 전해졌습니다. 이번 사건은 국제적 체면의 거대한 손실로 발전하고 있으며, $FROMCOUNTRY$에 대한 공식적인 선전포고를 통해서만 피할 수 있을 것 같습니다. $MONARCHTITLE$, 어떻게 대응해야 할까요?;;;;;;;;;;;;;
+EVTOPTA13201;결단코!;;;;;;;;;;;;;
+EVTOPTB13201;잠자는 용인 $FROMCOUNTRY$을 깨울 수도 있다.;;;;;;;;;;;;;
+annex_core_country;질서회복;;;;;;;;;;;;;
+annex_core_country_short;$RECIPIENT$ 합병;;;;;;;;;;;;;
+annex_core_country_setup;$RECIPIENT$을 합병합니다.;;;;;;;;;;;;;
+annex_core_country_desc;국토 전역이 우리나라의 영유권에 속한 [SUB_A7]Y국가[SUB_A7]W를 합병합니다.;;;;;;;;;;;;;
+liberal_rebels_title;자코뱅 반군;;;;;;;;;;;;;;
+liberal_rebels_name;자코뱅 반군;;;;;;;;;;;;;;
+liberal_rebels_desc;자유주의자인 자코뱅 반군은 정부에 더 많은 계층을 포함하고자 노력합니다. 전제군주제 하에서는 입헌군주제를 실현하려 하며, 이외의 통치체제에서는 민주주의를 실현하려 합니다.;;;;;;;;;;;;;;
+liberal_rebels_army;공화국 수비대;;;;;;;;;;;;;;
+NORMAL_WAR_RESTORE_ORDER_NAME;$ORDER$$SECOND_COUNTRY$ 질서 회복 전쟁;;;;;;;;;;;;;;
+AGRESSION_WAR_RESTORE_ORDER_NAME;$ORDER$$SECOND_COUNTRY$ 질서 회복 전쟁;;;;;;;;;;;;;;
+NOT_ENOUGH_FOR_BRIGADE;여단을 충분히 동원하지 못했습니다.;;;;;;;;;;;;;
