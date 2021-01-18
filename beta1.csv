@@ -275,7 +275,7 @@ EVTOPTA19320;만세!;;;;;;;;;;;;;
 form_union_nation_title;$CULTURE_GROUP_UNION$ 결성;;;;;;;;;;;;;
 form_union_nation_desc;동포 사이에서의 우세한 지위를 통해 $CULTURE_GROUP_UNION$을 결성할 수 있습니다.;;;;;;;;;;;;;
 BE_SECOND_RANK;지역강국;;;;;;;;;;;;;
-COUNTRYALERT_HasUnemployedWorkers;실업자 공장 노동자 목록:;;;;;;;;;;;;;
+COUNTRYALERT_HasUnemployedWorkers;실업한 공장 노동자 목록:;;;;;;;;;;;;;
 REMOVE_TOPBAR_POPULATION;성인 남성 인구는 $CURR$입니다. 매달마다 대략적으로 $CHANGE$ 변합니다.;;;;;;;;;;;;;
 TOPBAR_POPULATION_VISUAL;총인구: $CURR$명;;;;;;;;;;;;;
 BUILD_COLONIAL;비식민주;;;;;;;;;;;;;
