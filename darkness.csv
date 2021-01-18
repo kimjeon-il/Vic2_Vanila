@@ -681,5 +681,5 @@ BP_TOOL_ICON_COLONY;식민지;;;;;;;;;;;;;
 BP_TOOL_ICON_WARGOAL_1;전쟁목표 1;;;;;;;;;;;;;
 BP_TOOL_ICON_WARGOAL_2;전쟁목표 2;;;;;;;;;;;;;
 TAKE_SIDE_PENALTY;세력에 합류하지 않을 경우 위신 불이익: [SUB_A7]R$VAL$[SUB_A7]W;;;;;;;;;;;;;
-NO_CALL_ALLY_CRISIS;대전쟁 활성화되기 전에는 위기로 인한 전쟁에 동맹국을 참전시킬 수 없습니다.;;;;;;;;;;;;;
+NO_CALL_ALLY_CRISIS;대전쟁이 활성화되기 전에는 위기로 인한 전쟁에 동맹국을 참전시킬 수 없습니다.;;;;;;;;;;;;;
 PRODUCTION_BONUS;$BON$ 추가 생산량:;;;;;;;;;;;;;
