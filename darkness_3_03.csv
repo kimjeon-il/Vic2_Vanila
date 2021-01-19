@@ -1,13 +1,58 @@
-GIVE_UNIT_COMMAND_BUTTON;Command Units;;Kontrolliere Einheiten;;;;;;;;x
-GIVE_UNIT_COMMANDTITLE;Command Units;;Kontrolliere Einheiten;;;;;;;;x
-GIVE_UNIT_COMMAND_DESC;While fighting a war together, a puppet's overlord may take command of their units.;;W�hrend sie gemeinsam einen Krieg bestreiten, darf der Herrscher die Kontrolle �ber die Einheiten seiner Marionetten �bernehmen.;;;;;;;;x
-GIVE_UNIT_COMMAND_OK;Ask your puppet to take back command over their own units.;;Frage deine Marionette, ob sie die Kontrolle �ber ihre Einheiten zur�ckerlangen will.;;;;;;;;x
-GIVE_UNIT_COMMAND_CANT_CONTROL;You can command units of your �Ypuppets�! only when you are fighting in a war together.;;Sie k�nnen die Einheiten Ihrer �YMarionetten�! nur dann kontrollieren, wenn Sie gemeinsam einen Krieg bestreiten.;;;;;;;;x
-GIVE_UNIT_COMMAND_ALREADY_CONTROL;You are already in command of their units.;;Sie kontrollieren schon ihre Einheiten.;;;;;;;;x
-CANCEL_UNIT_COMMAND_BUTTON;Give Back Units;;Einheiten zur�ckgeben;;;;;;;;x
-CANCEL_UNIT_COMMANDTITLE;Give Back Units;;Einheiten zur�ckgeben;;;;;;;;x
-CANCEL_UNIT_COMMAND_DESC;Give Back Units;;Einheiten zur�ckgeben;;;;;;;;x
-CANCEL_UNIT_COMMAND_OK;Give them back their units.;;Geben Sie ihnen ihre Einheiten zur�ck.;;;;;;;;x
-CANCEL_UNIT_COMMAND_NOT_IN_CONTROL;You are not in command of this unit.;;Sie kontrollieren diese Einheit nicht.;;;;;;;;x
-cut_down_to_size_boxer_setup;Force China to pay for the crimes of the Boxer rebels.;;Zwinge China, f�r die Verbrechen der Boxer-Rebellen zu b��en.;;;;;;;;x
-cut_down_to_size_boxer_short;Force China to pay for the Boxer's crimes.;;Zwinge China, f�r die Verbrechen der Boxer zu b��en.;;;;;;;;x
+Key;English;;;;;;;;;;;;;
+GIVE_UNIT_COMMAND_BUTTON;지휘권 인수;;;;;;;;;;;;;
+GIVE_UNIT_COMMANDTITLE;지휘권 인수;;;;;;;;;;;;;
+GIVE_UNIT_COMMAND_DESC;전시에 종주국은 함께 싸우는 종속국 및 번국의 지휘권을 인수할 수 있습니다.;;;;;;;;;;;;;
+GIVE_UNIT_COMMAND_OK;종속국 및 번국에게 자국군 부대에 대한 지휘권의 인수를 요청합니다.;;;;;;;;;;;;;
+GIVE_UNIT_COMMAND_CANT_CONTROL;[SUB_A7]Y종속국 및 번국[SUB_A7]W과 전쟁에서 함께 싸우고 있어야만 지휘권을 인수할 수 있습니다.;;;;;;;;;;;;;
+GIVE_UNIT_COMMAND_ALREADY_CONTROL;이미 부대 지휘권을 인수했습니다.;;;;;;;;;;;;;
+CANCEL_UNIT_COMMAND_BUTTON;지휘권 반환;;;;;;;;;;;;;
+CANCEL_UNIT_COMMANDTITLE;지휘권 반환;;;;;;;;;;;;;
+CANCEL_UNIT_COMMAND_DESC;종속국/번국의 지휘권을 반환합니다.;;;;;;;;;;;;;
+CANCEL_UNIT_COMMAND_OK;종속국/번국의 지휘권을 반환합니다.;;;;;;;;;;;;;
+CANCEL_UNIT_COMMAND_NOT_IN_CONTROL;지휘권을 인수하지 않았습니다.;;;;;;;;;;;;;
+cut_down_to_size_boxer_setup;중국에게 의화단 반군의 범죄행위에 대한 배상을 요청합니다.;;;;;;;;;;;;;;
+cut_down_to_size_boxer_short;중국에게 의화단의 범죄에 대한 배상 요청;;;;;;;;;;;;;
+LACK_OF_MAINTENANCE_GOODS;유지품 부족;;;;;;;;;;;;;
+AIREASON_TOO_MANY_CRISIS_WARGOALS;전쟁목표 추가함;;;;;;;;;;;;;
+AIREASON_NOT_OVERLORD;종주국 아님;;;;;;;;;;;;;
+EVTNAME36230;북극곰 매입;;;;;;;;;;;;;
+EVTDESC36230;얀마옌이 모든 북극곰을 좋은 가격에 매입하겠다고 제안하고 있습니다. 얀마옌 측은 이 장엄한 생물에게 주어진 보살핌과 존엄성을 통해 북극곰을 대하겠다고 약속했습니다.;;;;;;;;;;;;;
+EVTOPTA36230;좋아!;;;;;;;;;;;;;
+EVTOPTB36230;어림없는 소리!;;;;;;;;;;;;;
+EVTNAME36231;덴마크의 북극곰 매입 수락;;;;;;;;;;;;;
+EVTDESC36231;덴마크가 북극곰 매각에 동의했습니다.;;;;;;;;;;;;;
+EVTOPTA36231;대단해!;;;;;;;;;;;;;
+EVTNAME36232;덴마크의 북극곰 매입 거부;;;;;;;;;;;;;
+EVTDESC36232;덴마크가 북극곰 매각을 거부했습니다.;;;;;;;;;;;;;
+EVTOPTA36232;안돼!;;;;;;;;;;;;;
+the_greenland_purchase_title;북극곰 매입;;;;;;;;;;;;;
+the_greenland_purchase_desc;세계의 모든 북극곰이 하나의 깃발 아래 단결하지 않았다는 사실은 얀마옌의 위대한 사람들에게 골치 아픈 사실입니다. 덴마크에 접근해서 북극곰들을 매각할 의향이 있는지 알아봐야 합니다.;;;;;;;;;;;;;
+bears;곰 문화권;;;;;;;;;;;;;
+polar_bears;북극곰;;;;;;;;;;;;;
+INFLUENCE_SPHERE_NEIGHBOUR;인접 영향권 구성국;;;;;;;;;;;;;
+col_liferate_techs;지역 생활등급 향상 기술:;;;;;;;;;;;;;
+unite_moldavia_wallachia_title;몰다비아-왈라키아 연합!;;;;;;;;;;;;;
+unite_moldavia_wallachia_desc;몰다비아와 왈라키아는 함께 모여 통일 루마니아를 결성해야 합니다!;;;;;;;;;;;;;
+SOIS_HAS_REBELS_WARNING;반란이 발생한 영향권 구성국: [SUB_A7]Y$LIST$[SUB_A7]W;;;;;;;;;;;;;
+ALLIANCE_INVALID_GPS_IN_CRISIS;[SUB_A7]Y위기[SUB_A7]W 중에는 [SUB_A7]Y강대국[SUB_A7]W끼리 동맹을 체결할 수 없습니다.;;;;;;;;;;;;;
+BP_TOOL_ARROW_MEDIUM_1_DASHED;중간 점선 화살표 1;;;;;;;;;;;;;
+BP_TOOL_ARROW_MEDIUM_2_DASHED;중간 점선 화살표 2;;;;;;;;;;;;;
+BP_TOOL_ARROW_MEDIUM_3_DASHED;중간 점선 화살표 3;;;;;;;;;;;;;
+BP_TOOL_ARROW_THICK_DASHED;굵은 점선 화살표;;;;;;;;;;;;;
+BP_TOOL_ARROW_SLIM_DASHED;얇은 점선 화살표;;;;;;;;;;;;;
+BP_OPEN_TOOLTIP;전투계획 편집기의 표시를 전환합니다.;;;;;;;;;;;;;
+BP_TOGGLE_TOOLTIP;현재 전투계획의 표시를 전환합니다.;;;;;;;;;;;;;
+EVTOPTC23212;식민화된 혜성은 훌륭한 위성을 만들 것이다!;;;;;;;;;;;;;
+liberate_liberia_title;라이베리아 해방;;;;;;;;;;;;;
+liberate_liberia_desc;조지프 젱킨스 로버츠 총독은 '자유롭고, 주권적이며, 독립적인 라이베리아 공화국'을 선포했습니다. 인접한 시에라리온을 경영하는 영국이 라이베리아와 그 모조직인 미국 식민화협회를 주권을 행사할 자격이 없는 '개인'으로 간주하자 총독은 독립의 공식화 진행이 시급하다고 여겼습니다. 미국 정부의 승인을 받았지만, 신생 공화국에 대한 의회의 공식적인 외교적 인정은 남북 전쟁 발발 이전까지 이루어지지 않았습니다.;;;;;;;;;;;;;
+liberian_constitution_title;라이베리아 헌법;;;;;;;;;;;;;
+liberian_constitution_desc;불과 수년 전만 해도 식민지에 지나지 않았던 라이베리아가 지금은 자유롭고 주권적이며 독립적인 국가가 되기를 열망할만큼 강해졌습니다. 새 헌법 초안을 국민투표에 내놓을 준비는 이미 끝났습니다. 새 헌법은 기본적인 시민권을 보장하고 미국의 헌법과 유사한 삼권분립을 확립하는 한편, 신생국을 미국 정부와 미국 통치기관에게서 분리합니다.;;;;;;;;;;;;;
+liberian_research_boost;라이베리아 연구 지원;;;;;;;;;;;;;
+desc_liberian_research_boost;신생국이 현대로 가는 길 위에서 더 빠르게 발전하면서 독립의 혜택을 누리고 있습니다.;;;;;;;;;;;;;
+form_scandinavia_NEWS_LONG;북쪽 땅들이 함께 스칸디나비아 민족국가를 결성했습니다. 수요일 오후 5시 대부분이 금발머리 남녀인 군중들이 스톡홀름의 주요 광장을 메우고서 새로운 정치적 상황에 대해 신속하고 정중하게 찬성의 목소리를 냈습니다. 저녁이 되자 찬성의 악수, 정중한 박수, 고개 끄덕이기가 유행했고, 도시는 당국의 요청대로 오후 9시 정각까지 텅 비었습니다. 경찰은 한 남성이 자택 밖에서 '스칸디나비아 만세'를 외친 뒤 무혐의로 풀려났다고 밝혔습니다.;;;;;;;;;;;;;
+form_scandinavia_NEWS_MEDIUM;북쪽 땅들이 함께 스칸디나비아 민족국가를 결성했습니다. 수요일 오후 5시 대부분이 금발머리 남녀인 군중들이 스톡홀름의 주요 광장을 메우고서 새로운 정치적 상황에 대해 신속하고 정중하게 찬성의 목소리를 냈습니다.;;;;;;;;;;;;;
+form_scandinavia_NEWS_SHORT;북쪽 땅들이 함께 스칸디나비아 민족국가를 결성했습니다. 수요일 오후 5시 군중들이 스톡홀름의 주요 광장을 메우고서 새로운 정치적 상황에 대해 찬성의 목소리를 냈습니다.;;;;;;;;;;;;;
+form_germany_NEWS_LONG;독일의 땅과 인민이 다시 한번 단결했습니다. 월요일 베를린에서 열린 기념식은 열광적인 환호 및 떠들썩한 만세와 함께 통일을 선포했습니다. 독일 민족주의는 나폴레옹 시대부터 계속 증가하는 추세이며, 많은 정치인은 통일이 불가피하다고 내다봤습니다. 하지만, 외교관 사이에서는 새로운 레비아탄이 유럽 내 힘의 균형을 뒤엎을 수 있고, 신생 독일이 현재의 안보체제에 도전할 경우 그 인구와 산업력이 유럽에서 전례 없는 규모로 전쟁을 일으킬 수 있다는 우려가 나오고 있습니다.;;;;;;;;;;;;;
+form_germany_NEWS_MEDIUM;독일의 땅과 인민이 다시 한번 단결했습니다. 독일 민족주의는 나폴레옹 시대부터 계속 증가하는 추세이며, 많은 정치인은 통일이 불가피하다고 내다봤습니다. 하지만, 외교관 사이에서는 신생 독일이 현재의 안보체제에 도전할 경우 유럽에서 전례 없는 규모로 전쟁을 일으킬 수 있다는 우려가 나오고 있습니다.;;;;;;;;;;;;;
+form_germany_NEWS_SHORT;독일의 땅과 인민이 다시 한번 단결했습니다. 외교관 사이에서는 신생 독일이 현재의 안보체제에 도전할 경우 유럽에서 전례 없는 규모로 전쟁을 일으킬 수 있다는 우려가 나오고 있습니다.;;;;;;;;;;;;;
+
