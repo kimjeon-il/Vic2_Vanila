@@ -36,8 +36,8 @@ TENSION_DECAY;기본 감소: [SUB_A7]Y$VAL$[SUB_A7]W;;;;;;;;;;;;;
 TENSION_FROM_GP_WARS;강대국 교전국: [SUB_A7]Y$VAL$[SUB_A7]W;;;;;;;;;;;;;
 TENSION_FROM_GP_DISARMED;강대국 군비제한: [SUB_A7]Y$VAL$[SUB_A7]W;;;;;;;;;;;;;
 TENSION_FROM_GP_RANK;강대국 순위: [SUB_A7]Y$VAL$[SUB_A7]W;;;;;;;;;;;;;
-HAS_NOT_CULTURAL_SPHERE; ≠ 문화가 같은 국가를 영향권에 편입함;;;;;;;;;;;;;
-HAS_CULTURAL_SPHERE; = 문화가 같은 국가를 영향권에 편입함;;;;;;;;;;;;;
+HAS_NOT_CULTURAL_SPHERE; ≠ 영향권 내에 문화가 같은 국가가 존재;;;;;;;;;;;;;
+HAS_CULTURAL_SPHERE; = 영향권 내에 문화가 같은 국가가 존재;;;;;;;;;;;;;
 UCA;중앙아메리카;;;;;;;;;;;;;
 LOAD_SAVEGAME_FAIL;저장한 게임을 불러오지 못했습니다.;;;;;;;;;;;;;
 NEWS_TOOLTIP_UNREAD;읽지 않은 신문이 총 [SUB_A7]G$MAX$[SUB_A7]W부 중에서 [SUB_A7]G$NUM$[SUB_A7]W부 있습니다.;;;;;;;;;;;;;
@@ -51,10 +51,10 @@ CRISIS_INTEREST;이익: [SUB_A7]Y$VAL$[SUB_A7]W;;;;;;;;;;;;;
 CRISIS_MAKE_OFFER_INVALID;무언가를 제안해야 합니다!;;;;;;;;;;;;;
 CRISIS_MAKE_OFFER_NOT_LEADER;무언가를 제안하려면 위기의 주도국이어야 합니다.;;;;;;;;;;;;;
 CRISIS_MAKE_OFFER;[SUB_A7]Y$COUNTRY$[SUB_A7]W에게 우리 세력 후원을 제안합니다.;;;;;;;;;;;;;
-CRISIS_AI_WANTS_TO_BACK_1;: 후원국을 결정하지 않았습니다.;;;;;;;;;;;;;
-CRISIS_AI_WANTS_TO_BACK_2;: 후원 쪽으로 기울고 있습니다.:;;;;;;;;;;;;;
-CRISIS_AI_WANTS_TO_BACK_3;: 후원 쪽으로 강하게 기울고 있습니다.:;;;;;;;;;;;;;
-CRISIS_AI_INTEREST;후원에 대한 관심;;;;;;;;;;;;;
+CRISIS_AI_WANTS_TO_BACK_1;후원국을 결정하지 않았습니다.;;;;;;;;;;;;;
+CRISIS_AI_WANTS_TO_BACK_2;후원 쪽으로 기울고 있습니다.:;;;;;;;;;;;;;
+CRISIS_AI_WANTS_TO_BACK_3;후원 쪽으로 강하게 기울고 있습니다.:;;;;;;;;;;;;;
+CRISIS_AI_INTEREST;후원에 대한 관심:;;;;;;;;;;;;;
 unification_release_puppet_cb_setup;$RECIPIENT$이 점유한 $THIRD$을 해방하고 영향권에 편입합니다.;;;;;;;;;;;;;
 unification_release_puppet_cb_desc;외세의 통제를 받는 동포를 해방하고 영향권에 편입합니다.;;;;;;;;;;;;;
 unification_release_puppet_cb;동포 해방;;;;;;;;;;;;;
@@ -149,12 +149,20 @@ TICKING_WARSCORE_FULFILL_TERRITORY_WG;[SUB_A7]G전쟁목표로 지정된 주에 
 TICKING_WARSCORE_FULFILL_TERRITORY_ANY;[SUB_A7]G피청구국 영토를 $MIN$% 이상 점령하면 충족합니다.[SUB_A7]W;;;;;;;;;;;;;
 TICKING_WARSCORE_FULFILL_BATTLE;[SUB_A7]G$BAT$[SUB_A7]W번 이상의 전투에서 얻은 전쟁점수가 더 높으면 충족합니다.[SUB_A7]W;;;;;;;;;;;;;
 CREATE_PROTECTORATE;보호령 설립;;;;;;;;;;;;;
+JAN;얀마옌;;;;;;;;;;;;;
+JAN_ADJ;얀마옌령;;;;;;;;;;;;;
+JAN_liberal;자유당;;;;;;;;;;;;;
+JAN_conservative;보수당;;;;;;;;;;;;;
+JAN_socialist;사회당;;;;;;;;;;;;;
+JAN_anarcho_liberal;급진당;;;;;;;;;;;;;;
+JAN_communist;공산당;;;;;;;;;;;;;;
+JAN_fascist;국가결집당;;;;;;;;;;;;;;
 COUNTRYALERT_NO_Colonial;Nothing in our colonies needs attention.;;Nichts in unseren Kolonien bedarf unserer Aufmerksamkeit.;;;;;;;;x;;;,,,,,,,,,,,,,,,
 COUNTRYALERT_NO_Crisis;No current crisis.;;Kein aktueller Konflikt.;;;;;;;;x;;;,,,,,,,,,,,,,,,
 COUNTRYALERT_Crisis;Current crisis is at a temperature of §Y$TEMPERATURE$§!;;Aktuelle Konflikttemperatur: §Y$TEMPERATURE$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
 HAS_GOODS_IN_STATE;Producing $GOODS$ in state.;;Produziert $GOODS$ im Staat.;;;;;;;;x;;;,,,,,,,,,,,,,,,
 HAS_NO_GOODS_IN_STATE;Is not producing $GOODS$ in state.;;Produziert kein(e) $GOODS$ im Staat.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-MILITARY_MOBILIZE_CRISIS_IMPACT;§RMobilizing while on a side in a crisis will increase temperature and lead to war!§!;;§RWährend man sich auf einer Seite in einem Konflikt befindet, wird die Mobilisierung die Temperatur erhöhen und zum Krieg führen!§!;;;;;;;;x;;;,,,,,,,,,,,,,,
+MILITARY_MOBILIZE_CRISIS_IMPACT;§R§!;;§RWährend man sich auf einer Seite in einem Konflikt befindet, wird die Mobilisierung die Temperatur erhöhen und zum Krieg führen!§!;;;;;;;;x;;;,,,,,,,,,,,,,,
 NORMAL_WAR_LIBERATE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;$ORDER$$FIRST$ guerre de libération $COUNTRY_ADJ$;$ORDER$$FIRST$-$COUNTRY_ADJ$er Freiheitskrieg;;$ORDER$ Guerra $FIRST$ de liberación $COUNTRY_ADJ$;;;;;;;;;x,,,,,,,,,,,,,,,
 AGRESSION_WAR_LIBERATE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Liberation;;$ORDER$$FIRST$-$COUNTRY_ADJ$er Befreiungskrieg;;;;;;;;x;;;,,,,,,,,,,,,,,,
 CANT_COLONIZE;§RUnable to colonize:§!;;§RKolonisierung nicht möglich:§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
@@ -165,116 +173,132 @@ COLONIAL_INVESTMENT;Currently invested: §R$VALUE$§!;;Aktuell investiert: §R$V
 COLONIAL_MAINTENANCE;Power tied up in maintenance: §R$VALUE$§!;;Durch Versorgung gebundene Kolonialmacht: §R$VALUE$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
 AVAILABLE_COLONIAL_POWER;Available: §Y$VALUE$§!;;Verfügbar: §Y$VALUE$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
 PW_PROTECTORATE;Protectorate;;Protektorat;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D01;The Kingdom of $REGION$;;Das Königreich von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D01_ADJ;Kingsmen;;königstreu;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D02;The Confederation of $REGION$;;Die Konföderation von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D02_ADJ;Confederate;;konföderiert;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D03;Commonwealth of $REGION$;;Commonwealth von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D03_ADJ;Commonwealth;;Commonwealth-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D04;The Republic of $REGION$;;Die Republik von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D04_ADJ;Republican;;republikanisch;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D05;The $REGION$ State;;Der $REGION$-Staat;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D05_ADJ;Stateite;;staatlich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D06;The People's Republic of $REGION$;;Die Volksrepublik von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D06_ADJ;Republican;;republikanisch;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D07;The Free State of $REGION$;;Der Freistaat von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D07_ADJ;Freestator;;freistaatlich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D08;The Grand State of $REGION$;;Der Großstaat von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D08_ADJ;Grandstator;;großstaatlich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D09;The State of $REGION$;;Der Staat von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D09_ADJ;Stateite;;staatlich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D10;The Principality of $REGION$;;Das Fürstentum von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D10_ADJ;Princely;;fürstlich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D11;The Democratic Republic of $REGION$;;Die Demokratische Republik von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D11_ADJ;Depublican;;depublikanisch;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D12;The $REGION$ Union;;Die $REGION$-Union;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D12_ADJ;Unionite;;Unions-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D13;The $REGION$ Kingdom;;Das $REGION$-Königreich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D13_ADJ;Kingsmen;;königstreu;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D14;The Dominion of $REGION$;;Das Dominion von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D14_ADJ;Dominion;;Dominions-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D15;The Grand Duchy of $REGION$;;Das Großherzogtum von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D15_ADJ;Grandee;;großherzogstreu;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D16;The $REGION$ Nation;;Die $REGION$-Nation;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D16_ADJ;National;;national;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D17;The $REGION$ Federation;;Die $REGION$-Föderation;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D17_ADJ;Federation;;Föderations-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D18;The United States of $REGION$;;Die Vereinigten Staaten von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D18_ADJ;Union;;Unions-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D19;The Democratic Union of $REGION$;;Die Demokratische Union von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D19_ADJ;Union;;Unions-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D20;The Princedom of $REGION$;;Das Fürstentum von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D20_ADJ;Princely;;fürstlich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D21;The Union of $REGION$;;Die Union von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D21_ADJ;Unionite;;Unions-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D22;The People's Democratic Republic of $REGION$;;Die Demokratische Volksrepublik von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D22_ADJ;PDR;;demokratisch-republikanisch;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D23;The $REGION$ Area;;Das $REGION$-Gebiet;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D23_ADJ;Areon;;ortsansässig;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D24;The Glorious Union of $REGION$;;Die Glorreiche Union von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D24_ADJ;Glorious;;glorreich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D25;Mighty $REGION$;;Das mächtige Gebiet von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D25_ADJ;Mighty;;mächtig;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D26;The $REGION$ Free State;;Der $REGION$-Freistaat;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D26_ADJ;Freestator;;freistaatlich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D27;The $REGION$ Commonwealth;;$REGION$-Commonwealth;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D27_ADJ;Commonwealth;;Commonwealth-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D28;The $REGION$ Confederacy;;Die $REGION$-Konföderation;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D28_ADJ;Confederate;;konföderiert;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D29;The Free People of $REGION$;;Das Freie Volk von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D29_ADJ;Freepeople;;frei;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D30;The $REGION$ Republic;;Die $REGION$-Republik;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D30_ADJ;Republican;;republikanisch;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D31;The Holy Union of $REGION$;;Die Heilige Union von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D31_ADJ;Zealot;;zelotisch;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D32;The People's Union of $REGION$;;Die Volks-Union von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D32_ADJ;Unionite;;Unions-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D33;The Federal States of $REGION$;;Die Föderationsstaaten von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D33_ADJ;Federation;;Föderations-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D34;The $REGION$ Federal State;;Der $REGION$-Föderationsstaat;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D34_ADJ;Federation;;Föderations-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D35;The $REGION$ Confederation;;Die $REGION$-Konföderation;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D35_ADJ;Confederate;;konföderiert;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D36;The $REGION$ Federation;;Die $REGION$-Föderation;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D36_ADJ;Federation;;Föderations-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D37;The Pious Union of $REGION$;;Die Fromme Union von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D37_ADJ;Pious;;fromm;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D38;$REGION$ Land;;$REGION$-Land;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D38_ADJ;Lander;;Landes-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D39;The Most Serene Republic of $REGION$;;Die Republik der Ruhe von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D39_ADJ;Serene;;ruhig;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D40;The Secret Kingdom of $REGION$;;Das Geheime Königreich von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D40_ADJ;Secret;;geheim;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D41;The Commune of $REGION$;;Die Kommune von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D41_ADJ;Communist;;kommunistisch;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D42;The $REGION$ Commune;;Die $REGION$-Kommune;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D42_ADJ;Communist;;kommunistisch;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D43;The Worker's Union of $REGION$;;Die Arbeiter-Union von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D43_ADJ;Worker;;Arbeiter-;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D44;The Landgrave of $REGION$;;Die Landgrafschaft von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D44_ADJ;Landgravine;;landgrafschaftlich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D45;The Nation of $REGION$;;Die Nation von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D45_ADJ;Nationite;;national;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D46;Holy $REGION$;;Die Heilige Region von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D46_ADJ;Zealous;;zelotisch;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D47;The $REGION$ Dominion;;Das $REGION$-Dominion;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D47_ADJ;Dominator;;beherrschend;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D48;The People's State of $REGION$;;Der Volksstaat von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D48_ADJ;Popular;;völkisch;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D49;The High Kingdom of $REGION$;;Das Hohe Königreich von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D49_ADJ;Highest;;hochköniglich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D50;The Lesser Duchy of $REGION$;;Das Kleinere Fürstentum von $REGION$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-D50_ADJ;Duchy;;fürstlich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-dominion_conservative;The Conservative Party;;Die Konservative Partei;;;;;;;;x;;;,,,,,,,,,,,,,,,
-dominion_reactionary;The Old Guard;;Die Alte Garde;;;;;;;;x;;;,,,,,,,,,,,,,,,
-dominion_liberal;The Liberal Party;;Die Liberale Partei;;;;;;;;x;;;,,,,,,,,,,,,,,,
-dominion_anarcho_liberal;The Freedom Party;;Die Freiheitspartei;;;;;;;;x;;;,,,,,,,,,,,,,,,
-dominion_socialist;The Socialist Party;;Die Sozialistische Partei;;;;;;;;x;;;,,,,,,,,,,,,,,,
-dominion_communist;The Communist Party;;Die Kommunistische Partei;;;;;;;;x;;;,,,,,,,,,,,,,,,
-dominion_fascist;The Imperial Party;;Die Imperiale Partei;;;;;;;;x;;;,,,,,,,,,,,,,,,
-PW_UPGRADE_TO_COLONY;Click to convert to upgrade to colony. You need §Y$VALUE$§! colonial power points free to do this.;;Klickt, um eine Kolonie zu konvertieren und aufzuwerten. Ihr benötigt §Y$VALUE$§! verfügbare Kolonialmacht, um dies tun zu können.;;;;;;;;x;;;,,,,,,,,,,,,,
-PW_CANT_UPGRADE_TO_COLONY;Upgrading to colony cost §R$VALUE$§! colonial power points.;;Die Aufwertung zur Kolonie kostet §R$VALUE$§! Punkte Kolonialmacht.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-PW_CANT_UPGRADE_TO_STATE;Incorporating as a state cost §R$VALUE$§! colonial power points.;;Die Einführung als Staat kostet §R$VALUE$§! Punkte Kolonialmacht.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-CREATE_DOMINION;Release Dominion;;Dominion entlassen;;;;;;;;x;;;,,,,,,,,,,,,,,,
-CANT_CREATE_PROTECTORATE_COST;You need to have §R$VALUE$§! free colonial power points to create a protectorate.;;Ihr benötigt  §R$VALUE$§! verfügbare Kolonialmacht-Punkte, um ein Protektorat zu erschaffen.;;;;;;;;x;;;,,,,,,,,,,,,,,
-torpedo_attacks_desc;The torpedo is a self-propelled weapon with an explosive warhead, launched above or below the water surface, propelled underwater towards a target, and designed to detonate either on contact with its target or in proximity to it. Launched from a small ship, it can be deadly to even the largest warships.;;Ein Torpedo ist eine Waffe mit Eigenantrieb mit einem explosiven Sprengkopf, die über oder unter Wasser abgefeuert werden kann und unter Wasser auf ein Ziel zuschießt. Sie explodiert entweder bei Kontakt mit dem Ziel oder in unmittelbarer Nähe. Diese von einem kleinen Schiff abfeuerbare Waffe kann selbst für die größten Kampfschiffe tödlich sein.;;;;;;;;x;;;,,,,,,,,,,
+COUNTRYALERT_NO_Colonial;식민지가 주의를 필요로 하지 않습니다.;;;;;;;;;;;;;
+COUNTRYALERT_NO_Crisis;현재 위기가 없습니다.;;;;;;;;;;;;;
+COUNTRYALERT_Crisis;현재 위기 심각도: [SUB_A7]Y$TEMPERATURE$[SUB_A7]W;;;;;;;;;;;;;
+HAS_GOODS_IN_STATE; = 주에 $GOODS$ 생산지 존재;;;;;;;;;;;;;
+HAS_NO_GOODS_IN_STATE; ≠ 주에 $GOODS$ 생산지 존재;;;;;;;;;;;;;
+MILITARY_MOBILIZE_CRISIS_IMPACT;[SUB_A7]R위기에서 한 세력을 후원하면서 동원령을 선포하면 위기 심각도가 증가하고 전쟁을 이어집니다!![SUB_A7]W;;;;;;;;;;;;;
+NORMAL_WAR_LIBERATE_NAME;$ORDER$$COUNTRY$ 해방 전쟁;;;;;;;;;;;;;;
+AGRESSION_WAR_LIBERATE_NAME;$ORDER$$COUNTRY$ 해방 전쟁;;;;;;;;;;;;;;
+CANT_COLONIZE;[SUB_A7]R식민화 불가능:[SUB_A7]W;;;;;;;;;;;;;
+COLONIZE_LAST_INVESTMENT;이미 해당 지방에 투자했습니다. 다음 투자는 [SUB_A7]Y$DATE$[SUB_A7]W 이후부터 가능합니다.;;;;;;;;;;;;;
+COLONY_INVEST_COST;투자비: [SUB_A7]Y$COST$[SUB_A7]W 식민력;;;;;;;;;;;;;
+COLONY_INVEST_COST_LACK;투자비: [SUB_A7]Y$COST$[SUB_A7]W 식민력;;;;;;;;;;;;;
+COLONIAL_INVESTMENT;현재 투자 식민력: [SUB_A7]R$VALUE$[SUB_A7]W;;;;;;;;;;;;;
+COLONIAL_MAINTENANCE;유지에 필요한 식민력: [SUB_A7]R$VALUE$[SUB_A7]W;;;;;;;;;;;;;
+AVAILABLE_COLONIAL_POWER;사용 가능: [SUB_A7]Y$VALUE$[SUB_A7]W;;;;;;;;;;;;;
+PW_PROTECTORATE;보호령;;;;;;;;;;;;;
+D01;$REGION$ 왕국;;;;;;;;;;;;;
+D01_ADJ;$REGION$령;;;;;;;;;;;;;
+D02;$REGION$ 연합국;;;;;;;;;;;;;
+D02_ADJ;$REGION$령;;;;;;;;;;;;;
+D03;$REGION$ 연합;;;;;;;;;;;;;
+D03_ADJ;$REGION$령;;;;;;;;;;;;;
+D04;$REGION$ 공화국;;;;;;;;;;;;;
+D04_ADJ;$REGION$령;;;;;;;;;;;;;
+D05;$REGION$국;;;;;;;;;;;;;
+D05_ADJ;$REGION$령;;;;;;;;;;;;;
+D06;$REGION$ 인민공화국;;;;;;;;;;;;;
+D06_ADJ;$REGION$령;;;;;;;;;;;;;
+D07;$REGION$ 자유국;;;;;;;;;;;;;
+D07_ADJ;$REGION$령;;;;;;;;;;;;;
+D08;대$REGION$국;;;;;;;;;;;;;
+D08_ADJ;$REGION$령;;;;;;;;;;;;;
+D09;$REGION$국;;;;;;;;;;;;;
+D09_ADJ;$REGION$령;;;;;;;;;;;;;
+D10;$REGION$ 공국;;;;;;;;;;;;;
+D10_ADJ;$REGION$령;;;;;;;;;;;;;
+D11;$REGION$ 민주공화국;;;;;;;;;;;;;
+D11_ADJ;$REGION$령;;;;;;;;;;;;;
+D12;$REGION$ 연합;;;;;;;;;;;;;
+D12_ADJ;$REGION$령;;;;;;;;;;;;;
+D13;대$REGION$ 왕국;;;;;;;;;;;;;
+D13_ADJ;$REGION$령;;;;;;;;;;;;;
+D14;$REGION$ 자치령;;;;;;;;;;;;;
+D14_ADJ;$REGION$령;;;;;;;;;;;;;
+D15;$REGION$ 대공국;;;;;;;;;;;;;
+D15_ADJ;$REGION$령;;;;;;;;;;;;;
+D16;$REGION$ 국가;;;;;;;;;;;;;
+D16_ADJ;$REGION$령;;;;;;;;;;;;;
+D17;$REGION$ 공화국 연방;;;;;;;;;;;;;
+D17_ADJ;$REGION$령;;;;;;;;;;;;;
+D18;$REGION$ 합중국;;;;;;;;;;;;;
+D18_ADJ;$REGION$령;;;;;;;;;;;;;
+D19;$REGION$ 민주합중국;;;;;;;;;;;;;
+D19_ADJ;$REGION$령;;;;;;;;;;;;;
+D20;$REGION$ 공작령;;;;;;;;;;;;;
+D20_ADJ;$REGION$령;;;;;;;;;;;;;
+D21;$REGION$ 연합;;;;;;;;;;;;;
+D21_ADJ;$REGION$령;;;;;;;;;;;;;
+D22;$REGION$ 민주주의인민공화국;;;;;;;;;;;;;
+D22_ADJ;$REGION$령;;;;;;;;;;;;;
+D23;$REGION$ 지역;;;;;;;;;;;;;
+D23_ADJ;$REGION$령;;;;;;;;;;;;;
+D24;영광스러운 $REGION$ 연합;;;;;;;;;;;;;
+D24_ADJ;$REGION$령;;;;;;;;;;;;;
+D25;웅장한 $REGION;;;;;;;;;;;;;
+D25_ADJ;$REGION$령;;;;;;;;;;;;;
+D26;$REGION$ 자유국;;;;;;;;;;;;;
+D26_ADJ;$REGION$령;;;;;;;;;;;;;
+D27;$REGION$ 국가연합;;;;;;;;;;;;;
+D27_ADJ;$REGION$령;;;;;;;;;;;;;
+D28;$REGION$ 연합국;;;;;;;;;;;;;
+D28_ADJ;$REGION$령;;;;;;;;;;;;;
+D29;$REGION$ 자유인민국;;;;;;;;;;;;;
+D29_ADJ;$REGION$령;;;;;;;;;;;;;
+D30;$REGION$ 공화국;;;;;;;;;;;;;
+D30_ADJ;$REGION$령;;;;;;;;;;;;;
+D31;$REGION$ 신성동맹;;;;;;;;;;;;;
+D31_ADJ;$REGION$령;;;;;;;;;;;;;
+D32;$REGION$ 인민동맹;;;;;;;;;;;;;
+D32_ADJ;$REGION$령;;;;;;;;;;;;;
+D33;$REGION$ 연방국;;;;;;;;;;;;;
+D33_ADJ;$REGION$령;;;;;;;;;;;;;
+D34;$REGION$ 연방국;;;;;;;;;;;;;
+D34_ADJ;$REGION$령;;;;;;;;;;;;;
+D35;$REGION$ 연합국령;;;;;;;;;;;;;
+D35_ADJ;$REGION$령;;;;;;;;;;;;;
+D36;$REGION$ 연방;;;;;;;;;;;;;
+D36_ADJ;$REGION$령;;;;;;;;;;;;;
+D37;경건한 $REGION$국;;;;;;;;;;;;;
+D37_ADJ;$REGION$령;;;;;;;;;;;;;
+D38;$REGION$ 지방;;;;;;;;;;;;;
+D38_ADJ;$REGION$령;;;;;;;;;;;;;
+D39;가장 고귀한 $REGION$ 공화국;;;;;;;;;;;;;
+D39_ADJ;$REGION$령;;;;;;;;;;;;;
+D40;$REGION$ 비밀왕국;;;;;;;;;;;;;
+D40_ADJ;$REGION$령;;;;;;;;;;;;;
+D41;$REGION$ 코뮌;;;;;;;;;;;;;
+D41_ADJ;$REGION$령;;;;;;;;;;;;;
+D42;$REGION$ 코뮌;;;;;;;;;;;;;
+D42_ADJ;$REGION$령;;;;;;;;;;;;;
+D43;$REGION$ 노동자연합;;;;;;;;;;;;;
+D43_ADJ;$REGION$령;;;;;;;;;;;;;
+D44;$REGION$ 방백국;;;;;;;;;;;;;
+D44_ADJ;$REGION$령;;;;;;;;;;;;;
+D45;$REGION$ 국가;;;;;;;;;;;;;
+D45_ADJ;$REGION$령;;;;;;;;;;;;;
+D46;신성$REGION$;;;;;;;;;;;;;
+D46_ADJ;$REGION$령;;;;;;;;;;;;;
+D47;$REGION$ 자치령;;;;;;;;;;;;;
+D47_ADJ;$REGION$령;;;;;;;;;;;;;
+D48;$REGION$ 인민국;;;;;;;;;;;;;
+D48_ADJ;$REGION$령;;;;;;;;;;;;;
+D49;$REGION$ 지고왕국;;;;;;;;;;;;;
+D49_ADJ;$REGION$령;;;;;;;;;;;;;
+D50;$REGION$ 소공국;;;;;;;;;;;;;
+D50_ADJ;$REGION$령;;;;;;;;;;;;;
+dominion_conservative;보수당;;;;;;;;;;;;;
+dominion_reactionary;구위대;;;;;;;;;;;;;
+dominion_liberal;자유당;;;;;;;;;;;;;
+dominion_anarcho_liberal;자유당;;;;;;;;;;;;;
+dominion_socialist;사회당;;;;;;;;;;;;;
+dominion_communist;공산당;;;;;;;;;;;;;
+dominion_fascist;제국당;;;;;;;;;;;;;
+PW_UPGRADE_TO_COLONY;클릭해 식민지로 승격합니다. 식민지로 승격하려면 식민력이 [SUB_A7]Y$VALUE$[SUB_A7]W 필요합니다.;;;;;;;;;;;;;
+PW_CANT_UPGRADE_TO_COLONY;식민력을 [SUB_A7]R$VALUE$[SUB_A7]W 소모해 식민주로 승격하고 있습니다.;;;;;;;;;;;;;
+PW_CANT_UPGRADE_TO_STATE;식민력을 [SUB_A7]R$VALUE$[SUB_A7]W 소모해 주로 통합하고 있습니다.;;;;;;;;;;;;;
+CREATE_DOMINION;자치령 해방;;;;;;;;;;;;;
+CANT_CREATE_PROTECTORATE_COST;보호령을 설립하려면 식민력이 [SUB_A7]R$VALUE$[SUB_A7]W 필요합니다.;;;;;;;;;;;;;
+torpedo_attacks_desc;어뢰는 폭발성 탄두를 탑재한 자주식 무기로 수면 위아래에서 발사하면 목표물을 향해 수중으로 추진하며 목표물과 접촉하거나 근접해 폭발하도록 설계됩니다. 작은 군함에서 발사하는 어뢰는 심지어 최대급 군함에도 치명적일 수 있습니다.;;;;;;;;;;;;;
