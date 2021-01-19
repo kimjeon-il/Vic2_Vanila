@@ -25,130 +25,130 @@ hussar_activation;경기병;;;;;;;;;;;;;;
 hussar_activation_desc;후사르는 15세기 헝가리에서 시작된 여러 종류의 경기병을 가리킵니다. 후사르의 칭호와 독특한 복장은 후에 유럽과 타국 군대의 경기병 연대가 널리 채택했습니다. 후사르는 나폴레옹 전쟁에서 기병으로서 중요한 역할을 했습니다. 경비병이 빠른 말에 올라타면, 교전이나 정찰에 활용할 수 있습니다.;;;;;;;;;;;;;
 military_aviation;군용항공술;;;;;;;;;;;;;
 military_aviation_desc;군용항공술은 전쟁을 수행하거나 수행가능하게 하고자 항공기와 다른 비행기계를 이용하는 행위입니다. 공기보다 무거운 항공기는 일찍부터 군사용으로 적합함을 인정받았습니다. 1909년 미국 육군 통신대가 처음으로 라이트 모델 A를 구입했고, 1911년 이탈리아군은 이탈리아-터키 전쟁의 일환으로 정찰, 사진 재생, 폭격 역할에 다양한 항공기를 사용했습니다. 제1차 세계대전은 군용항공술이 정찰병, 포병 관측병, 전투기, 폭격기와 같은 많은 전문화된 유형을 빠르게 수용하는 광경을 보았습니다.;;;;;;;;;;;;;
-SIEGE;Siege;;Belagerung;;;;;;;;;;;x,,,,,,,,,,,,,,,
-TRANSFER_SUB_ALL;§GShift + LMB§! to transfer all of the same type.;;§GUmschalttaste + LMT§!, um alle vom selben Typ zu transferieren.;;;;x;;;;;;;,,,,,,,,,,,,,,
-OBSOLETE_UNIT_TECH;§Y$UNIT$§W was made obsolete by §Y$TECH$§W;;§Y$UNIT$§W wurde durch §Y$TECH$§W hinfällig;;;;;;;;;;;x,,,,,,,,,,,,,,,
-ARMY_RECON_TOOLTIP;Recon Efficiency: §Y$VAL$§!%;;Aufklärungs-Effizienz: §Y$VAL$§!%;;;;;;;;;;;x,,,,,,,,,,,,,,,
-ARMY_RECON_DELAYED_TOOLTIP;Recon Efficiency is the ability of this army's scouts to reduce the dig-in bonus of enemy armies and speed up sieges.\n\nThis army contains §Y$RECONUNITS$§! recon brigades out of a needed §Y$RECONMAXUNITS$§!, giving it a Recon Efficiency of §Y$VAL$%§!.;;Aufklärungs-Effizienz ist die Fähigkeit der Späher dieser Armee, den Eingraben-Bonus feindlicher Armeen zu reduzieren und Belagerungen zu beschleunigen.\n\nDiese Armee enthält §Y$RECONUNITS$§! Aufklärungs-Einheiten von benötigten §Y$RECONMAXUNITS$§! und gibt eine Aufklärungs-Effizienz von §Y$VAL$%§!.;;;;;;;;;;;x,,,,,,,,,,,,,
-ARMY_ENGINEER_TOOLTIP;Siege Efficiency: §Y$VAL$§!%;;Belagerungs-Effizienz: §Y$VAL$§!%;;;;;;;;;;;x,,,,,,,,,,,,,,,
-ARMY_ENGINEER_DELAYED_TOOLTIP;Siege Efficiency is the ability of this army's engineers and tanks to reduce the effectiveness of enemy forts when attacking and sieging.\n\nThis army contains §Y$ENGINEERUNITS$§! engineer and tank brigades out of a needed §Y$ENGINEERMAXUNITS$§!, giving it a Siege Efficiency of §Y$VAL$%§!.;;Die Belagerungs-Effizienz ist die Fähigkeit der Ingenieure und Panzer dieser Armee, die Effektivität feindlicher Festungen bei Angriffen und Belagerungen zu reduzieren.\n\nDiese Armee enthält §Y$ENGINEERUNITS$§! Ingenieurs- und Panzereinheiten von benötigten §Y$ENGINEERMAXUNITS$§! und gibt eine Belagerungs-Effizienz von §Y$VAL$%§!.;;;;;;;;;;;x,,,,,,,,,,,,,
-TENSION_DECAY;Base Decay: §Y$VAL$§!;;Basis-Zerfall: §Y$VAL$§!;;;;;;;;;;;x,,,,,,,,,,,,,,,
-TENSION_FROM_GP_WARS;Great Powers at War: §Y$VAL$§!;;Im Krieg befindliche Großmächte: §Y$VAL$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-TENSION_FROM_GP_DISARMED;Disarmed Great Powers: §Y$VAL$§!;;Entwaffnete Großmächte:  §Y$VAL$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-TENSION_FROM_GP_RANK;Great Power Ranking: §Y$VAL$§!;;Großmächte-Wertung: §Y$VAL$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-HAS_NOT_CULTURAL_SPHERE;Does NOT have a cultural sphere;;besitzt KEINEN kulturellen Einflussbereich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-HAS_CULTURAL_SPHERE;Has a cultural sphere;;besitzt einen kulturellen Einflussbereich;;;;;;;;x;;;,,,,,,,,,,,,,,,
-UCA;The USCA;;Die USCA;;;;;;;;x;;;,,,,,,,,,,,,,,,
-LOAD_SAVEGAME_FAIL;Failed to load the savegame.;;Laden des gespeicherten Spielstandes fehlgeschlagen.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-NEWS_TOOLTIP_UNREAD;You have §G$NUM$§! unread newspapers out of §G$MAX$§! printed.;;Ihr habt §G$NUM$§! ungelesene Zeitungen von §G$MAX$§! veröffentlichten.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-NEWS_TOOLTIP_NO_NEW;There are no unread newspapers.;;Es gibt keine neuen, ungelesenen Zeitungen.;;;;;;;;x;;;,,,,,,,,,,,,,,
-become_independent_desc;Declare independence from your overlord through force of arms;;Erklärt mit Waffengewalt Eure Unabhängigkeit von Eurem Herrscher;;;;;;;;x;;;,,,,,,,,,,,,,,,
-CRISIS_DAYS_UNTIL_WAR;War will break out in §Y$DAYS$§! days if a diplomatic solution is not found.;;In §Y$DAYS$§! Tag(en) wird Krieg ausbrechen, wenn keine diplomatische Lösung gefunden wird.;;;;;;;;x;;;,,,,,,,,,,,,,,
-REMOVEFROMSPHERE_COST_NO_INFAMY;This will cost §R$PRESTIGE$§! prestige;;Dies wird Euch §R$PRESTIGE$§! Prestige kosten;;;;;;;;x;;;,,,,,,,,,,,,,,,
-REMOVEFROMSPHERE_COST;This will cost §R$PRESTIGE$§! prestige and give you §R$INFAMY$§! infamy;;Dies wird §R$PRESTIGE$§! Prestige kosten und Euch §R$INFAMY$§! Infamie einbringen;;;;;;;;x;;;,,,,,,,,,,,,,,,
-REMOVEFROMSPHERE_DESC;Removes nation from a §YGreat Power§W's Sphere of Influence.;;Entfernt die Nation aus dem Einflussbereich einer §YGroßmacht§W.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-CRISIS_INTEREST;Their interest: §Y$VAL$§!;;Ihre Zinsen: §Y$VAL$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-CRISIS_MAKE_OFFER_INVALID;You must offer them something!;;Ihr müsst ihnen etwas anbieten!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-CRISIS_MAKE_OFFER_NOT_LEADER;You must be a leader in the crisis to make offers.;;Ihr müsst der Anführer in diesem Konflikt sein, um Angebote machen zu können.;;;;;;;;x;;;,,,,,,,,,,,,,,
-CRISIS_MAKE_OFFER;Make an offer to §Y$COUNTRY$§! to entice them to back your side.;;Macht §Y$COUNTRY$§! ein Angebot, um sie zu ködern, Euch Rückhalt zu geben. ;;;;;;;;x;;;,,,,,,,,,,,,,
-CRISIS_AI_WANTS_TO_BACK_1;has not decided who to support.;;hat noch nicht entschieden, welche Seite sie unterstützen.;;;;;;;;x;;;,,,,,,,,,,,,,,
-CRISIS_AI_WANTS_TO_BACK_2;is leaning towards supporting;;neigt zur Unterstützung von;;;;;;;;x;;;,,,,,,,,,,,,,,,
-CRISIS_AI_WANTS_TO_BACK_3;is strongly inclined to support;;neigt stark zur Unterstützung von;;;;;;;;x;;;,,,,,,,,,,,,,,,
-CRISIS_AI_INTEREST;Their interest in supporting;;Ihr Interesse zur Unterstützung von;;;;;;;;x;;;,,,,,,,,,,,,,,,
-unification_release_puppet_cb_setup;Release $THIRD$ from $RECIPIENT$ and add them to your sphere of influence;;Befreit $THIRD$ von $RECIPIENT$ und fügt sie Eurem Einflussbereich hinzu;;;;;;;;x;;;,,,,,,,,,,,,,,,
-unification_release_puppet_cb_desc;Release our cultural kin from the control of foreigners and add them to your sphere of influence;;Befreit unsere kulturelle Sippschaft aus der Kontrolle der Fremden und fügt sie Eurem Einflussbereich hinzu;;;;;;;;x;;;,,,,,,,,,,,,,,,
-unification_release_puppet_cb;Free Cultural Kin;;Befreit kulturelle Sippschaft;;;;;;;;x;;;,,,,,,,,,,,,,,,
-unification_release_puppet_cb_short;$THIRD$ is released;;$THIRD$ wurde befreit;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_STRATEGIC_INTERESTS;Strategic Interests;;Strategische Interessen;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_BACKED_BY_ALLY;Backed by Ally;;Durch Bündnispartner unterstützt;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_ALLY;Ally;;Bündnispartner;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_TOO_EARLY_IN_CRISIS;Early in Crisis;;Zu früh im Konflikt;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_CRISIS_OFFER;$WARGOAL$:;;$WARGOAL$:;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_ATTACKING_ALLY;Attacking Ally;;Greift Bündnispartner an;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_ATTACKING_FRIENDS;Attacking Friends;;Greift Freunde an;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_ATTACKING_ENEMIES;Attacking Enemies;;Greift Feinde an;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_COMMON_FOE;Common Foe;;Gemeinsamer Feind;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_WAR_WITH_SPHERE_LEADER;War with Sphere Leader;;Krieg mit dem Einflusssphären-Anführer;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_CONSTRUCTING_CB;Strategic Interests;;Strategische Interessen;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_HELD_CORES;Owns Core Provinces;;Besitzt Kernprovinzen;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_NEGATIVE_RELATIONS;Negative Relations;;Negative Beziehungen;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_THREATS;Threats;;Drohungen;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_TOO_MANY_GP_ALLIES;Too many Great Power allies;;Zu viele Großmacht-Bündnispartner;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_DESIRES_GP_ALLY;Wants a Great Power ally;;Möchte ein Großmacht-Bündnispartner;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_ALLY_OF_ALLY;Ally of Ally;;Bündnispartner von Bündnispartner;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_TOO_MANY_ALLIANCES;Too Many Alliances;;Zu viele Bündnisse;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_RELATIVE_ARMY_STRENGTH;Army Strength;;Truppen-Stärke;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_RELATIVE_NAVY_STRENGTH;Navy Strength;;Flotten-Stärke;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_CURRENT_WARS;Current Wars;;Aktuelle Kriege;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_OUR_CASUS_BELLI;Our Casus Belli;;Unser Kriegsgrund;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_YOUR_CASUS_BELLI;Your Casus Belli;;Euer Kriegsgrund;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_CIV_VS_UNCIV;Civilized vs Uncivilized;;Ziviliziert gegen Unzivilisiert;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_DIPLOMATIC_GOALS;Political Considerations;;Politische Überlegungen;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_DISTANCE;Distance;;Distanz;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_DIFFERENT_GOVTYPES;Government Type;;Regierungsart;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_OUR_SPHERE;Our Sphere;;Unsere Einflusssphäre;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_OTHER_SPHERE_LEADER;Other Sphere Leader;;Andere Einflusssphären-Anführer;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_OTHER_SPHERE;Other Sphere;;Andere Einflusssphäre;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_OVERLORD;Overlord;;Herrscher;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_BADBOY;Infamy;;Infamie;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_RELATIONS;Relations;;Beziehungen;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_GP_RELATIONS;Opinion;;Meinung;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AIREASON_BASE_RELUCTANCE;Base Reluctance;;Basis-Zurückhaltung;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AI_DIPLOMATIC_VALUE;Diplomatic Value;;Diplomatischer Wert;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AI_DIPLO_NO;They will not accept;;Sie werden nicht akzeptieren;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AI_DIPLO_YES;They will accept;;Sie werden akzeptieren;;;;;;;;x;;;,,,,,,,,,,,,,,,
-SHIP_BUILD_MIN_BASE_LEVEL_WARNING;§RCannot be built in this naval port. Requires level §Y$LVL$§R or greater.§!;;§RKann in diesem Marinehafen nicht gebaut werden. Erfordert Stufe §Y$LVL$§R oder besser.§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-NAVAL_BASE_OVERSEAS_LIMIT;§RCapital ships cannot be built in overseas provinces.§!;;§RGroßkampfschiffe können nicht in Übersee-Provinzen gebaut werden.§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-NAVAL_COMBAT_DAMAGE_DESC_TITLE;The estimated fire power is §G$POWER$§!:;;Die geschätzte Feuerkraft beträgt §G$POWER$§!:;;;;;;;;x;;;,,,,,,,,,,,,,,,
-NAVAL_COMBAT_DAMAGE_DESC_BASE;§Y$UNIT$§! base attack: §G$VAL$§!;;§Y$UNIT$§! Grundangriff: §G$VAL$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-NAVAL_COMBAT_DAMAGE_DESC_TORP;Torpedo attack: §G$VAL$§!;;Torpedo-Angriff: §G$VAL$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-NAVAL_COMBAT_DAMAGE_DESC_LUCK;Luck and decisions: §Y$VAL$%§!;;Glück und Entscheidungen: §Y$VAL$%§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-NAVAL_COMBAT_DAMAGE_DESC_HULL;Reduced by opponent hull (§R$HULL$§!): §R$VAL$%§!;;Durch gegnerischen Rumpf (§R$HULL$§!) reduziert um: §R$VAL$%§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-NAVAL_COMBAT_DAMAGE_DESC_EXP;Reduced by opponent experience (§R$EXP$%§!): §R$VAL$%§!;;Durch gegnerische Erfahrung (§R$EXP$%§!) reduziert um: §R$VAL$%§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-NAVAL_COMBAT_DAMAGE_DESC_NOORG;Opponent has no organization: §Y$VAL$%§!;;Gegner besitzt keine Organisation: §Y$VAL$%§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-NAVAL_COMBAT_DAMAGE_DESC_STR;Reduced by our strength: §R$VAL$%§!;;Durch unsere Stärke reduziert: §R$VAL$%§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-NAVAL_COMBAT_HIT_CHANCE_DESC;Hitting chance: §Y$VAL$%§!;;Trefferchance: §Y$VAL$%§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-NAVAL_COMBAT_HIT_CHANCE_DESC_EVA;(reduced by opponent evasion §R$VAL$%§!);;(Durch gegnerische Ausweichrate §R$VAL$%§! reduziert);;;;;;;;x;;;,,,,,,,,,,,,,,,
-MOBILIZATION_PROGRESS_PAUSED;Mobilization recruitment in §Y$PROV$§! will soon begin.;;Rekrutierungs-Mobilisierung in §Y$PROV$§! beginnt in Kürze.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-MOBILIZATION_PROGRESS_PENDING;Current mobilization progress is §Y$PROG$%§!;;Aktueller Mobilisierungsfortschritt: §Y$PROG$%§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-MOBILIZATION_PROGRESS_NOT_MOBILIZED;Mobilization will take some time, but an advanced railway network will speed up the process.;;Die Mobilisierung wird einige Zeit in Anspruch nehmen, doch ein Ausbau des Schienennetzwerks wird den Prozess beschleunigen.;;;;;;;;x;;;,,,,,,,,,,,,,
-COLONY_ADD_INFLUENCE;Add colonial influence;;Kolonialen Einfluss hinzufügen;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTNAME20100;Tensions in $STATE$;;Spannungen in $STATE$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTDESC20100;Recently the international community has become increasingly aware of the so-called 'plight of the poor oppressed people in $STATE$. It is claimed we have long oppressed them, and that they long to be free from our benevolent rule. We will, of course, brook no interference in our rule of $STATE$.;;Vor Kurzem wurde die internationale Gemeinschaft zunehmend auf das angebliche Flehen der armen, unterdrückten Bevölkerung in $STATE$ aufmerksam. Es wird behauptet, dass wir sie seit langem unterdrücken und dass sie die Befreiung von unserer wohlwollenden Herrschaft herbeisehnen. Wir werden natürlich keine Störung unserer Herrschaft in $STATE$ tolerieren.;;;;;;;;x;;;,,,,,,,,,,
-EVTOPTA20100;Of course not!;;Natürlich nicht!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTOPTB20100;Maybe we should talk about this...;;Vielleicht sollten wir darüber reden;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTNAME20101;Tensions in $STATE$;;Spannungen in $STATE$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTDESC20101;Recently the international community has become increasingly aware of the so-called 'plight of the poor oppressed people in $STATE$. It is claimed we have no legitimate right to rule the area, and nearby Great Powers are starting to take an interest in the claims;;Vor Kurzem wurde die internationale Gemeinschaft zunehmend auf das angebliche Flehen der armen, unterdrückten Bevölkerung in $STATE$ aufmerksam. Es wird behauptet, dass wir kein Recht zur Herrschaft in dieser Gegend hätten und benachbarte Großmächte beginnen, ihr Interesse an diesen Behauptungen zu zeigen;;;;;;;;x;;;,,,,,,,,,,,
-EVTOPTA20101;Insist $STATE$ is ours!;;Besteht darauf, dass $STATE$ uns gehört!;;;;;;;;x;;;,,,,,,,,,,,,,,
-EVTOPTB20101;Concede their point.;;Räumt ihren Anspruch ein.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTNAME20102;The $CRISISAREA$ Crisis;;Der $CRISISAREA$ Konflikt;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTDESC20102;Dispute over $CRISISAREA$ has now escalated into an international crisis. $CRISISTAKER$ claims the area as an integral part of their nation, while $CRISISTARGET$ denies they have any claim to it and insists the state should remain under their control. At a recent conference on the matter our ambassador made several rather militant remarks that greatly raised the tempers of all present.\nShould we endorse his position, or issue an apology for his actions and disavow his remarks?;;Der Disput über $CRISISAREA$ ist zu einem internationalen Konflikt eskaliert. $CRISISTAKER$ beansprucht die Gegend als einen integralen Bestandteil ihrer Nation, während $CRISISTARGET$ diesen Anspruch verneint und darauf besteht, dass das Land unter ihrer Kontrolle verbleiben sollte. In einer kürzlichen Konferenz zu dieser Angelegenheit machte unser Botschafter einige recht militante Bemerkungen, die die Stimmung aller Anwesenden aufheizte.\nSollten wir seine Position unterstützen, oder uns für sein Handeln entschuldigen und uns von seinen Äußerungen distanzieren?;;;;;;;;x;;;,,,,,,,,,
-EVTOPTA20102;He's quite right, only war will solve this!;;Er hat absolut recht, Krieg ist die einzige Lösung!;;;;;;;;x;;;,,,,,,,,,,,,,
-EVTOPTB20102;Don't listen to him!;;Hört nicht auf ihn!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTNAME20103;The destiny of $CRISISTAKER$;;Das Schicksal von $CRISISTAKER$;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTDESC20103;The fate of the $CRISISTAKER_ADJ$ people has become a major international crisis recently. While $CRISISTARGET$ currently controls the area, $CRISISTAKER_ADJ$ rebels and patriots are making a major effort to free themselves from $CRISISTARGET_ADJ$ rule. As a Great Power we have of course sent an ambassador to discuss the fate of $CRISISTAKER$, unfortunately he appeared at the latest summit meeting more drunk than usual and proclaimed that we were prepared to settle the issue by giving all other participants a sound thrashing if they don't follow our lead. Naturally this has escalated the situation, although we can still back down by disavowing his actions, but doing so would be most embarrassing.;;Das Schicksal des $CRISISTAKER_ADJ$en Volkes weitete sich vor Kurzem zu einem internationalen Konflikt aus. Zur Zeit kontrolliert $CRISISTARGET$ die Gegend und die $CRISISTAKER_ADJ$en Rebellen und Patrioten bemühen sich verzweifelt, sich von der $CRISISTARGET_ADJ$en Herrschaft zu befreien. Als Großmacht haben wir natürlich einen Botschafter entsandt, um das Schicksal von $CRISISTAKER$ zu diskutieren, leider hat dieser beim letzten Gipfeltreffen, betrunkener als für gewöhnlich, behauptet, dass wir darauf vorbereitet sind, dieses Problem zu beseitigen, indem er allen anderen Teilnehmern Prügel androhte, wenn sie nicht auf unserer Seite wären. Natürlich sich die Situation dadurch zugespitzt, doch wir können noch zurückrudern und uns von ihm distanzieren, auch wenn das sehr beschämend wäre.;;;;;;;;x;;;
-EVTOPTA20103;Rattle our sabre!;;Lasst unsere Säbel rasseln!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTOPTB20103;Fire the fool!;;Entlasst diesen Narren!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTNAME20104;The $CRISISAREA$ Crisis;;Der $CRISISAREA$ Konflikt;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTDESC20104;Dispute over $CRISISAREA$ has now escalated into an international crisis. With Great Powers taking sides on the matter the stakes are suddenly a lot higher, should we attempt to press our claims strongly or try to calm the situation?;;Der Disput über $CRISISAREA$ ist zu einem nationalen Konflikt eskaliert. Großmächte beziehen Stellung und es steht nun deutlich mehr auf dem Spiel. Sollten wir unsere Ansprüche mit Nachdruck einfordern oder versuchen, die Situation zu beruhigen?;;;;;;;;x;;;,,,,,,,,,,,,,
-EVTOPTA20104;It's ours!;;Es gehört uns!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTOPTB20104;We are open to discussion.;;Wir sind offen für Diskussionen.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTNAME20105;The $CRISISAREA$ Crisis;;Der $CRISISAREA$ Konflikt;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTDESC20105;With the $CRISISTAKER_ADJ$ rebels struggling to break free from our nation and $CRISISATTACKER$ supporting them, we must hope that the arms of $CRISISDEFENDER$ will be able to support our cause. Should our Ambassador to $CRISISDEFENDER$ ask them to press our case strongly, or hint that we are open to a negotiated settlement?;;Die  $CRISISTAKER_ADJ$en Rebellen kämpfen, um sich von unserer Nation zu befreien, und $CRISISATTACKER$ unterstützt sie. Wir können nur hoffen, dass die Streitmächte von $CRISISDEFENDER$ uns in unserer Sache unterstützen können. Sollte unser Botschafter $CRISISDEFENDER$ um deren absoluten Rückhalt bitten, oder sollten wir andeuten, dass wir einem verhandelten Vergleich nicht im Wege stehen.;;;;;;;;x;;;,,,,,,,,
-EVTOPTA20105;Press our Claim!;;Besteht auf unserem Anspruch!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-EVTOPTB20105;Let's not fight over this.;;Lasst uns nicht deswegen kämpfen.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-COLONIZE_PHASE_INTEREST;Establishing interest;;Interesse etablieren;;;;;;;;x;;;,,,,,,,,,,,,,,,
-COLONIZE_PHASE_INTEREST_DESC;Compete with investment of colonial power. The top two countries when someone gets $LEVELS$ levels ahead go on to next state of competition;;Investiert in den Wettstreit Kolonialmacht. Die zwei besten Länder treten in die nächste Phase des Wettstreits ein, sobald jemand $LEVELS$ Stufen Vorsprung hat.;;;;;;;;x;;;,,,,,,,,,,,,,,
-COLONIZE_PHASE_INFLUENCE;Colonial competition;;Einfluss sichern;;;;;;;;x;;;,,,,,,,,,,,,,,,
-COLONIZE_PHASE_INFLUENCE_DESC;Two countries battle with colonial power until one side can not match influence. Every time investment is made tension in state will increase and if it gets too hot turns into a crisis.;;Zwei Länder wettstreiten mit Einsatz von Kolonialmacht, bis eine Seite dem Einfluss nichts mehr entgegenzusetzen hat. Mit jeder Investition steigt die Spannung im Staat und wenn die Stimmung zu sehr hochkocht, bricht ein Konflikt aus.;;;;;;;;x;;;,,,,,,,,,,,,,
-COLONIZE_PHASE_COLONIZATION;Colonization;;Kolonisierung;;;;;;;;x;;;,,,,,,,,,,,,,,,
-COLONIZE_PHASE_COLONIZATION_DESC;Winner of previous phases has $MONTHS$ months to convert to a colony or lose investments.;;Der Gewinner der vorhergehenden Phasen hat  $MONTHS$ Monate, um eine Kolonie zu konvertieren, oder er verliert alle Investitionen.;;;;;;;;x;;;,,,,,,,,,,,,,
-TICKING_WARSCORE_DESC_GRACE;$VAL$ (§Y$DAY$§! days left).;;$VAL$ (§Y$DAY$§! Tag(e) verbleiben).;;;;;;;;x;;;,,,,,,,,,,,,,,,
-TICKING_WARSCORE_DESC_GRACE_EXPLAIN;Territorial war goals that are at least §G$MIN$%§! fulfilled will gradually add war score to the claimant.\nIf a war goal is not fulfilled after §Ygrace period of $DAYS$ days§! it will instead add war score to the owner. A goal occupied by the claimant and retaken by the owner will gradually revert to §Y0§! score to either side.;;Territoriale Kriegsziele, die wenigstens zu §G$MIN$%§! erfüllt sind, geben dem Anspruchsteller mit der Zeit Kriegspunkte.\nWenn ein Kriegsziel nach einer §YFrist von $DAYS$ Tag(en)§! nicht erfüllt ist, so erhält der Besitzer Kriegspunkte. Ein vom Anspruchssteller besetztes und vom Besitzer zurückerobertes Ziel wird auf beiden Seiten schrittweise die Punkte auf §Y0§! zurücksetzen.;;;;;;;;x;;;,,,,,,,,,,,,
-TICKING_WARSCORE_FULFILL_TERRITORY_WG;§GFulfilled when occupying at least $MIN$% provinces of the targeted state(s) of this war goal.§!;;§GIst erfüllt, wenn mindestens $MIN$% der Provinzen der Zielstaaten dieses Kriegsziels eingenommen wurden.§!;;;;;;;;x;;;,,,,,,,,,,,,,,
-TICKING_WARSCORE_FULFILL_TERRITORY_ANY;§GFulfilled when occupying at least $MIN$% provinces belonging to the targeted nation.§!;;§GIst erfüllt, wenn mindestens $MIN$% der Provinzen im Besitz der Zielnation eingenommen wurden.§!;;;;;;;;x;;;,,,,,,,,,,,,,,
-TICKING_WARSCORE_FULFILL_BATTLE;§GFulfilled when we have a greater war score from battles, once at least §G$BAT$§! have been fought.§!;;§GIst erfüllt, wenn wir einen höhere Kriegswertung durch Gefechte bekommen, sobald mindestens §G$BAT$§! gekämpft wurden.§!;;;;;;;;x;;;,,,,,,,,,,,,
-CREATE_PROTECTORATE;Create Protectorate;;Protektorat erstellen;;;;;;;;x;;;,,,,,,,,,,,,,,,
+SIEGE; 포위;;;;;;;;;;;;;
+TRANSFER_SUB_ALL;[SUB_A7]G쉬프트 + 마우스 좌클릭[SUB_A7]W으로 같은 병종을 모두 전속합니다.;;;;;;;;;;;;;
+OBSOLETE_UNIT_TECH;[SUB_A7]Y$UNIT$[SUB_A7]W 부대가 [SUB_A7]Y$TECH$[SUB_A7]W의 존재로 인해 구식으로 전락했습니다.;;;;;;;;;;;;;
+ARMY_RECON_TOOLTIP;정찰 효율: [SUB_A7]Y$VAL$[SUB_A7]W%;;;;;;;;;;;;;
+ARMY_RECON_DELAYED_TOOLTIP;정찰 효율은 적군의 참호 방어력을 줄이고 포위를 가속화하는 정찰대의 능력입니다.\n\n해당 부대는 정찰여단을 필요량([SUB_A7]Y$RECONMAXUNITS$[SUB_A7]W개 여단) 중 [SUB_A7]Y$RECONUNITS$[SUB_A7]W개 여단을 보유하고 있으며, 제공하는 정찰효율은 [SUB_A7]Y$VAL$[SUB_A7]W입니다.;;;;;;;;;;;;;
+ARMY_ENGINEER_TOOLTIP;포위 효율: [SUB_A7]Y$VAL$[SUB_A7]W%;;;;;;;;;;;;;
+ARMY_ENGINEER_DELAYED_TOOLTIP;포위 효율은 공격 및 포위 시 적 요새의 효율을 감소시키는 공병대와 전차대의 능력입니다.\n\n해당 부대는 공병여단 및 기갑여단을 필요량([SUB_A7]Y$ENGINEERMAXUNITS$[SUB_A7]W개 여단) 중 [SUB_A7]Y$ENGINEERUNITS$[SUB_A7]W개 여단을 보유하고 있어 포위효율을 [SUB_A7]Y$VAL$[SUB_A7]W 제공합니다.;;;;;;;;;;;;;
+TENSION_DECAY;기본 감소: [SUB_A7]Y$VAL$[SUB_A7]W;;;;;;;;;;;;;
+TENSION_FROM_GP_WARS;강대국 교전국: [SUB_A7]Y$VAL$[SUB_A7]W;;;;;;;;;;;;;
+TENSION_FROM_GP_DISARMED;강대국 군비제한: [SUB_A7]Y$VAL$[SUB_A7]W;;;;;;;;;;;;;
+TENSION_FROM_GP_RANK;강대국 순위: [SUB_A7]Y$VAL$[SUB_A7]W;;;;;;;;;;;;;
+HAS_NOT_CULTURAL_SPHERE; ≠ 문화가 같은 국가를 영향권에 편입함;;;;;;;;;;;;;
+HAS_CULTURAL_SPHERE; = 문화가 같은 국가를 영향권에 편입함;;;;;;;;;;;;;
+UCA;중앙아메리카;;;;;;;;;;;;;
+LOAD_SAVEGAME_FAIL;저장한 게임을 불러오지 못했습니다.;;;;;;;;;;;;;
+NEWS_TOOLTIP_UNREAD;읽지 않은 신문이 총 [SUB_A7]G$MAX$[SUB_A7]W부 중에서 [SUB_A7]G$NUM$[SUB_A7]W부 있습니다.;;;;;;;;;;;;;
+NEWS_TOOLTIP_NO_NEW;읽지 않은 신문이 없습니다.;;;;;;;;;;;;;
+become_independent_desc;무력을 통해 종주국에게 독립을 선언합니다.;;;;;;;;;;;;;
+CRISIS_DAYS_UNTIL_WAR;[SUB_A7]Y$DAYS$[SUB_A7]W일 안에 외교적 중재안을 찾지 못하면 전쟁이 발발합니다.;;;;;;;;;;;;;
+REMOVEFROMSPHERE_COST_NO_INFAMY;위신이 [SUB_A7]R$PRESTIGE$[SUB_A7]W 감소합니다.;;;;;;;;;;;;;
+REMOVEFROMSPHERE_COST;위신이 [SUB_A7]R$PRESTIGE$[SUB_A7]W 감소하며 악명이 [SUB_A7]R$INFAMY$[SUB_A7]W 증가합니다.;;;;;;;;;;;;;
+REMOVEFROMSPHERE_DESC;해당 국가를 [SUB_A7]Y강대국[SUB_A7]W의 영향권에서 이탈시킵니다.;;;;;;;;;;;;;
+CRISIS_INTEREST;이익: [SUB_A7]Y$VAL$[SUB_A7]W;;;;;;;;;;;;;
+CRISIS_MAKE_OFFER_INVALID;무언가를 제안해야 합니다!;;;;;;;;;;;;;
+CRISIS_MAKE_OFFER_NOT_LEADER;무언가를 제안하려면 위기의 주도국이어야 합니다.;;;;;;;;;;;;;
+CRISIS_MAKE_OFFER;[SUB_A7]Y$COUNTRY$[SUB_A7]W에게 우리 세력 후원을 제안합니다.;;;;;;;;;;;;;
+CRISIS_AI_WANTS_TO_BACK_1;: 후원국을 결정하지 않았습니다.;;;;;;;;;;;;;
+CRISIS_AI_WANTS_TO_BACK_2;: 후원 쪽으로 기울고 있습니다.:;;;;;;;;;;;;;
+CRISIS_AI_WANTS_TO_BACK_3;: 후원 쪽으로 강하게 기울고 있습니다.:;;;;;;;;;;;;;
+CRISIS_AI_INTEREST;후원에 대한 관심;;;;;;;;;;;;;
+unification_release_puppet_cb_setup;$RECIPIENT$이 점유한 $THIRD$을 해방하고 영향권에 편입합니다.;;;;;;;;;;;;;
+unification_release_puppet_cb_desc;외세의 통제를 받는 동포를 해방하고 영향권에 편입합니다.;;;;;;;;;;;;;
+unification_release_puppet_cb;동포 해방;;;;;;;;;;;;;
+unification_release_puppet_cb_short;$THIRD$ 해방;;;;;;;;;;;;;
+AIREASON_STRATEGIC_INTERESTS;전략적 이익;;;;;;;;;;;;;
+AIREASON_BACKED_BY_ALLY;동맹국의 후원;;;;;;;;;;;;;
+AIREASON_ALLY;동맹국;;;;;;;;;;;;;
+AIREASON_TOO_EARLY_IN_CRISIS;위기 초기;;;;;;;;;;;;;
+AIREASON_CRISIS_OFFER;$WARGOAL$:;;;;;;;;;;;;;
+AIREASON_ATTACKING_ALLY;동맹국 공격 중;;;;;;;;;;;;;
+AIREASON_ATTACKING_FRIENDS;우방국 공격 중;;;;;;;;;;;;;
+AIREASON_ATTACKING_ENEMIES;적국 공격 중;;;;;;;;;;;;;
+AIREASON_COMMON_FOE;공공의 적;;;;;;;;;;;;;
+AIREASON_WAR_WITH_SPHERE_LEADER;영향권 맹주와 교전;;;;;;;;;;;;;
+AIREASON_CONSTRUCTING_CB;전략적 이익;;;;;;;;;;;;;
+AIREASON_HELD_CORES;영유권 보유 지역 소유;;;;;;;;;;;;;
+AIREASON_NEGATIVE_RELATIONS;부정적 관계;;;;;;;;;;;;;
+AIREASON_THREATS;위협;;;;;;;;;;;;;
+AIREASON_TOO_MANY_GP_ALLIES;너무 많은 강대국 동맹국;;;;;;;;;;;;;
+AIREASON_DESIRES_GP_ALLY;강대국 동맹국 염원;;;;;;;;;;;;;
+AIREASON_ALLY_OF_ALLY;동맹국의 동맹국;;;;;;;;;;;;;
+AIREASON_TOO_MANY_ALLIANCES;너무 많은 동맹국;;;;;;;;;;;;;
+AIREASON_RELATIVE_ARMY_STRENGTH;육군력;;;;;;;;;;;;;
+AIREASON_RELATIVE_NAVY_STRENGTH;해군력;;;;;;;;;;;;;
+AIREASON_CURRENT_WARS;현재 전쟁;;;;;;;;;;;;;
+AIREASON_OUR_CASUS_BELLI;우리 세력의 전쟁명분;;;;;;;;;;;;;
+AIREASON_YOUR_CASUS_BELLI;우리나라의 전쟁명분;;;;;;;;;;;;;
+AIREASON_CIV_VS_UNCIV;문명 대 비문명;;;;;;;;;;;;;
+AIREASON_DIPLOMATIC_GOALS;정치적 고려;;;;;;;;;;;;;
+AIREASON_DISTANCE;거리;;;;;;;;;;;;;
+AIREASON_DIFFERENT_GOVTYPES;통치체제;;;;;;;;;;;;;
+AIREASON_OUR_SPHERE;우리 영향권;;;;;;;;;;;;;
+AIREASON_OTHER_SPHERE_LEADER;다른 영향권 맹주;;;;;;;;;;;;;
+AIREASON_OTHER_SPHERE;다른 영향권;;;;;;;;;;;;;
+AIREASON_OVERLORD;종주국;;;;;;;;;;;;;
+AIREASON_BADBOY;악명;;;;;;;;;;;;;
+AIREASON_RELATIONS;관계;;;;;;;;;;;;;
+AIREASON_GP_RELATIONS;발언력;;;;;;;;;;;;;
+AIREASON_BASE_RELUCTANCE;기본 저항;;;;;;;;;;;;;
+AI_DIPLOMATIC_VALUE;외교적 가치;;;;;;;;;;;;;
+AI_DIPLO_NO;수락하지 않을 것입니다.;;;;;;;;;;;;;
+AI_DIPLO_YES;수락할 것입니다.;;;;;;;;;;;;;
+SHIP_BUILD_MIN_BASE_LEVEL_WARNING;[SUB_A7]R해당 군항에서는 편제할 수 없습니다. [SUB_A7]Y$LVL$[SUB_A7]R단계 이상이어야 합니다.[SUB_A7]W;;;;;;;;;;;;;
+NAVAL_BASE_OVERSEAS_LIMIT;[SUB_A7]R주력함은 해외 지역에서 건조할 수 없습니다.[SUB_A7]W;;;;;;;;;;;;;
+NAVAL_COMBAT_DAMAGE_DESC_TITLE;예상 화력은 [SUB_A7]G$POWER$[SUB_A7]W입니다.:;;;;;;;;;;;;;
+NAVAL_COMBAT_DAMAGE_DESC_BASE;[SUB_A7]Y$UNIT$[SUB_A7]W 기본 공격력: [SUB_A7]G$VAL$[SUB_A7]W;;;;;;;;;;;;;
+NAVAL_COMBAT_DAMAGE_DESC_TORP;뇌격력: [SUB_A7]G$VAL$[SUB_A7]W;;;;;;;;;;;;;
+NAVAL_COMBAT_DAMAGE_DESC_LUCK;행운과 결단력: [SUB_A7]Y$VAL$%[SUB_A7]W;;;;;;;;;;;;;
+NAVAL_COMBAT_DAMAGE_DESC_HULL;적군 선체([SUB_A7]R$HULL$[SUB_A7]W)로 인한 감소량: [SUB_A7]R$VAL$%[SUB_A7]W;;;;;;;;;;;;;
+NAVAL_COMBAT_DAMAGE_DESC_EXP;적군 숙련도([SUB_A7]R$EXP$%[SUB_A7]W)로 인한 감소량: [SUB_A7]R$VAL$%[SUB_A7]W;;;;;;;;;;;;;
+NAVAL_COMBAT_DAMAGE_DESC_NOORG;적군 조직력 고갈: [SUB_A7]Y$VAL$%[SUB_A7]W;;;;;;;;;;;;;
+NAVAL_COMBAT_DAMAGE_DESC_STR;아군 내구도로 인한 감소량: [SUB_A7]Y$VAL$%[SUB_A7]W;;;;;;;;;;;;;
+NAVAL_COMBAT_HIT_CHANCE_DESC;명중률: [SUB_A7]Y$VAL$%[SUB_A7]W;;;;;;;;;;;;;
+NAVAL_COMBAT_HIT_CHANCE_DESC_EVA;(적군의 회피로 인해 [SUB_A7]R$VAL$%[SUB_A7]W 감소);;;;;;;;;;;;;
+MOBILIZATION_PROGRESS_PAUSED;[SUB_A7]Y$PROV$[SUB_A7]W에서의 징집병 동원을 곧 시작합니다.;;;;;;;;;;;;;
+MOBILIZATION_PROGRESS_PENDING;현재 동원율은 [SUB_A7]Y$PROG$%[SUB_A7]W입니다.;;;;;;;;;;;;;
+MOBILIZATION_PROGRESS_NOT_MOBILIZED;동원에 다소 시간이 걸리겠지만, 개선된 철도망이 동원 속도를 가속화합니다.;;;;;;;;;;;;;
+COLONY_ADD_INFLUENCE;식민지 영향력 투사;;;;;;;;;;;;;
+EVTNAME20100;$STATE$에서의 긴장;;;;;;;;;;;;;;
+EVTDESC20100;최근 국제사회에서 $STATE$의 가난하고 억압받는 이들의 이른바 '역경'에 대한 인식이 퍼지고 있습니다. 현지 주민들은 우리나라가 오랫동안 자신들을 억압해왔으며, 우리나라의 통치로부터 자유를 갈망한다고 주장했습니다. 물론 우리는 $STATE$ 통치에 간섭하지 않습니다.;;;;;;;;;;;;;
+EVTOPTA20100;물론 어림도 없다!;;;;;;;;;;;;;;
+EVTOPTB20100;이 문제에 대해 이야기해봐야 할 것 같은데...;;;;;;;;;;;;;;
+EVTNAME20101;$STATE$에서의 긴장;;;;;;;;;;;;;;
+EVTDESC20101;최근 국제사회에서 $STATE$의 가난하고 억압받는 이들의 이른바 '역경'에 대한 인식이 퍼지고 있습니다. 이 이야기는 우리나라가 $STATE$ 지방을 통치할 합법적인 권리가 없다고 주장하며, 이윽고 인근 강대국들이 이 주장에 관심을 가지기 시작했습니다.;;;;;;;;;;;;;
+EVTOPTA20101;$STATE$ 지방이 우리 당임을 주장한다!;;;;;;;;;;;;;;
+EVTOPTB20101;그들의 입장을 이해한다.;;;;;;;;;;;;;;
+EVTNAME20102;$CRISISAREA$ 위기;;;;;;;;;;;;;;
+EVTDESC20102;;$CRISISAREA$ 지방에 대한 분쟁이 이제 국제위기로 확대됐습니다. $CRISISTAKER$ 측은 $CRISISAREA$ 지방이 국토의 필수적인 일부라고 주장하는 반면, $CRISISTARGET$ 측은 $CRISISTAKER$ 측의 모든 주장을 부인하며 $CRISISAREA$ 지방이이 $CRISISTARGET$ 측의 통제 하에 있어야 한다고 주장합니다. 최근 위기에 관한 회담에서 우리나라 대사가 모든 참석자의 분노를 크게 고조하는 다소 호전적인 발언을 여러 차례 꺼냈습니다.\n대사의 입장을 지지해야 할까요, 아니면 그 행동에 대해 사과하고 대사의 발언을 부정해야 할까요?;;;;;;;;;;;;
+EVTOPTA20102;대사의 말이 옳다, 오직 전쟁만이 해결책이다!;;;;;;;;;;;;;;
+EVTOPTB20102;대사의 말을 듣지 마라!;;;;;;;;;;;;;;
+EVTNAME20103;$CRISISTAKER$의 운명;;;;;;;;;;;;;;
+EVTDESC20103;최근 $CRISISTAKER$계 주민의 운명이 국제위기로 치달았습니다. 현재 $CRISISTARGET$ 측이 $CRISISAREA$ 지방을 장악하고 있지만, $CRISISTAKER$계 반군과 애국주의자들은 $CRISISTARGET$의 통치에서 벗어나고자 많은 노력을 기울이고 있습니다. 우리나라도 물론 강대국으로서 $CRISISTAKER$계 주민의 운명을 논의하고자 대사를 파견했지만, 불행하게도 대사는 평소보다 더 취해서 정상회담에 나타나 모든 참가자에게 우리나라의 지도를 따르지 않는다면 다른 모든 참가자들을 호되게 꾸짖음으로써 이 문제를 잘 해결하겠다고 선언했습니다. 대사의 행동은 자연스럽게 상황을 더 악화시켰지만, 당혹스럽더라도 비록 대사의 행동을 부정함으로써 여전히 물러설 수는 있습니다.;;;;;;;;;;;;;
+EVTOPTA20103;칼을 뽑아라!;;;;;;;;;;;;;;
+EVTOPTB20103;그 멍청한 놈을 해고해!;;;;;;;;;;;;;;
+EVTNAME20104;$CRISISAREA$ 위기;;;;;;;;;;;;;;
+EVTDESC20104;$CRISISAREA$ 지방에 대한 갈등이 국제위기로 확대됐습니다. 강대국들이 위기에 대해 한쪽 편을 후원하는 상황에서, 영유권 주장을 강하게 압박해야 할까요, 아니면 상황을 진정하고자 노력해야 할까요?;;;;;;;;;;;;;
+EVTOPTA20104;그 땅은 우리 땅이다!;;;;;;;;;;;;;;
+EVTOPTB20104;협상의 여지는 있다.;;;;;;;;;;;;;;
+EVTNAME20105;$CRISISAREA$ 위기;;;;;;;;;;;;;;
+EVTDESC20105;$CRISISTAKER$계 반군이 우리나라에게서 벗어나고자 안간힘을 쓰고 $CRISISATTACKER$ 측이 그들을 지지하는 가운데, CRISISDEFENDER$ 측의 무력이 우리의 대의를 지지할 수 있기를 바라야 합니다. $CRISISDEFENDER$ 주재 대사를 통해 $CRISISDEFENDER$ 측에게 사건에 관해서 강력하게 압박해 달라고 요청해야 할까요, 아니면 협상의 여지가 있음을 암시해야 할까요?;;;;;;;;;;;;;
+EVTOPTA20105;밀어붙여!;;;;;;;;;;;;;;
+EVTOPTB20105;이런 일로 싸우지 말자.;;;;;;;;;;;;;;
+COLONIZE_PHASE_INTEREST;관심사 설정;;;;;;;;;;;;;
+COLONIZE_PHASE_INTEREST_DESC;식민력을 이용한 투자를 통해 경쟁합니다. $LEVELS$단계를 먼저 달성한 두 국가가 다음 경쟁 단계로 넘어갑니다.;;;;;;;;;;;;;
+COLONIZE_PHASE_INFLUENCE;식민지 경쟁;;;;;;;;;;;;;
+COLONIZE_PHASE_INFLUENCE_DESC;두 국가가 식민력을 갖고 어느 한쪽이 영향력을 행사하지 못할 때까지 싸웁니다. 투자할 때마다 주의 긴장이 고조되며, 긴장이 너무 높지면 위기로 변합니다.;;;;;;;;;;;;;
+COLONIZE_PHASE_COLONIZATION;식민화;;;;;;;;;;;;;
+COLONIZE_PHASE_COLONIZATION_DESC;이전 단계의 승자가 $MONTHS$개월 안에 식민지를 설립하지 않으면 모든 투자가 사라집니다.;;;;;;;;;;;;;
+TICKING_WARSCORE_DESC_GRACE;필요 전쟁점수: $VAL$ ([SUB_A7]Y$DAY$[SUB_A7]W일 남음);;;;;;;;;;;;;
+TICKING_WARSCORE_DESC_GRACE_EXPLAIN;영토 전쟁목표를 [SUB_A7]G$MIN$%[SUB_A7]W 이상 충족하면 청구국의 전쟁점수를 점차적으로 높입니다.\n[SUB_A7]Y$DAYS$일[SUB_A7]W의 유예기간 안에 전쟁목표를 달성하지 못하면, 반대로 피청구국의 전쟁점수를 높입니다. 전쟁목표를 청구국이 점령했다가 피청구국이 탈환하면 전쟁점수가 점차적으로 [SUB_A7]Y0[SUB_A7]W으로 되돌아갑니다.;;;;;;;;;;;;;
+TICKING_WARSCORE_FULFILL_TERRITORY_WG;[SUB_A7]G전쟁목표로 지정된 주에 속하는 지역을 $MIN$% 이상 점령하면 충족합니다.[SUB_A7]W;;;;;;;;;;;;;
+TICKING_WARSCORE_FULFILL_TERRITORY_ANY;[SUB_A7]G피청구국 영토를 $MIN$% 이상 점령하면 충족합니다.[SUB_A7]W;;;;;;;;;;;;;
+TICKING_WARSCORE_FULFILL_BATTLE;[SUB_A7]G$BAT$[SUB_A7]W번 이상의 전투에서 얻은 전쟁점수가 더 높으면 충족합니다.[SUB_A7]W;;;;;;;;;;;;;
+CREATE_PROTECTORATE;보호령 설립;;;;;;;;;;;;;
 COUNTRYALERT_NO_Colonial;Nothing in our colonies needs attention.;;Nichts in unseren Kolonien bedarf unserer Aufmerksamkeit.;;;;;;;;x;;;,,,,,,,,,,,,,,,
 COUNTRYALERT_NO_Crisis;No current crisis.;;Kein aktueller Konflikt.;;;;;;;;x;;;,,,,,,,,,,,,,,,
 COUNTRYALERT_Crisis;Current crisis is at a temperature of §Y$TEMPERATURE$§!;;Aktuelle Konflikttemperatur: §Y$TEMPERATURE$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
