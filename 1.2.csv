@@ -1,6 +1,6 @@
 Key;English;;;;;;;;;;;;;
-RECRUITED_PERCENTAGE_LESS_THAN; 징병 가능 병사 < [SUB_A7]Y$VAL$[SUB_A7]W%;;;;;;;;;;;;;
-RECRUITED_PERCENTAGE_MORE_THAN; 징병 가능 병사 ≥ [SUB_A7]Y$VAL$[SUB_A7]W%;;;;;;;;;;;;;
+RECRUITED_PERCENTAGE_LESS_THAN; 징집 가능 병사 < [SUB_A7]Y$VAL$[SUB_A7]W%;;;;;;;;;;;;;
+RECRUITED_PERCENTAGE_MORE_THAN; 징집 가능 병사 ≥ [SUB_A7]Y$VAL$[SUB_A7]W%;;;;;;;;;;;;;
 SEPARATISM_TECH;분리주의;;;;;;;;;;;;;
 INC_RES_TECH;연구점;;;;;;;;;;;;;
 TOTAL_POPS_NOT_TR; $WHERE$ 내에 존재하는 인구 < [SUB_A7]Y$VAL$[SUB_A7]W\n;;;;;;;;;;;;;
