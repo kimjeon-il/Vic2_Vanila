@@ -168,51 +168,51 @@ SIEGETHEMREBEL_BTN1;확인;;;;;;;;;;;;;
 SIEGETHEMREBEL_BTN2;확인;;;;;;;;;;;;;
 SIEGETHEMREBEL_BTN3;참조;;;;;;;;;;;;;
 SIEGETHEMREBEL_MAP;*;;;;;;;;;;;;;
-REMOVE_RANDOM_ECO_REFORMS_EFFECT;Remove §R$VAL$§! economic reforms.\n;Suppression de §R$VAL$§! réformes économiques.\n;§R$VAL$§! ökonomische Reformen entfernen.\n;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-REMOVE_RANDOM_MIL_REFORMS_EFFECT;Remove §R$VAL$§! military reforms.\n;Suppression de §R$VAL$§! réformes militaires.\n;§R$VAL$§! militärische Reformen entfernen.\n;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_FACTORY_PURE_INCOME;Last day's pure income: $VALUE$;Revenu net du jour dernier : $VALUE$;Reines Einkommen des letzten Tages: $VALUE$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_FACTORY_MARKET_SPENDINGS;Market spendings: $VALUE$;Dépenses sur les marchés : $VALUE$;Ausgaben auf dem Markt: $VALUE$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_FACTORY_POP_PAYCHECKS;Workers and capitalists paychecks: $VALUE$;Rémunérations des travailleurs et du capital : $VALUE$;Gehaltsscheck von Arbeitern und Kapitalisten: $VALUE$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_FACTORY_TOTAL_BALANCE;Last day's balance: $VALUE$;Solde du jour dernier : $VALUE$;Kontostand des Vortags: $VALUE$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_FACTORY_TODAY_PROFIT;Last day's profitability: $VALUE$;Profit du jour dernier: $VALUE$;Rentabilität des Vortags: $VALUE$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_FACTORY_PROFITABILITY;Avg. profitability (last $DAYS$ days): $VALUE$;Profit moyen (derniers $DAYS$ jours) : $VALUE$;Durschnittl. Rentabilität (der letzten $DAYS$ Tage): $VALUE$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_FACTORY_CURRENT_BUDGET;Current factory budget: $VALUE$;Budget actuel des usines : $VALUE$;Derzeitiges Fabrikanlagen-Budget: $VALUE$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_FACTORY_INVESTMENT;From investments: $VALUE$;Des investissements : $VALUE$;Aus Investitionen: $VALUE$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_FACTORY_SUBSIDIES;From investments: $VALUE$;Des investissements : $VALUE$;Aus Investitionen: $VALUE$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-INFLUENCE_OVERFLOW_TOOLTIP;We are spending §Y$VALUE$§! of influence points each day, to reduce the influence of other countries.;Nous utilisons chaque jour §Y$VALUE$§! points d'influence pour réduire l'influence des pays étrangers.;Wir verbrauchen jeden Tag §Y$VALUE$§! Einfluss-Punkte, um den Einfluss anderer Länder zu reduzieren. ;;;;;;;;;;;x,,,,,,,,,,,,,,,,
-TRADE_FLOW_PRODUCED;§YProduced by:§W;§YProduit par :§W;§YProduziert von:§W;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_USED;§YUsed by:§W;§YUtilisé par :§W;§YBenutzt von:§W;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_MAY_BE_USED;§YMay be used for:§W;§YPeut être utilisé par :§W;§YKann genutzt werden für:§W;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_TOTAL_PRODUCED;§YTotal Produced:§W;§YProduction totale :§W;§YInsgesamt produziert:§W;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_TOTAL_USED;§YTotal Used:§W;§YUtilisation totale :§W;§YGesamter Verbrauch:§W;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_RGO_NAME;RGOs;EAM;RGOs;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_DESC_RGO;Our $POP$ are $ACTION$ $AMOUNT$ $RESOURCE$ each day.;Nos $POP$ $ACTION$ $AMOUNT$ $RESOURCE$ par jour.;Unsere $POP$ betragen $ACTION$ $AMOUNT$ $RESOURCE$ pro Tag.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_DESC_RGO_ACTION_MINING;mining;extraient;Bergbau;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_DESC_RGO_ACTION_FARMING;farming;produisent;Landwirtschaft;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_DESC_ARTISAN;Our Artisans are producing $AMOUNT$ $RESOURCE$ each day.;Nos artisans produisent $AMOUNT$ de $RESOURCE$ chaque jour.;Unsere Handwerker produzieren $AMOUNT$ $RESOURCE$ pro Tag.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_DESC_FACTORY;Our $FACTORY$ in $STATE$ is producing $AMOUNT$ $RESOURCE$ each day.;Notre $FACTORY$ en $STATE$ produit $AMOUNT$ de $RESOURCE$ par jour.;Unsere $FACTORY$ in $STATE$ produziert $AMOUNT$ $RESOURCE$ pro Tag.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_CONSUME_DESC_ARTISAN;Artisans are using $AMOUNT$ $RESOURCE$, to produce $OUTPUT$.;Les artisans utilisent $AMOUNT$ de $RESOURCE$ pour une producion de $OUTPUT$.;Handwerker verwenden $AMOUNT$ $RESOURCE$, um $OUTPUT$ zu produzieren.;;;;;;;;;;;x,,,,,,,,,,,,,,,,
-TRADE_FLOW_CONSUME_DESC_RGO;$POP$ are using $AMOUNT$ $RESOURCE$ to produce $OUTPUT$.;Les $POP$ utilisent $AMOUNT$ de $RESOURCE$ pour une producion de $OUTPUT$.;$POP$ verwenden $AMOUNT$ $RESOURCE$, um $OUTPUT$ zu produzieren.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-TRADE_FLOW_CONSUME_DESC_FACTORY;Our $FACTORY$ in $STATE$ is using $AMOUNT$ $RESOURCE$ for an input and/or maintenance requirements.;Notre $FACTORY$ en $STATE$ utilise $AMOUNT$ de $RESOURCE$ comme matière première et/ou pour son entretien.;Unsere $FACTORY$ in $STATE$ verwendet $AMOUNT$ $RESOURCE$ als Eingangs- und/ oder Instandhaltungsvoraussetzungen.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_CONSUME_DESC_POPS;Our $POP$ are using $AMOUNT$ $RESOURCE$ as part of their daily needs.;Nos $POP$ utilisent $AMOUNT$ de $RESOURCE$ au titre de leurs besoins quotidiens.;Unsere $POP$ verwenden $AMOUNT$ $RESOURCE$ als Teil ihres täglichen Bedarfs.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_CONSUME_DESC_MILITARY;Our armies are using $AMOUNT$ $RESOURCE$ as a daily supply consumption.;Nos armées utilisent $AMOUNT$ de $RESOURCE$ pour leur ravitaillement quotidien.;Unsere Armee benötigt $AMOUNT$ $RESOURCE$ für ihren täglichen Vorratsverbrauch.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_MAY_USE_MILITARY_DESC;$INPUT$ may be used by our armies as a daily supply consumption.;$INPUT$ peuvent être utilisés quotidiennement par nos armées pour leur ravitaillement.;$INPUT$ kann von unseren Armeen für ihren täglichen Vorratsverbrauch verwendet werden.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_MAY_USE_DESC;$INPUT$ may be used by $PRODUCER$ to produce $OUTPUT$.;$INPUT$ peuvent être utilisés par les $PRODUCER$ pour une production de $OUTPUT$.;$INPUT$ kann durch $PRODUCER$ verwendet werden, um $OUTPUT$ zu produzieren.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-TRADE_FLOW_MILITARY_SUPPLY;Military Consumption;Consommation militaire;Militärischer Verbrauch;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_CURRENT_PRICE;Current Price:;Prix courant :;Derzeitiger Preis:;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_DETAILS;Details;Détail;Details;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TRADE_FLOW_PART_OF_WORLD_PROD;§Y$PERC$%§W of world production.;§Y$PERC$ %§W de la production mondiale.;§Y$PERC$%§W der Weltproduktion.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EMIGRATION_AT_PROVINCE_TOOLTIP;(§R$TOTALEMI$§!) §YEmigrations to:§!\n$EMILIST$\n(§G$TOTALIMM$§!) §YImmigrations from:§!\n$IMMLIST$;(§R$TOTALEMI$§!) §YÉmigration vers §!\n$EMILIST$\n(§G$TOTALIMM$§!) §YImmigration de §!\n$IMMLIST$;(§R$TOTALEMI$§!) §YAuswanderer nach:§!\n$EMILIST$\n(§G$TOTALIMM$§!) §YEinwanderer von:§!\n$IMMLIST$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NO_MIGRATIONS_FOUND1_TOOLTIP;Province belongs to: §Y$COUNTRY$§!;La Province appartient à : §Y$COUNTRY$§!;Provinz gehört zu: §Y$COUNTRY$§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NO_MIGRATIONS_FOUND2_TOOLTIP;No migration between countries has been noticed.;Aucune migration relevée entre pays;Es konnte keine Abwanderung zwischen Ländern festgestellt werden.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NO_MIGRATIONS_FOUND3_TOOLTIP;(Select province to see details);(Sélectionner une province pour voir les détails);(Für weitere Details, wähle eine Provinz);;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-PROVINCE_VIEW_BUILD_ALL_TOOLTIP;(Click + CTRL to build in all provinces in state);(Clic + Ctrl pour construire dans toutes les provinces de l'État);(Klick + CTRL, um in allen Provinzen des Staates zu bauen);;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-EMIGRATION_ENTRY_TOOLTIP;§R$NUM$§! to §Y$PROV$§!;§R$NUM$§! vers §Y$PROV$§!;§R$NUM$§! nach §Y$PROV$§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-IMMIGRATION_ENTRY_TOOLTIP;§G$NUM$§! from §Y$PROV$§!;§G$NUM$§! de §Y$PROV$§!;§G$NUM$§! von §Y$PROV$§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_GENERATION_SPEED_BONUS_ON_COLONY_COMPETITION;Competing with §Y$COUNTRY$§! for colonizing §Y$REGION$§!, speed bonus §Y$BONUS$§!.;Compétition avec §Y$COUNTRY$§! pour coloniser §Y$REGION$§!, bonus de vitesse de §Y$BONUS$§!.;Tretet gegen §Y$COUNTRY$§! an, um §Y$REGION$§! Zu kolonisieren, Geschwindigkeitsbonus §Y$BONUS$§!.;;;;;;;;;;;x,,,,,,,,,,,,,,
-CB_GENERATION_BONUS_TOOLTIP;The CB generation speed bonus §Y$BONUS$§! between competing countries: §Y$COUNTRIES$§!;Bonus de vitesse de génération des CB de §Y$BONUS$§! entre les pays concurrents : §Y$COUNTRIES$§!;Der CB Generationen-Geschwindigkeitsbonus §Y$BONUS$§! bei einem Kampf zwischen: §Y$COUNTRIES$§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_GENERATION_BONUS_TROOPS_PRESENCE_TOOLTIP;(§Y$BONUS$§! for presence of opponents troops);(§Y$BONUS$§! du fait de la présence de troupes ennemies);(§Y$BONUS$§! für die Anwesenheit gegnerischer Truppen);;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_GENERATION_BONUS_OPPONENT_TROOPS_PRESENCE;(§Y$BONUS$§! for §Y$FOR$§! against §Y$AGAINST$§! for presence of their troops);(§Y$BONUS$§! pour §Y$FOR$§! contre §Y$AGAINST$§! du fait de la présence de leurs troupes);(§Y$BONUS$§! für §Y$FOR$§! gegen §Y$AGAINST$§! für die Gegenwart ihrer Truppen);;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
+REMOVE_RANDOM_ECO_REFORMS_EFFECT; [SUB_A7]Y$VAL$[SUB_A7]W 경제개혁을 철회합니다.\n;;;;;;;;;;;;;
+REMOVE_RANDOM_MIL_REFORMS_EFFECT; [SUB_A7]Y$VAL$[SUB_A7]W 군사개혁을 철회합니다.\n;;;;;;;;;;;;;
+PRODUCTION_FACTORY_PURE_INCOME;어제 순수입: $VALUE$;;;;;;;;;;;;;
+PRODUCTION_FACTORY_MARKET_SPENDINGS;시장 지출: $VALUE$;;;;;;;;;;;;;
+PRODUCTION_FACTORY_POP_PAYCHECKS;노동자 및 자본가 봉급: $VALUE$;;;;;;;;;;;;;
+PRODUCTION_FACTORY_TOTAL_BALANCE;어제 잔고: $VALUE$;;;;;;;;;;;;;
+PRODUCTION_FACTORY_TODAY_PROFIT;어제 수익: $VALUE$;;;;;;;;;;;;;
+PRODUCTION_FACTORY_PROFITABILITY;최근 $DAYS$일 동안의 평균 수익: $VALUE$;;;;;;;;;;;;;
+PRODUCTION_FACTORY_CURRENT_BUDGET;현재 공장 예산: $VALUE$;;;;;;;;;;;;;
+PRODUCTION_FACTORY_INVESTMENT;투자: $VALUE$;;;;;;;;;;;;;
+PRODUCTION_FACTORY_SUBSIDIES;보조금: $VALUE$;;;;;;;;;;;;;
+INFLUENCE_OVERFLOW_TOOLTIP;다른 국가의 영향력을 줄이고자 매일마다 영향력을 [SUB_A7]Y$VALUE$[SUB_A7]W 투사하고 있습니다.;;;;;;;;;;;;;
+TRADE_FLOW_PRODUCED;[SUB_A7]Y생산자:[SUB_A7]W;;;;;;;;;;;;;
+TRADE_FLOW_USED;[SUB_A7]Y소비자:[SUB_A7]W;;;;;;;;;;;;;
+TRADE_FLOW_MAY_BE_USED;[SUB_A7]Y잠재적 소비자:[SUB_A7]W;;;;;;;;;;;;;
+TRADE_FLOW_TOTAL_PRODUCED;[SUB_A7]Y총생산량:[SUB_A7]W;;;;;;;;;;;;;
+TRADE_FLOW_TOTAL_USED;[SUB_A7]Y총소비량:[SUB_A7]W;;;;;;;;;;;;;
+TRADE_FLOW_RGO_NAME;채집장;;;;;;;;;;;;;
+TRADE_FLOW_DESC_RGO;국내 $POP$들이 매일마다 $RESOURCE$ 품목을 $AMOUNT$ $ACTION$합니다.;;;;;;;;;;;;;
+TRADE_FLOW_DESC_RGO_ACTION_MINING;생산;;;;;;;;;;;;;
+TRADE_FLOW_DESC_RGO_ACTION_FARMING;생산;;;;;;;;;;;;;
+TRADE_FLOW_DESC_ARTISAN;국내 장인들이 매일마다 $RESOURCE$ 품목을 $AMOUNT$ 생산합니다.;;;;;;;;;;;;;
+TRADE_FLOW_DESC_FACTORY;국내 $STATE$ $FACTORY$에서 매일마다 $RESOURCE$ 품목을 $AMOUNT$ 생산합니다.;;;;;;;;;;;;;
+TRADE_FLOW_CONSUME_DESC_ARTISAN;장인들이 $OUTPUT$ 생산에 $RESOURCE$ 품목을 $AMOUNT$ 사용합니다.;;;;;;;;;;;;;
+TRADE_FLOW_CONSUME_DESC_RGO;$POP$들이 $OUTPUT$ 생산에 $RESOURCE$ 품목을 $AMOUNT$ 사용합니다.;;;;;;;;;;;;;
+TRADE_FLOW_CONSUME_DESC_FACTORY;국내 $STATE$ $FACTORY$에서 공산품 생산 및 공장 유지보수에 $RESOURCE$ 품목을 $AMOUNT$ 사용합니다.;;;;;;;;;;;;;
+TRADE_FLOW_CONSUME_DESC_POPS;$POP$들이 일일 수요 충족에 $RESOURCE$ 품목을 $AMOUNT$ 사용합니다.;;;;;;;;;;;;;
+TRADE_FLOW_CONSUME_DESC_MILITARY;군대에서 일일 보급품 소비에 $RESOURCE$ 품목을 $AMOUNT$ 사용합니다.;;;;;;;;;;;;;
+TRADE_FLOW_MAY_USE_MILITARY_DESC;$INPUT$ 품목은 군대의 일일 보급품 소비에 사용될 수 있습니다.;;;;;;;;;;;;;
+TRADE_FLOW_MAY_USE_DESC;$INPUT$ 품목은 $PRODUCER$ 측이 $OUTPUT$ 생산에 사용할 수 있습니다.;;;;;;;;;;;;;
+TRADE_FLOW_MILITARY_SUPPLY;군대 소비;;;;;;;;;;;;;
+TRADE_FLOW_CURRENT_PRICE;현재 가격:;;;;;;;;;;;;;
+TRADE_FLOW_DETAILS;세부사항;;;;;;;;;;;;;
+TRADE_FLOW_PART_OF_WORLD_PROD;세계 생산량의 [SUB_A7]Y$PERC$%[SUB_A7]W입니다.;;;;;;;;;;;;;
+EMIGRATION_AT_PROVINCE_TOOLTIP;([SUB_A7]R$TOTALEMI$[SUB_A7]W) [SUB_A7]Y출국이민자:[SUB_A7]W\n$EMILIST$\n([SUB_A7]G$TOTALIMM$[SUB_A7]W) [SUB_A7]Y입국이민자:[SUB_A7]W\n$IMMLIST$;;;;;;;;;;;;;
+NO_MIGRATIONS_FOUND1_TOOLTIP;지역 소유국: [SUB_A7]Y$COUNTRY$[SUB_A7]W;;;;;;;;;;;;;
+NO_MIGRATIONS_FOUND2_TOOLTIP;국가 간의 이민이 확인되지 않았습니다.;;;;;;;;;;;;;
+NO_MIGRATIONS_FOUND3_TOOLTIP;(자세히 보려면 지역을 선택하세요);;;;;;;;;;;;;
+PROVINCE_VIEW_BUILD_ALL_TOOLTIP;(클릭 + 컨트롤로 해당 주에 속한 모든 지역에 건설합니다);;;;;;;;;;;;;
+EMIGRATION_ENTRY_TOOLTIP;[SUB_A7]R$NUM$[SUB_A7]W명이 [SUB_A7]Y$PROV$[SUB_A7]W 지역으로 이민갑니다.;;;;;;;;;;;;;
+IMMIGRATION_ENTRY_TOOLTIP;[SUB_A7]G$NUM$[SUB_A7]W명이 [SUB_A7]Y$PROV$[SUB_A7]W 지역에서 이민옵니다.;;;;;;;;;;;;;
+CB_GENERATION_SPEED_BONUS_ON_COLONY_COMPETITION;[SUB_A7]Y$COUNTRY$[SUB_A7]W 측과 [SUB_A7]Y$REGION$[SUB_A7]W 지방을 두고 식민지 경쟁을 펼치고 있으므로 전쟁 정당화 속도가 [SUB_A7]Y$BONUS$ 증가합니다.;;;;;;;;;;;;;
+CB_GENERATION_BONUS_TOOLTIP;경쟁국인 [SUB_A7]Y$COUNTRIES$[SUB_A7]W 측에 대한 전쟁 정당화 속도가 [SUB_A7]Y$BONUS$[SUB_A7]W 증가합니다.;;;;;;;;;;;;;
+CB_GENERATION_BONUS_TROOPS_PRESENCE_TOOLTIP;(상대국 병력이 존재하므로 [SUB_A7]Y$BONUS$[SUB_A7]W 증가);;;;;;;;;;;;;
+CB_GENERATION_BONUS_OPPONENT_TROOPS_PRESENCE;([SUB_A7]Y$AGAINST$[SUB_A7]W 병력이 존재하므로 [SUB_A7]Y$FOR$[SUB_A7]W [SUB_A7]Y$BONUS$[SUB_A7]W 증가);;;;;;;;;;;;;
 MODIFIER_CB_GENERATION_SPEED_MODIFIER;Casus Belli acquisition speed;Vitesse d'obtention des Casus Belli;Casus Belli Beschaffungsgeschwindigkeit;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
 NOT_CONSTRUCTING_CASUS_BELLI_AGAINST;Not acquiring war justification against ;Pas d'obtention de Casus Belli contre ;Keine Kriegsrechtfertigung beschafft gegen:;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
 MODIFIER_MOBILIZATION_IMPACT;Mobilization impact;Impact de la mobilisation;Mobilisationsauswirkung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
