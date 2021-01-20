@@ -6,28 +6,28 @@ OL_VIEW_RALLYPOINTS_NAVY_MERGE_TOOLTIP; 그리고 해당 지역에 도착할 때
 ARMY_SPLIT_AND_LOAD_DESC_1;[SUB_A7]Y$UNIT$[SUB_A7]W 함대를 약 [SUB_A7]G$NUM$[SUB_A7]W척으로 분할합니다.;;;;;;;;;;;;;
 ARMY_SPLIT_AND_LOAD_DESC_2; - [SUB_A7]Y$NAVY$[SUB_A7]W (중량: $NUM$개 여단);;;;;;;;;;;;;
 ARMY_SPLIT_AND_LOAD_DESC_3;[SUB_A7]R$NUM$개 이상 여단은 승선시킬 수 없습니다.[SUB_A7]W;;;;;;;;;;;;;
-UW_NOT_POSSIBLE_TO_ATTACH;There are no friendly units here to attach to.;Il n'y a pas d'unités amies auxquelles on peut se joindre.;Hier gibt es keine befreundete Einheiten, denen Sie sich anschließen können.;;;;;;;;;;;x
-UW_UNITS_ATTACHED;The following units are attached.;Les unités suivantes se sont jointes.;Die folgenden Einheiten haben sich angeschlossen.;;;;;;;;;;;x
-UW_ATTACH_TO;Attach to always follow $NAME$.;Se joindre à l'unité suivante : $NAME$.;Folgender Einheit anschließen: $NAME$.;;;;;;;;;;;x
-UW_DETACH_FROM;Detach from following $NAME$.;Se détacher de l'unité suivante : $NAME$.;Von folgender Einheit lösen: $NAME$.;;;;;;;;;;;x
-IW_SUPPLY_COST;You need §Y$VAL$§W¤ every day to pay for supplies of this unit.;Vous avez besoin chaque jour de §Y$VAL$§W ¤ pour la maintenance de cette unité.;Sie benötigen jeden Tag §Y$VAL$§W¤ um den Unterhalt dieser Einheit zu finanzieren.;;;;;;;;;;;x
-HAS_NOT_CULTURE_CORE;$CUL$ is NOT a core-culture of $WHERE$.\n;$CUL$ n'est PAS une culture de base de $WHERE$.\n;$CUL$ ist KEINE Kernkultur von $WHERE$.\n;;;;;;;;;;;x
-HAS_CULTURE_CORE;$CUL$ is a core-culture of $WHERE$.\n;$CUL$ est une culture de base de $WHERE$.\n;$CUL$ ist eine Kernkultur von $WHERE$.\n;;;;;;;;;;;x
-PROMOTION_EFFECT_FROM_ADMIN;Admin. efficiency effect on promotion speed: §Y$PERCENTAGE$§!;Influence de l'efficacité administrative sur la vitesse de promotion : §Y$PERCENTAGE$§!;Einfluss der Verwaltungseffizienz auf die Beförderungsgeschwindigkeit: §Y$PERCENTAGE$§!;;;;;;;;;;;x
-OUTLINER_TOOLTIP_FACTORY_OCCUPANCY;Local factories employment: $PERC$;Niveau de l'emploi dans les usines locales : $PERC$;Beschäftigungsgrad in den lokalen Fabriken: $PERC$;;;;;;;;;;;x
-REVOLTALLIANCE_LOG;A revolution! Our alliance is broken!;Une révolution ! Notre alliance est rompue!;Eine Revolution! Unser Bündnis ist gekündigt!;;;;;;;;;;;x
-tut_5b_12b;Click on the decisions tab to continue.;Cliquez sur l'onglet Décisions pour continuer;Drücken Sie auf den Entscheidungs Reiter um fortzufahren.;;;;;;;;;;;x
-tut_5b_14b;Click on the movements tab to continue.;Cliquez sur l'onglet Mouvements pour continuer;Drücken Sie auf den Bewegungs Reiter um fortzufahren.;;;;;;;;;;;x
-Workforce;Workforce;Main-d'oeuvre;Arbeitskräfte;;;;;;;;;;;x
-Ideology;Ideology;Idéologie;Ideologie;;;;;;;;;;;x
-SELL;SELL;VENDRE;VERKAUFE;;;;;;;;;;;x
-BUY;BUY;ACHETER;KAUFE;;;;;;;;;;;x
-Start Research;Start Research;Commencer la recherche;Beginne Forschung;;;;;;;;;;;x
-Maneuver;Maneuver;Manœuvre;Manöver;;;;;;;;;;;x
-LEDGER;LEDGER;STATISTIQUES;Statistiken;;;;;;;;;;;x
-OK;OK;D'accord;OK;;;;;;;;;;;x
-TOPBAR_POPULATION;Our adult male population is $CURR$. Our adult male population has changed by $CHANGE$ in last §Y$DAYS$§! days.;Notre population masculine adulte s'élève à $CURR$.\nNotre population masculine a évolué de $CHANGE$ adultes ces §Y$DAYS$§! derniers jours.;Unsere erwachsene männliche Bevölkerung beträgt $CURR$. Unsere erwachsene männliche Bevölkerung hat sich um $CHANGE$ in den letzten §y$DAYS$§! Tagen geändert.;;;;;;;;;;;x
-DIG_IN_TOOLTIP_1;Current dig-in level: $LEV$/$MAX$.;Niveau de retranchement actuel : $LEV$/$MAX$.;Aktueller Verschanzungsbonus: $LEV$/$MAX$.;;;;;;;;;;;x
-DIG_IN_TOOLTIP_2;It takes §Y$DAYS$§! days to increase dig-in level by §G+$VAL$§!.;Il faut §Y$DAYS$§! jours pour augmenter le niveau de retranchement de §G+$VAL$§! .;Es dauert §Y$DAYS$§! Tage um den Verschanzungsbonus um §G+$VAL$§! zu erhöhen.;;;;;;;;;;;x
-in_bankrupcy;In bankruptcy;En faillite;In Insolvenz;;;;;;;;;;;x
-in_bankrupcy_desc;We are bankrupt!;Nous sommes en faillite !;Wir sind zahlungsunfähig!;;;;;;;;;;;x
+UW_NOT_POSSIBLE_TO_ATTACH;배속할 아군 부대가 없습니다.;;;;;;;;;;;;;
+UW_UNITS_ATTACHED;다른 부대에 배속했습니다.;;;;;;;;;;;;;
+UW_ATTACH_TO;항상 $NAME$ 부대를 따라다니도록 배속합니다.;;;;;;;;;;;;;
+UW_DETACH_FROM;$NAME$ 부대로의 배속을 해제합니다.;;;;;;;;;;;;;
+IW_SUPPLY_COST;해당 부대의 보급품을 지급하려면 [SUB_A7]Y$VAL$[SUB_A7]W[SUB_A4] 가 필요합니다.;;;;;;;;;;;;;
+HAS_NOT_CULTURE_CORE; $CUL$ ≠ $WHERE$ 영유권 보유국의 핵심문화\n;;;;;;;;;;;;;
+HAS_CULTURE_CORE; $CUL$ = $WHERE$ 영유권 보유국의 핵심문화\n;;;;;;;;;;;;;
+PROMOTION_EFFECT_FROM_ADMIN;승격 속도에 대한 행정 효율의 영향: [SUB_A7]Y$PERCENTAGE$[SUB_A7]W;;;;;;;;;;;;;
+OUTLINER_TOOLTIP_FACTORY_OCCUPANCY;지역 공장 고용률: $PERC$;;;;;;;;;;;;;
+REVOLTALLIANCE_LOG;혁명 발발! 동맹이 파기됐습니다!;;;;;;;;;;;;;
+tut_5b_12b;계속하려면 결정 항목을 클릭하세요.;;;;;;;;;;;;;
+tut_5b_14b;계속하려면 운동 항목을 클릭하세요.;;;;;;;;;;;;;
+Workforce;노동력;;;;;;;;;;;;;
+Ideology;이념;;;;;;;;;;;;;
+SELL;판매;;;;;;;;;;;;;
+BUY;구매;;;;;;;;;;;;;
+Start Research;연구 시작;;;;;;;;;;;;;
+Maneuver;기동력;;;;;;;;;;;;;
+LEDGER;통계;;;;;;;;;;;;;
+OK;확인;;;;;;;;;;;;;
+TOPBAR_POPULATION;국내 성인 남성 인구는 $CURR$명입니다. 최근 [SUB_A7]Y$DAYS$[SUB_A7]W일 동안 $CHANGE$명 변했습니다.;;;;;;;;;;;;;
+DIG_IN_TOOLTIP_1;현재 참호 수준: $LEV$/$MAX$단계;;;;;;;;;;;;;
+DIG_IN_TOOLTIP_2;참호 수준을 [SUB_A7]G+$VAL$[SUB_A7]W 높이려면 $DAYS$[SUB_A7]W일이 소요됩니다.;;;;;;;;;;;;;
+in_bankrupcy;파산;;;;;;;;;;;;;
+in_bankrupcy_desc;파산했습니다!;;;;;;;;;;;;;
