@@ -561,274 +561,276 @@ NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$미국-멕시코 전쟁;;;;;;;;;;;;;
 NORMAL_WAR_TAKE_NAME_USA_MEX_MEX;$ORDER$미국의 멕시코 침공;;;;;;;;;;;;;
 NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_USA;$ORDER$미국-멕시코 전쟁;;;;;;;;;;;;;
 NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_MEX;$ORDER$미국의 멕시코 침공;;;;;;;;;;;;;
-NORMAL_WAR_GUNBOAT_NAME_ENG_CHI;$ORDER$Opium War;$ORDER$ guerre de l'opium;$ORDER$Opiumkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_ADD_SPHERE_NAME_ENG_CHI;$ORDER$Opium War;$ORDER$ guerre de l'opium;$ORDER$Opiumkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST$ War of Independence;$ORDER$$FIRST$ guerre d'indépendance;$ORDER$$FIRST$ Unabhängigkeitskrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_NAME_CHL_PEU;$ORDER$War of the Pacific;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_CORE_NAME_CHL_PEU;$ORDER$War of the Pacific;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_NAME_CHL_BOL;$ORDER$War of the Pacific;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_CORE_NAME_CHL_BOL;$ORDER$War of the Pacific;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_CONQUEST_NAME_ENG_TRN;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_CONQUEST_NAME_ENG_ORA;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_NAME_ENG_TRN;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_NAME_ENG_ORA;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_NAME_ORA_ENG;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_NAME_TRN_ENG;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_PUPPET_NAME_ENG_TRN;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_PUPPET_NAME_ENG_ORA;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;$ORDER$ guerre de $FIRST$ pour le contrôle de $SECOND_COUNTRY$;$ORDER$ Krieg um die Kontrolle von $FIRST$ über $SECOND_COUNTRY$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-AGRESSION_WAR_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;$ORDER$ guerre de $FIRST$ pour le contrôle de $SECOND_COUNTRY$;$ORDER$ Krieg um die Kontrolle von $FIRST$ über $SECOND_COUNTRY$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_BOXER_NAME;$ORDER$Boxer Rebellion;$ORDER$ rébellion des Boxers;$ORDER$Boxer Aufstand;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-AGRESSION_WAR_BOXER_NAME;Boxer War;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_PUPPET_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;$ORDER$$SECOND$ guerre d'indépendence;$ORDER$$SECOND$ Unabhängigkeitskrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;$ORDER$$SECOND$ guerre d'indépendence;$ORDER$$SECOND$ Unabhängigkeitskrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;$ORDER$$SECOND$ guerre d'indépendence;$ORDER$$SECOND$ Unabhängigkeitskrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;$ORDER$$SECOND$ guerre d'indépendence;$ORDER$$SECOND$ Unabhängigkeitskrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_CONQUEST_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;$ORDER$$SECOND$ guerre d'indépendence;$ORDER$$SECOND$ Unabhängigkeitskrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_HUMILIATE_NAME;$ORDER$$FIRST$-$SECOND$ War of Honor;$ORDER$ guerre pour l'honneur $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Krieg der Ehre;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-AGRESSION_WAR_HUMILIATE_NAME;$ORDER$$FIRST$ War to Humiliate $SECOND$;$ORDER$ guerre pour l'honneur $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Krieg der Ehre;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_UNIFICATION_NAME_PRU_FRA;$ORDER$Franco-Prussian War;$ORDER$ guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_UNIFICATION_NAME_NGF_FRA;$ORDER$Franco-Prussian War;$ORDER$ guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CAN_INVEST_IN_RAILROADS;Allowed to invest in railroads;Autoriser à investir dans les chemins de fer;Investitionen in Eisenbahnen erlaubt;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-land_reform;Land reform;Réforme rurale;Landreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-land_reform_l;Land reform;Réforme agraire;Landreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_land_reform;No land reform;Pas de réforme agraire;Keine Landreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_land_reform;Land reform;Réforme agraire;Landreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_land_reform_desc;No land reform;Pas de réforme agraire;Keine Landreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_land_reform_desc;Redistribution of land rights resulting in more effective farming and mining;La redistribution des terres entraîne une meilleure efficacité de l'agriculture et des mines;Die Umverteilung von Landrechten resultiert in mehr Effizienz in Landwirtschaft und Bergbau;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-admin_reform;Administrative reform;Réforme administrative;Verwaltungsreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-admin_reform_l;Administrative reform;Réforme administrative;Verwaltungsreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_admin_reform;No Administrative reform;Pas de réforme administrative;Keine Verwaltungsreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_admin_reform;Administrative reform;Réforme administrative;Verwaltungsreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_admin_reform_desc;No administrative reform;Pas de réforme administrative;Keine Verwaltungsreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_admin_reform_desc;Our administration is now modern and efficient;Notre administration est maintenant moderne et efficace;Unsere Verwaltung ist nun modern und effizient;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-finance_reform;Finance reform;Réforme financière;Finanzreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-finance_reform_l;Finance reform;Réforme financière;Finanzreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_finance_reform;No finance reform;Pas de réforme financière;Keine Finanzreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_finance_reform;Enact Financial reform;Promulguer la réforme financière;Finanzreform verabschieden;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-finance_reform_two;International debt;Dette extérieure;Internationale Schulden;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_finance_reform_desc;No finance;Pas de financement;Keine Finanzen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_finance_reform_desc;Finance reform;Financer la réforme;Finanzreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-finance_reform_two_desc;We can now borrow money from other nations;Nous pouvons désormais emprunter de l'argent à d'autres nations;Wir können uns nun Geld von anderen Nationen leihen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-education_reform;Education reform;Réforme de l'éducation;Bildungsreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-education_reform_l;Education reform;Réforme de l'éducation;Bildungsreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_education_reform;No education reform;Pas de réforme de l'éducation;Keine Bildungsreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_education_reform;Reformed system;Éducation réformée;Reformiertes System;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_education_reform_desc;No Education reform;Réforme de l'éducation;Keine Bildungsreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_education_reform_desc;Basic organized education in our country;Système d'éducation de base dans notre pays;Einfache organisierte Bildung in unserem Land;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-transport_improv;Transportation system;Système de transport;Transportsystem;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-transport_improv_l;Transportation system;Système de transport;Transportsystem;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_transport_improv;Not improved;Pas amélioré;Nicht verbessert;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_transport_improv;Improved;Amélioré;Verbessert;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_transport_improv_desc;Transportation system is primitive;Le système de transport est primitif;Das Transportsystem ist primitiv;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_transport_improv_desc;Transportation system is modern;Le système de transport est moderne;Das Transportsystem ist modern;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-pre_indust;Early Industrialisation;Préindustrialisation;Frühe Industrialisierung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-pre_indust_l;Early Industrialisation;Préindustrialisation;Frühe Industrialisierung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_pre_indust;Stick to the old ways;S'en tenir aux vieilles méthodes;Bleib bei Altbewährtem;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_pre_indust;Industrial progress;Progrès industriel;Industrieller Fortschritt;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_pre_indust_desc;We have no need of industry;Nous n'avons pas besoin d'industrie;Wir haben keinen Bedarf an Industrie;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_pre_indust_desc;Construct some basic factories with the help of foreign advisors. Could this be the beginning of an industrial revolution?;Construire quelques usines de base avec l'aide de conseillers étrangers : serait-ce le début d'une révolution industrielle ?;Baue einige einfache Fabrikanlagen mit der Hilfe ausländischer Berater. Könnte dies der Beginn einer industriellen Revolution sein?;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-industrial_construction;Industrial Construction;Construction industrielle;Industrielle Konstruktion;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-industrial_construction_l;Industrial Construction;Construction industrielle;Industrielle Konstruktion;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_industrial_construction;No Industrial Construction;Pas de construction industrielle;Keine Industrielle Konstruktion ;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_industrial_construction;Industrial Construction;Construction industrielle;Industrielle Konstruktion;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_industrial_construction_desc;No advanced factories;Pas d'usines modernes;Keine fortschrittlichen Fabrikanlagen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_industrial_construction_desc;Foreign advisors assist us in building more advanced factories;Des conseillers étrangers nous assistent dans la construction d'usines plus modernes;Ausländische Berater unterstützen uns beim Bau von fortschrittlichen Fabrikanlagen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-foreign_training;Training methods;Méthodes dentraînement;Ausbildungsmethoden;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-foreign_training_l;Training methods;Méthodes dentraînement;Ausbildungsmethoden;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_foreign_training;Local training methods;Méthodes dentraînement locales;Örtliche Ausbildungsmethoden;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_foreign_training;Foreign training methods;Méthodes dentraînement étrangères;Ausländische Ausbildungsmethoden;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_foreign_training_desc;Troops are trained in the traditional manner;Les troupes sont entraînées de manière traditionnelle;Truppenausbildung auf traditionelle Weise;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_foreign_training_desc;Troops trained by foreign military advisors or techniques;Troupes entraînées par des conseillers militaires étrangesr;Truppenausbildung durch ausländische Militärberater oder Techniken;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-foreign_weapons;Foreign weapons;Armes étrangères;Ausländische Waffen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-foreign_weapons_l;Foreign weapons;Armes étrangères;Ausländische Waffen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_foreign_weapons;Local weapons;Armes locales;Örtliche Waffen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_foreign_weapons;Imported weapons;Armes importéess;Importierte Waffen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_foreign_weapons_desc;Traditional weapons;Armes traditionnelles;Traditionelle Waffen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_foreign_weapons_desc;This is my BOOMSTICK!;C'est ma BOMBE !;Das ist mein FEUERSTAB!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-military_constructions;Military constructions;Constructions militaires;Militärische Konstruktionen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-military_constructions_l;Military constructions;Constructions militaires;Militärische Konstruktionen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_military_constructions;Simple constructions;Constructions simples;Einfache Konstruktionen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_military_constructions;Advanced constructions;Constructions évoluées;Fortschrittliche Konstruktionen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_military_constructions_desc;No fortification;Pas de fortification;Keine Befestigungsanlagen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_military_constructions_desc;Effective fortifications;Fortifications efficaces;Effektive Befestigungsanlagen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-foreign_officers;Officer training;Entraînement d'officier;Offiziersausbildung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-foreign_officers_l;Officer training;Entraînement d'officier;Offiziersausbildung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_foreign_officers;Local officer training;Entraînement d'officier local;Ausbildung durch örtliche Offiziere;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_foreign_officers;Foreign officer training;Entraînement d'officier étranger;Ausbildung durch ausländische Offiziere;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_foreign_officers_desc;Local officers lead our troops;Des officiers locaux mènent nos troupes;Örtliche Offiziere befehligen unsere Truppen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_foreign_officers_desc;Our troops are now the finest in the world;Nos troupes sont maintenant les meilleures du monde;Unsere Truppen sind nun die besten der Welt;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-army_schools;Army Training;Entraînement militaire;Armeeausbildung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-army_schools_l;Army Training;Entraînement militaire;Armeeausbildung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_army_schools;Ad hoc;Ad hoc;Ad hoc;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_army_schools;Army schools;Écoles militaires;Armeeschulen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_army_schools_desc;We learn on the field of battle;Nous apprenons sur le champs de bataille;Wir lernen auf dem Schlachtfeld;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_army_schools_desc;Officers are well trained before leading men into battle;Les officiers sont bien entraînes avant de mener les hommes à la bataille;Offiziere werden gut ausgebildet bevor sie Männer in den Kampf führen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-foreign_naval_officers;Naval officers;Officiers de marine;Marineoffiziere;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-foreign_naval_officers_l;Naval officers;Officiers de marine;Marineoffiziere;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_foreign_naval_officers;Local naval officers;Officiers de marine locaux;Örtliche Marineoffiziere;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_foreign_naval_officers;Foreign naval officers;Officiers de marine étrangers;Ausländische Marineoffiziere;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_foreign_naval_officers_desc;Local officers command our ships;Des officiers locaux commandent nos navires;Örtliche Offiziere befehligen unsere Schiffe;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_foreign_naval_officers_desc;Foreign officers advise our captains;Des officiers étrangers commandent nos navires;Ausländische Offiziere beraten unsere Kapitäne;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-naval_schools;Naval training;Entraînement naval;Marineausbildung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-naval_schools_l;Naval training;Entraînement naval;Marineausbildung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_naval_schools;Ad hoc;Ad hoc;Ad hoc;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_naval_schools;Navy schools;Écoles navales;Marineschulen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_naval_schools_desc;Learn by doing;Apprendre en agissant;Lernen durch Praxis;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_naval_schools_desc;Learn the theory first;Apprenre d'abord la théorie;Erstes Lernen in der Theorie;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-foreign_navies;Foreign naval units;Unités navales étrangères;Ausländische Marineeinheiten;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-foreign_navies_l;Foreign naval units;Unités navales étrangères;Ausländische Marineeinheiten;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_foreign_navies;Locally produced ships;Navires construits localement;Vor Ort produzierte Schiffe;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_foreign_navies;Imported ships;Navires importés;Importierte Schiffe;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_foreign_navies_desc;Locally manufactured ships;Navires construits localement;Vor Ort hergestellte Schiffe;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_foreign_navies_desc;We have imported strong ships designs from the west;Nous avons importé d'occident les plans de puissants navires;Wir haben Baupläne für starke Schiffe aus dem Westen importiert;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-cut_down_to_size_boxer;Put down Boxer Rebellion;Mettre fin à la révolte des Boxers;Schlage den Boxeraufstand nieder;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-cut_down_to_size_boxer_desc;Force another §Ycountry§W to disarm and pay reparations to us;Forcrer un autre §Ypays§W à désarmer et à nous payer des réparations;Zwinge ein anderes §YLand§W, abzurüsten und Reparationen an uns zu zahlen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-NUMBER_OF_REBELS_READY;§YRebel brigades ready to join in a rising§!;§YBrigades rebelles prêtes à se joindre à un soulèvement§!;§YRebellenbrigaden kurz vor Beitritt zu einer Auflehnung§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NUMBER_OF_REBELS_ACTIVE;§YRebel brigades active in revolt§!;§YBrigades rebelles actives dans la révolte§!;§YRebellenbrigaden in Aufständen aktiv§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TECH_YEAR_MODIFIER;Cost modifier from years known: $VAL$;Modificateur du coût pour les années connues : $VAL$;Kostenmodifikator durch bekannte Jahre: $VAL$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_SETUP;When enacting an economic reform;En adoptant une réforme économique;Beim Verabschieden einer Wirtschaftsreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_HEADER;Political News in $COUNTRY$;Nouvelles politiques en $COUNTRY$;Politische Neuigkeiten in $COUNTRY$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_1;Economic Reforms in $COUNTRY$;Réformes économiques en $COUNTRY$;Wirtschaftsreformen $COUNTRY$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_2;$MONARCHTITLE$, we have now enacted;$MONARCHTITLE$, nous avons adopté;$MONARCHTITLE$, wir haben nun verabschiedet:;;;;;;;;;;;x,,,,,,,,,,,,,,,
-ECONOMICREFORM_3;$ISSUE$;$ISSUE$;$ISSUE$;;$ISSUE$;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_4;in;en;in;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_5;$CATEGORY$;$CATEGORY$;$CATEGORY$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_6;*;*;*;;*;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_LOG;We enacted $ISSUE$ in $CATEGORY$.;Nous avons adopté $ISSUE$ en $CATEGORY$.;Wir haben $ISSUE$ in $CATEGORY$ verabschiedet.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BTN1;OK;D'accord;OK;;Aceptar;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BTN2;OK;D'accord;OK;;Aceptar;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BTN3;Goto;Voir;Gehe zu;;Ir allí;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_MAP;*;*;*;;*;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BAD_SETUP;When removing an economic reform;Annulation d'une réforme économique;Beim Entfernen einer Wirtschaftsreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BAD_HEADER;Political News in $COUNTRY$;Nouvelle politique en $COUNTRY$;Politische Neuigkeiten in $COUNTRY$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BAD_1;Economic Reforms Revoked in $COUNTRY$;Réformes économiques révoquées in $COUNTRY$;Wirtschaftsreformen widerrufen in $COUNTRY$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BAD_2;$MONARCHTITLE$, we have now revoked benefits in;$MONARCHTITLE$, nous avons renoncé aux bénéfices de;$MONARCHTITLE$, wir haben nun Vorteile widerrufen in;;;;;;;;;;;x,,,,,,,,,,,,,,,
-ECONOMICREFORM_BAD_3;$CATEGORY$;$CATEGORY$;$CATEGORY$;;$CATEGORY$;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BAD_4;from $OLD$ to $ISSUE$.;de $OLD$ pour $ISSUE$.;von $OLD$ auf $ISSUE$.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BAD_5;*;*;*;;*;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BAD_6;*;*;*;;*;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BAD_LOG;We revoked $OLD$ in $CATEGORY$ to $ISSUE$.;Nous avons annulé $OLD$ en $CATEGORY$ pour $ISSUE$.;Wir haben $OLD$ in $CATEGORY$ auf $ISSUE$ widerrufen.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BAD_BTN1;OK;D'accord;OK;;Aceptar;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BAD_BTN2;OK;D'accord;OK;;Aceptar;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BAD_BTN3;Goto;Voir;Gehe zu;;Ir allí;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMICREFORM_BAD_MAP;*;*;*;;*;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_SETUP;When enacting a military reform;En adoptant une réforme militaire;Beim Verabschieden einer Militärreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_HEADER;Political News in $COUNTRY$;Nouvelle politique en $COUNTRY$;Politische Neuigkeiten in $COUNTRY$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_1;Military Reforms in $COUNTRY$;Réformes militaires en $COUNTRY$;Militärreformen in $COUNTRY$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_2;$MONARCHTITLE$, we have now enacted;$MONARCHTITLE$, nous avons adopté;$MONARCHTITLE$, wir haben nun verabschiedet:;;;;;;;;;;;x,,,,,,,,,,,,,,,
-MILITARYREFORM_3;$ISSUE$;$ISSUE$;$ISSUE$;;$ISSUE$;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_4;in;en;in;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_5;$CATEGORY$;$CATEGORY$;$CATEGORY$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_6;*;*;*;;*;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_LOG;We enacted $ISSUE$ in $CATEGORY$.;Nous avons adopté $ISSUE$ en $CATEGORY$.;Wir haben $ISSUE$ in $CATEGORY$ verabschiedet.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BTN1;OK;D'accord;OK;;Aceptar;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BTN2;OK;D'accord;OK;;Aceptar;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BTN3;Goto;Voir;Gehe zu;;Ir allí;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_MAP;*;*;*;;*;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BAD_SETUP;When removing a military reform;Annulation d'une réforme militaire;Beim Widerruf einer Militärreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BAD_HEADER;Political News in $COUNTRY$;Nouvelle politique en $COUNTRY$;Politische Neuigkeiten in $COUNTRY$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BAD_1;Military Reforms Revoked in $COUNTRY$;Réformes militaires annulées en $COUNTRY$;Militärreformen in $COUNTRY$ widerrufen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BAD_2;$MONARCHTITLE$, we have now revoked benefits in;$MONARCHTITLE$, nous avons renoncé aux bénéfices de;$MONARCHTITLE$, wir haben nun Vorteile widerrufen in;;;;;;;;;;;x,,,,,,,,,,,,,,,
-MILITARYREFORM_BAD_3;$CATEGORY$;$CATEGORY$;$CATEGORY$;;$CATEGORY$;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BAD_4;from $OLD$ to $ISSUE$.;de $OLD$ pour $ISSUE$.;von $OLD$ auf $ISSUE$.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BAD_5;*;*;*;;*;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BAD_6;*;*;*;;*;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BAD_LOG;We revoked $OLD$ in $CATEGORY$ to $ISSUE$.;Nous avons supprimé $OLD$ en $CATEGORY$ pour $ISSUE$.;Wir haben $OLD$ in $CATEGORY$ auf $ISSUE$ widerrufen.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BAD_BTN1;OK;D'accord;OK;;Aceptar;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BAD_BTN2;OK;D'accord;OK;;Aceptar;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BAD_BTN3;Goto;Voir;Gehe zu;;Ir allí;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARYREFORM_BAD_MAP;*;*;*;;*;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_CIVILIZATION_PROGRESS;Civilization Progress;Progrès de la civilisation;Zivilisationsfortschritt;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-SUPPRESSION_TECH;Suppression efficiency;Efficacité de la répression;Effektivität der Unterdrückung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-REFORM_RESEARCH_COST;Research Cost: §Y$COST$§!;RCoût de recherche: §Y$COST$§!;Forschungskosten: §Y$COST$§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-POLITICS_CIVILIZE;Westernize;Occidentalisation;Verwestlichen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CIVILIZE_DESC;Fully embrace western ideas. This will give us access to the technological advances of our sphere leader;Embrasser entièrement les idées occidentales : cela nous donnera accès aux technologies avancées du pays dominant de notre sphère.;Nehmt die westlichen Ideen vollständig an. Dies wird uns Zugang zu den technologischen Fortschritten des Anführers unseres Wirkungsbereichs gewähren;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CIVILIZE_NO_MASTER_DESC;Fully embrace western ideas. This will gives us access to the technological advances from around the world;Embrasser entièrement les idées occidentales : cela nous donnera accès aux technologies avancées du monde entier.;Nehmt die westlichen Ideen vollständig an. Dies wird uns Zugang zu den technologischen Fortschritten aus aller Welt verschaffen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-INFLUENCE_RELATION;Relations;Relations;Beziehungen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NO_CIV_PROGRESS;We have made no progress towards westernization. We need to enact military or economic reforms;Nous n'avons fait aucun progrès vers l'occidentalisation. Nous avons besoin d'adopter des réformes militaires ou économiques.;Wir haben keine Fortschritte in der Verwestlichung gemacht. Wir müssen militärische oder wirtschaftliche Reformen verabschieden;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-RESEARCH_POINTS_LABEL;Research Points:;Points de recherche :;Forschungspunkte:;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_UNCIV_ECONOMIC;Economic reform cost;Coût de la réforme économique;Kosten für Wirtschaftsreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_UNCIV_MILITARY;Military reform cost;Coût de la réforme militaire;Kosten für Militärreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_SELF_UNCIV_ECONOMIC;Economic reform cost;Coût de la réforme économique;Kosten für Wirtschaftsreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_SELF_UNCIV_MILITARY;Military reform cost;Coût de la réforme militaire;Kosten für Militärreform;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_LAND_UNIT_START_EXPERIENCE;Land Starting Experience;Expérience militaire de départ;Anfangserfahrung der Landeinheiten;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_NAVAL_UNIT_START_EXPERIENCE;Naval Starting Experience;Expérience navale de départ;Anfangserfahrung der Marineeinheiten;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_ADMINISTRATIVE_EFFICIENCY;Administrative Efficiency;Efficacité administrative;Verwaltungseffizienz;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ARMY_TECHNOLOGY_LEVELS;Army Tech: $VAL$/$MAX$;Tech. mil.: $VAL$/$MAX$;Armeetechnologie: $VAL$/$MAX$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NAVY_TECHNOLOGY_LEVELS;Naval Tech: $VAL$/$MAX$;Tech. nav.: $VAL$/$MAX$;Marinetechnologie: $VAL$/$MAX$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_TARIFF_EFFICIENCY;Tariff Efficiency;Efficacité des taxes;Tarifeffizienz;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_MAX_LOAN_AMOUNT;Max loan amount;Montant maximal de prêt;Maximaler Darlehensbetrag;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PROD_YOUR_CURRENT_BUDGET;Your current budget:;Votre budget actuel :;Euer derzeitiges Budget:;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PROD_YOUR_INVESTMENT;Your investment:;Votre investissement :;Eure Investition:;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_LAND_ATTACK;Land unit attack;Unité d'attaque terrestre;Landeinheit Angriff;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_NAVAL_ATTACK;Naval unit attack;Unité d'attaque navale;Marineeinheit Angriff;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_LAND_DEFENSE;Land unit defense;Unité de défense terrestre;Landeinheit Verteidigung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_NAVAL_DEFENSE;Naval unit defense;Unité de défense navale;Marineeinheit Verteidigung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-free_press_promised;Free press promised;Presse libre promise;Pressefreiheit versprochen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-yes_meeting_promised;Right to public meetings promised;Droit aux réunions publiques promis;Versammlungsfreiheit versprochen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-trade_unions_promised;Trade unions promised;Syndicats promis;Handelsgewerkschaften versprochen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-free_press_promised_desc;We have told the people they will have a Free press, they will expect us to make good our word soon;Nous avons dit aux gens qu'ils auraient droit à une presse libre, ils s'attendent à ce que nous respections notre parole.;Wir haben den Leuten gesagt, dass sie Pressefreiheit erhalten werden, sie werden erwarten, dass wir bald Wort halten;;;;;;;;;;;x,,,,,,,,,,,,,
-yes_meeting_promised_desc;We have told the people they will have the right to Public meetings, they will expect us to make good our word soon;Nous avons dit aux gens qu'ils auraient le droit de tenir des réunions publiques, ils s'attendent à ce que nous respections notre parole.;Wir haben den Leuten gesagt, dass sie Versammlungsfreiheit erhalten werden, sie werden erwarten, dass wir bald Wort halten;;;;;;;;;;;x,,,,,,,,,,,,,
-trade_unions_promised_desc;We have told the people they will have Trade unions, they will expect us to make good our word soon;Nous avons dit aux gens qu'ils auraient des syndicats, ils s'attendent à ce que nous respections notre parole.;Wir haben den Leuten gesagt, dass sie Handelsgewerkschaften erhalten werden, sie werden erwarten, dass wir bald Wort halten;;;;;;;;;;;x,,,,,,,,,,,,,
-recent_safari;Recent safari;Safari récent;Kürzliche Safari;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-recent_safari2;Too many safaris;Trop de safaris;Zu viele Safaris;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-recent_safari_desc;We have had a safari recently;Nous avons fait récemment un safari;Wir hatten kürzlich erst eine Safari;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-recent_safari2_desc;Altogether too many safaris have been had recently;Tout comptes faits, il y a eu trop de safaris récemment;Insgesamt gab es in letzter Zeit zu viele Safaris;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-unciv_reactionary_rebels_title;Reactionary;Réactionnaire;Reaktionär;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-unciv_reactionary_rebels_name;$COUNTRY$ Reactionaries;Réactionnaires de $COUNTRY$;$COUNTRY$ Reaktionäre;;;;;;;;;;x;,,,,,,,,,,,,,,,,,,
-unciv_reactionary_rebels_desc;Reactionary rebels long to live in the traditional manner of their ancestors and reject all notion of copying the mannerisms of Europeans.;Les rebelles réactionnaires ont longtemps vécu à la manière de leurs ancêtres et ont rejeté l'idée même d'imiter les manières européennes.;Reaktionäre Rebellen streben danach, auf die Art ihrer Vorfahren zu leben und lehnen jegliche Gedanken daran ab, die Verhaltensweisen der Europäer zu kopieren.;;;;;;;;;;;x,,,,,,,,,,,,,,,,
-unciv_reactionary_rebels_army;$COUNTRY_ADJ$ Army;Armée $COUNTRY_ADJ$;$COUNTRY_ADJ$ Armee;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-SET_ECONOMIC_REFORM_EFFECT;Economic reform selected: §Y$NAME$§W.\n;Réforme économique sélectionnée : §Y$NAME$§W.\n;gewählte Wirtschaftsreform: §Y$NAME$§W.\n;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-SET_MILITARY_REFORM_EFFECT;Military reform selected: §Y$NAME$§W.\n;MRéforme militaire sélectionnée : §Y$NAME$§W.\n;gewählte Militärreform: §Y$NAME$§W.\n;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NATIONALIZE_INDUSTRY_EFFECT;Perform Nationalization;Procéder à la nationalisation;Nationalisierung durchführen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-DIPLOMACY_ALMOST_WESTERN_NATION_STATUS;Partially Westernized Nation;Nation partiellement occidentalisée;Teilverwestlichte Nation;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-DIPLOMACY_PRIMITIVENATION_STATUS;Primitive Nation;Nation primitive;Primitive Nation;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-UNCIV_CANT_RESEARCH;Westernize to be able to research;L'occidentalisation est nécessaire pour la recherche;Verwestlichen, um Forschen zu können;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-TB_NATIONALFOCUS_CULTURE;§Y$NUM$§W people of primary/accepted cultures give us §Y$FOCUS$§W focus points;§Y$NUM$§W de personnes de cultures primitives ou acceptées donnent §Y$FOCUS$§W point(s) de cause nationale;§Y$NUM$§W Menschen aus primären/akzeptierten Kulturen geben uns §Y$FOCUS$§W Fokuspunkte;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-meiji_restoration_boost;Meiji reformation.;Réforme Meiji.;Meiji Reformation.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-meiji_restoration_boost_desc;Progress in the name of the Emperor!;Le progrès au nom de l'Empereur;Fortschritt im Namen des Herrschers!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OTHER_PORT;This is a naval base that we do not have access to;C'est une base navale à laquelle nous n'avons pas accès;Dies ist ein Marinestützpunkt, zu dem wir keinen Zugang haben;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-MODIFIER_UNCIV_ECONOMIC_UH;Upper house support;Soutien de l'Assemblée;Unterstützung des Oberhauses;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_UNCIV_MILITARY_UH;Upper house support;Soutien de l'Assemblée;Unterstützung des Oberhauses;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MOVEMENT_RADICALISM_ADJUST;§Y$MOVEMENT$§! Radicalism: $AMOUNT$;§Y$MOVEMENT$§! du radicalisme : $AMOUNT$;§Y$MOVEMENT$§! Radikalismus: $AMOUNT$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MILITARY_REFORM_COST_DESC;Cost modifier for military reforms: ;Coût du modificateur pour les réformes militaires : ;Kostenmodifikator für militärische Reformen:;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ECONOMIC_REFORM_COST_DESC;Cost modifier for economic reforms: ;Coût du modificateur pour les réformes économiques : ;Kostenmodifikator für wirtschaftliche Reformen:;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MAPMODE_19;Civilization Level;Niveau de civilisation;Zivilisationsstufe;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CHI_absolute_monarchy;Qing Empire;Qing Empire;Qing Empire;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTOPTB23212;Keep looking at the sky!;Continuez de regarder au ciel !;Schau weiter in den Himmel!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-LOSE_CIVILIZED_EFFECT;We shall be known as an §YUncivilized Nation§W\n;Nous allons être considérés comme §Ynation non-civilisée§W\n;Man soll uns kennen als §YUnzivilisierte Nation§W\n;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-french_growth_nerf;French Population decline:;Déclin de la population française ;Rückgang der Französischen Bevölkerung:;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-french_growth_nerf_desc;Our growth rate is slowed:;Notre croissance ralentit;Unsere Wachstumsrate ist verlangsamt:;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTNAME37226;Population decline;Diminution de la population;Bevölkerungsrückgang;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTDESC37226;After a very long period of being the most populous nation in Europe, France had an extremely low birth rate for most of the 19th and 20th centuries for reasons still not understood. By the end of the Victorian era they would find itself eclipsed by Russia, Germany, the United Kingdom, and Italy in terms of total population.;Après une très longue période où la France a été la nation la plus peuplée d'Europe, elle a eu un taux de natalité très bas pendant la plus grande partie des XIXème et XXème siècles -pour des raisons toujours incomprises. A la fin de l'ère victorienne, la France va être dépassée par la Russie, l'Allemagne, le Royaume-Uni et l'Italie en termes de population.;Nach einer langen Zeit, als bevölkerungsreichste Nation Europas, hatte Frankreich im 19. und 20. Jahrhundert über einen längeren Zeitraum eine sehr geringe Geburtenrate. Die Gründe dafür sind bis heute nicht geklärt. Am Ende des viktorianischen Zeitalters wurden sie in Puncto Bevölkerung von Russland, Deutschland, dem Vereinigten Königreich und Italien in den Schatten gestellt.;;;;;;;;;;;x,,,,,,
-EVTOPTA37226;This is quite a blow!;Quel choc !;Dies ist ein echter Rückschlag!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-nationalize_title;Seize the means of production!;Saisie des moyens de production !;Beschlagnahmt die Produktionsmittel!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-nationalize_desc;No more will the foreign dogs grow fat off of the sweat of our people! The time has come to seize all assets owned by outsiders, to be cared for by the state.;Les chiens étrangers ne s'engraisseront plus grâce à la sueur de notre peuple ! Le temps est venu de saisir tous les biens détenus par l'extérieur, pour qu'is soient contrôlés par l'état.;Nie wieder werden die ausländischen Hunde fetter werden, auf Kosten unseres Volkes! Es ist an der Zeit, das Anlagevermögen aller Aussenstehenden zu beschlagnahmen, und in die Obhut des Staates zu übergeben.;;;;;;;;;;;x,,,,,,,,,,,,,
-EVTNAME90950;Assets seized! ;Biens saisis !;Anlagevermögen beschlagnahmt!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTDESC90950;The ungrateful government of $FROMCOUNTRY$ has sized our investments and claimed them as their own!;Le gouvernement ingrat de $FROMCOUNTRY$ a saisi nos investissements et les a revendiqués comme siens !;Die undankbare Regierung von $FROMCOUNTRY$ hat unsere Investitionen beschlagnahmt und beansprucht sie für sich selbst!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTOPTA90950;This shall not stand! ;Ça ne durera pas !;Damit wird man nicht durchkommen!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTOPTB90950;Let them be;Laissons faire;Lasst sie in Ruhe;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MOVEMENT_RADICALISM;Movement Radicalism;Mouvement radical;Radikalismus der Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MOVEMENT_RADICALISM_DESC;This describes how much the people of the movement trust the political process in your country to get them what they want. A movement with a high value (§Y100§!) will convert to a rebel uprising if not suppressed;Ceci décrit dans quelle mesure les gens de ce mouvement font confiance au processus politique pour obtenir ce qu'ils veulent dans votre pays. Un mouvement avec une valeur élevée (§Y100§!) se transformera en rébellion s'il n'est pas réprimé.;Dies beschreibt wie viel Vertrauen die Anhänger einer Bewegung und der Erfüllung ihrer Forderungen dem politischen Prozess in eurem Land entgegen bringen. Eine Bewegung mit einem hohen Wert (§Y100§!) wird in einen Rebellenaufstand enden, sofern sie nicht unterdrückt werden.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-NUMBER_MOVEMENT_SUPPORTERS;Number of supporters;Nombre de partisans;Anzahl der Anhänger;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NUMBER_MOVEMENT_SUPPORTERS_DESC;The larger the movement the harder it is to suppress. If you enact a reform with less support all movements with more support will become more radical;Plus le mouvement est grand, plus il est difficile à réprimer. Si vous adoptez une réforme avec moins de soutien, tous les mouvements en ayant plus deviendront plus radicaux;Je größer die Bewegung, desto schwieriger ist es, sie zu unterdrücken. Wenn Ihr Reformen mit weniger Unterstützung verabschiedet, werden alle Bewegungen mit mehr Unterstützung radikaler;;;;;;;;;;;x,,,,,,,,,,,,,
-PRODUCTION_CLOSE_FACTORY_BECAUSE_FOREIGN_TOOLTIP;Can not close foreign factory\n;Vous ne pouvez pas fermer une usine étrangère\n;Eine ausländische Fabrikanlage kann nicht geschlossen werden\n;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CAN_NATIONALIZE;Have foreign investors;Avoir des investisseurs étrangers;Besitzt Investoren aus dem Ausland;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-IS_NOT_IN_A_SPHERE;Not in a sphere of influence;Pas dans une sphère d'influence;Nicht in einem Einflussbereich;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ACTIVATE_TECH_EFFECT;Activate technology: §Y$NAME$§!;Activer la technologie §Y$NAME$§!;Technologie aktivieren: §Y$NAME$§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-TECHNOLOGYVIEW_NO_RESEARCH_UNCIV_TOOLTIP;High level technology is only available to civilized nations. By westernizing in the §Ypolitics tab§! you can aquire base technology and start researching on your own instead.;Les hauts niveaux de technologies ne sont accessibles qu'aux nations civilisées. En occidentalisant dans l'§Yonglet politique§!, vous pouvez obtenir la technologie de base et commencer à faire des recherches par vous-même.;Hochtechnologie ist nur für zivilisierte Nationen verfügbar. Indem Ihr im §Ypolitics tab§! verwestlicht, könnt Ihr Grundtechnologien erwerben und stattdessen selber beginnen zu forschen.;;;;;;;;;;;x,,,,,,,,,,,,,,,,
-RELATION_BETWEEN;Current relation between $COUNTRY1$ and $COUNTRY2$: $RELATION$;Relation actuelle entre $COUNTRY1$ et $COUNTRY2$ : $RELATION$;Derzeitige Beziehungen zwischen $COUNTRY1$ und $COUNTRY2$: $RELATION$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ADD_RELATIVE_INCOME_EFFECT;Treasury: $VALUE$¤;Trésor :  $VALUE$ ¤;Schatzkammer: $VALUE$¤;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CORRUPTION_LESS_THAN;Corruption less than ;Corruption inférieure à ;Korruption unter;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CORRUPTION_MORE_THAN;Corruption more than ;Corruption supérieure à ;Korruption über;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MOVEMENT_RADICALISM_FROM_SIZE;Population support: $VAL$ ;Soutien populaire : $VAL$ ;Unterstützung der Bevölkerung: $VAL$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-dar_al_funun;The Dar al funun.;Le Dar al funun.;Der Dar al funun.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-dar_al_funun_desc;The first modern university in Persia.;La première université moderne de Perse.;Die erste moderne Universität in Persien.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-BOL_2305;Atacama;Atacama;Atacama;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-BOL_2314;Potosi;Potosi;Potosi;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-serfdom_not_abolished;Serfdom not abolished:;Le servage n'est pas aboli :;Leibeigenenschaft nicht abgeschafft:;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-LEADERSHIP;Leadership;Prééminence;Herrschaft;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTNAME23213;The Mountains of Madness;Les Monts de la Folie;Die Berge des Wahnsinns;;;;;;;;;x;;,,,,,,,,,,,,,,,,,,
-EVTDESC23213;Our expedition to the South Pole has awoken something horrible. In the ruins of a vast alien city they discovered things unidentifiable as either plants or animals. Things that ruled the Earth in the ancient past. Things that are returning and are filled with unspeakable hungers.;Notre expédition au Pôle Sud a réveillé quelque chose d'horrible. Dans les ruines d'une gigantesque ville extra-terrestre, on a découvert des choses qu'on ne sait définir comme végétales ou animales Des choses qui régnaient sur la Terre dans des temps immémoriaux - des choses qui reviennent et sont douées d'un insatiable appétit, c'est indescriptible.;Unsere Expedition zum Südpol hat etwas Furchtbares aufgeweckt. In den Ruinen einer riesigen, unbekannten Stadt hat sie Dinge entdeckt, die weder pflanzlichen noch tierischen Ursprungs sind. Dinge, die die Erde in der weiten Vergangenheit beherrscht haben.;;;;;;;;;x;;,,,,,,,,,,,,,
-EVTOPTA23213;Well this isn't good...;Ça, c'est pas bon du tout...;Das hört sich gar nicht gut an ;;;;;;;;;x;;,,,,,,,,,,,,,,,,,
+NORMAL_WAR_GUNBOAT_NAME_ENG_CHI;$ORDER$아편 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_ADD_SPHERE_NAME_ENG_CHI;$ORDER$아편 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST_COUNTRY$ 독립 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_CHL_PEU;$ORDER$남태평양 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_CHL_PEU;$ORDER$남태평양 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_CHL_BOL;$ORDER$남태평양 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_CHL_BOL;$ORDER$남태평양 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_CONQUEST_NAME_ENG_TRN;$ORDER$보어 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_CONQUEST_NAME_ENG_ORA;$ORDER$보어 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_ENG_TRN;$ORDER$보어 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_ENG_ORA;$ORDER$보어 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_ORA_ENG;$ORDER$보어 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_TRN_ENG;$ORDER$보어 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_PUPPET_NAME_ENG_TRN;$ORDER$보어 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_PUPPET_NAME_ENG_ORA;$ORDER$보어 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_PUPPET_NAME;$ORDER$$FIRST_COUNTRY$의 $SECOND_COUNTRY$ 복속 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_BOXER_NAME;$ORDER$의화단의 난;;;;;;;;;;;;;
+NORMAL_WAR_PUPPET_NAME_ENG_USA;$ORDER$$SECOND_COUNTRY$ 독립 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_NAME_ENG_USA;$ORDER$$SECOND_COUNTRY$ 독립 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$SECOND_COUNTRY$ 독립 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$SECOND_COUNTRY$ 독립 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_CONQUEST_NAME_ENG_USA;$ORDER$$SECOND_COUNTRY$ 독립 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_HUMILIATE_NAME;$ORDER$$SECOND_COUNTRY$ 명예실추 전쟁;;;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_NAME_PRU_FRA;$ORDER$프로이센-프랑스 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_UNIFICATION_NAME_NGF_FRA;$ORDER$프로이센-프랑스 전쟁;;;;;;;;;;;;;
+CAN_INVEST_IN_RAILROADS;철도 투자 허용;;;;;;;;;;;;;
+land_reform;토지개혁;;;;;;;;;;;;;
+land_reform_l;토지개혁;;;;;;;;;;;;;
+no_land_reform;토지개혁 미실시;;;;;;;;;;;;;
+yes_land_reform;토지개혁 실시;;;;;;;;;;;;;
+no_land_reform_desc;토지개혁을 실시하지 않았습니다.;;;;;;;;;;;;;
+yes_land_reform_desc;토지권의 재분배가 농사와 채굴의 효율을 높입니다.;;;;;;;;;;;;;
+admin_reform;행정개혁;;;;;;;;;;;;;
+admin_reform_l;행정개혁;;;;;;;;;;;;;
+no_admin_reform;행정개혁 미실시;;;;;;;;;;;;;
+yes_admin_reform;행정개혁 실시;;;;;;;;;;;;;
+no_admin_reform_desc;행정개혁을 실시하지 않았습니다;;;;;;;;;;;;;
+yes_admin_reform_desc;정부가 이제 현대적이고 효율적입니다.;;;;;;;;;;;;;
+finance_reform;금융개혁;;;;;;;;;;;;;
+finance_reform_l;금융개혁;;;;;;;;;;;;;
+no_finance_reform;금융개혁 미실시;;;;;;;;;;;;;
+yes_finance_reform;금융개혁 실시;;;;;;;;;;;;;
+finance_reform_two;국제차관;;;;;;;;;;;;;
+no_finance_reform_desc;금융개혁을 실시하지 않았습니다.;;;;;;;;;;;;;
+yes_finance_reform_desc;금융개혁을 실시했습니다.;;;;;;;;;;;;;
+finance_reform_two_desc;다른 국가에게서 차관을 빌릴 수 있습니다.;;;;;;;;;;;;;
+education_reform;교육개혁;;;;;;;;;;;;;
+education_reform_l;교육개혁;;;;;;;;;;;;;
+no_education_reform;교육개혁 미실시;;;;;;;;;;;;;
+yes_education_reform;교육개혁 실시;;;;;;;;;;;;;
+no_education_reform_desc;교육개혁을 실시하지 않았습니다.;;;;;;;;;;;;;
+yes_education_reform_desc;기초적인 교육제도를 갖췄습니다.;;;;;;;;;;;;;
+transport_improv;운송체계;;;;;;;;;;;;;
+transport_improv_l;운송체계;;;;;;;;;;;;;
+no_transport_improv;운송체계 미개선;;;;;;;;;;;;;
+yes_transport_improv;운송체계 개선;;;;;;;;;;;;;
+no_transport_improv_desc;운송체계가 원시적입니다.;;;;;;;;;;;;;
+yes_transport_improv_desc;운송체계가 현대적입니다.;;;;;;;;;;;;;
+pre_indust;초기 산업화;;;;;;;;;;;;;
+pre_indust_l;초기 산업화;;;;;;;;;;;;;
+no_pre_indust;옛방식 고수;;;;;;;;;;;;;
+yes_pre_indust;산업적 진보;;;;;;;;;;;;;
+no_pre_indust_desc;추가적인 산업은 필요없습니다.;;;;;;;;;;;;;
+yes_pre_indust_desc;외국인 고문들의 도움을 받아 기본적인 공장을 일부 건설합니다. 이것이 산업혁명의 시작이 될 수 있을까요?;;;;;;;;;;;;;
+industrial_construction;건설공사;;;;;;;;;;;;;
+industrial_construction_l;건설공사;;;;;;;;;;;;;
+no_industrial_construction;건설공사 없음;;;;;;;;;;;;;
+yes_industrial_construction;건설공사;;;;;;;;;;;;;
+no_industrial_construction_desc;선진적 공장이 없습니다.;;;;;;;;;;;;;
+yes_industrial_construction_desc;외국 고문들이 선진 공장의 건설을 돕습니다.;;;;;;;;;;;;;
+foreign_training;훈련 방식;;;;;;;;;;;;;
+foreign_training_l;훈련 방식;;;;;;;;;;;;;
+no_foreign_training;토착식 훈련 방식;;;;;;;;;;;;;
+yes_foreign_training;외국식 훈련 방식;;;;;;;;;;;;;
+no_foreign_training_desc;토착식 방식으로 병력을 훈련시킵니다.;;;;;;;;;;;;;
+yes_foreign_training_desc;해외의 군사고문 및 군사기술을 통해 병력을 훈련시킵니다.;;;;;;;;;;;;;
+foreign_weapons;무기;;;;;;;;;;;;;
+foreign_weapons_l;무기;;;;;;;;;;;;;
+no_foreign_weapons;토착식 무기;;;;;;;;;;;;;
+yes_foreign_weapons;수입 무기;;;;;;;;;;;;;
+no_foreign_weapons_desc;토착식 무기를 이용합니다.;;;;;;;;;;;;;
+yes_foreign_weapons_desc;이것이 제 총입니다!;;;;;;;;;;;;;
+military_constructions;군사시설;;;;;;;;;;;;;
+military_constructions_l;군사시설;;;;;;;;;;;;;
+no_military_constructions;간단한 군사시설;;;;;;;;;;;;;
+yes_military_constructions;복잡한 군사시설;;;;;;;;;;;;;
+no_military_constructions_desc;서구식 방어시설이 없습니다.;;;;;;;;;;;;;
+yes_military_constructions_desc;효율적인 방어시설을 건설합니다.;;;;;;;;;;;;;
+foreign_officers;육군 장교 훈련;;;;;;;;;;;;;
+foreign_officers_l;육군 장교 훈련;;;;;;;;;;;;;
+no_foreign_officers;토착식 장교 훈련;;;;;;;;;;;;;
+yes_foreign_officers;외국식 장교 훈련;;;;;;;;;;;;;
+no_foreign_officers_desc;장교가 토착식으로 병력을 지휘합니다.;;;;;;;;;;;;;
+yes_foreign_officers_desc;아군은 이제 세계 최고입니다.;;;;;;;;;;;;;
+army_schools;육군 훈련;;;;;;;;;;;;;
+army_schools_l;육군 훈련;;;;;;;;;;;;;
+no_army_schools;실전;;;;;;;;;;;;;
+yes_army_schools;육군사관학교;;;;;;;;;;;;;
+no_army_schools_desc;전장에서 배웁니다.;;;;;;;;;;;;;
+yes_army_schools_desc;장교를 전투 전에 훈련시킵니다.;;;;;;;;;;;;;
+foreign_naval_officers;해군 장교 훈련;;;;;;;;;;;;;
+foreign_naval_officers_l;해군 장교 훈련;;;;;;;;;;;;;
+no_foreign_naval_officers;토착식 장교 훈련;;;;;;;;;;;;;
+yes_foreign_naval_officers;외국식 장 훈련 ;;;;;;;;;;;;;
+no_foreign_naval_officers_desc;장교가이 토착식으로 군함을 지휘합니다.;;;;;;;;;;;;;
+yes_foreign_naval_officers_desc;외국인 제독이 함장에게 조언합니다;;;;;;;;;;;;;
+naval_schools;해군 훈련;;;;;;;;;;;;;
+naval_schools_l;해군 훈련;;;;;;;;;;;;;
+no_naval_schools;실전;;;;;;;;;;;;;
+yes_naval_schools;해군사관학교;;;;;;;;;;;;;
+no_naval_schools_desc;행동으로 배웁니다.;;;;;;;;;;;;;
+yes_naval_schools_desc;이론을 먼저 배웁니다.;;;;;;;;;;;;;
+foreign_navies;군함;;;;;;;;;;;;;
+foreign_navies_l;군함;;;;;;;;;;;;;
+no_foreign_navies;토착식 군함;;;;;;;;;;;;;
+yes_foreign_navies;수입 군함;;;;;;;;;;;;;
+no_foreign_navies_desc;군함을 토착식으로 제작합니다.;;;;;;;;;;;;;
+yes_foreign_navies_desc;서구에서 제작한 군함을 수입합니다.;;;;;;;;;;;;;
+cut_down_to_size_boxer;의화단 진압;;;;;;;;;;;;;
+cut_down_to_size_boxer_desc;[SUB_A7]Y중국[SUB_A7]W의 군비를 제한하고 전쟁배상금을 상환받습니다.;;;;;;;;;;;;;
+NUMBER_OF_REBELS_READY;[SUB_A7]Y반란에 참여할 여단[SUB_A7]W;;;;;;;;;;;;;
+NUMBER_OF_REBELS_ACTIVE;[SUB_A7]Y반란에 참여한 여단[SUB_A7]W;;;;;;;;;;;;;
+TECH_YEAR_MODIFIER;과거 수년 동안의 비용 변동: $VAL$;;;;;;;;;;;;;
+ECONOMICREFORM_SETUP;경제개혁을 시행했을 때;;;;;;;;;;;;;
+ECONOMICREFORM_HEADER;$COUNTRY$의 정치 소식;;;;;;;;;;;;;
+ECONOMICREFORM_1;$COUNTRY$의 경제개혁 시행;;;;;;;;;;;;;
+ECONOMICREFORM_2;$MONARCHTITLE$, 지금;;;;;;;;;;;;;
+ECONOMICREFORM_3;$CATEGORY$ 분야의;;;;;;;;;;;;;
+ECONOMICREFORM_4;$ISSUE$ 시행을;;;;;;;;;;;;;
+ECONOMICREFORM_5;결정했습니다.;;;;;;;;;;;;;
+ECONOMICREFORM_6;*;;;;;;;;;;;;;
+ECONOMICREFORM_LOG;우리나라가 $CATEGORY$ 분야의 $ISSUE$ 시행을 결정했습니다.;;;;;;;;;;;;;
+ECONOMICREFORM_BTN1;확인;;;;;;;;;;;;;
+ECONOMICREFORM_BTN2;확인;;;;;;;;;;;;;
+ECONOMICREFORM_BTN3;참조;;;;;;;;;;;;;
+ECONOMICREFORM_MAP;*;*;*;;*;;;;;;;;;x
+ECONOMICREFORM_BAD_SETUP;경제개혁을 후퇴시켰을 때;;;;;;;;;;;;;
+ECONOMICREFORM_BAD_HEADER;$COUNTRY$의 정치 소식;;;;;;;;;;;;;
+ECONOMICREFORM_BAD_1;$COUNTRY$의 경제개혁 후퇴;;;;;;;;;;;;;
+ECONOMICREFORM_BAD_2;$MONARCHTITLE$, 지금;;;;;;;;;;;;;
+ECONOMICREFORM_BAD_3;$CATEGORY$ 분야의;;;;;;;;;;;;;
+ECONOMICREFORM_BAD_4;$OLD$ 취소 및 $ISSUE$ 시행을;;;;;;;;;;;;;
+ECONOMICREFORM_BAD_5;결정했습니다;;;;;;;;;;;;;
+ECONOMICREFORM_BAD_6;*;;;;;;;;;;;;;
+ECONOMICREFORM_BAD_LOG;우리나라가 $CATEGORY$ 분야의 $OLD$ 취소 및 $ISSUE$ 시행을 결정했습니다.;;;;;;;;;;;;;
+ECONOMICREFORM_BAD_BTN1;확인;;;;;;;;;;;;;
+ECONOMICREFORM_BAD_BTN2;확인;;;;;;;;;;;;;
+ECONOMICREFORM_BAD_BTN3;참조;;;;;;;;;;;;;
+ECONOMICREFORM_BAD_MAP;*;;;;;;;;;;;;;
+MILITARYREFORM_SETUP;군사개혁을 시행했을 때;;;;;;;;;;;;;
+MILITARYREFORM_HEADER;$COUNTRY$ 정치 소식;;;;;;;;;;;;;
+MILITARYREFORM_1;$COUNTRY$ 군사개혁 시행;;;;;;;;;;;;;
+MILITARYREFORM_2;$MONARCHTITLE$, 지금;;;;;;;;;;;;;
+MILITARYREFORM_3;$CATEGORY$ 분야의;;;;;;;;;;;;;
+MILITARYREFORM_4;$ISSUE$ 시행을;;;;;;;;;;;;;
+MILITARYREFORM_5;결정했습니다.;;;;;;;;;;;;;
+MILITARYREFORM_6;*;;;;;;;;;;;;;
+MILITARYREFORM_LOG;우리나라가 $CATEGORY$ 분야의 $ISSUE$ 시행을 결정했습니다.;;;;;;;;;;;;;
+MILITARYREFORM_BTN1;확인;;;;;;;;;;;;;
+MILITARYREFORM_BTN2;확인;;;;;;;;;;;;;
+MILITARYREFORM_BTN3;참조;;;;;;;;;;;;;
+MILITARYREFORM_MAP;*;;;;;;;;;;;;;
+MILITARYREFORM_BAD_SETUP;군사개혁을 후퇴시켰을 때;;;;;;;;;;;;;
+MILITARYREFORM_BAD_HEADER;$COUNTRY$ 정치 소식;;;;;;;;;;;;;
+MILITARYREFORM_BAD_1;$COUNTRY$의 군사개혁 후퇴;;;;;;;;;;;;;
+MILITARYREFORM_BAD_2;$MONARCHTITLE$, 지금;;;;;;;;;;;;;
+MILITARYREFORM_BAD_3;$CATEGORY$ 분야의;;;;;;;;;;;;;
+MILITARYREFORM_BAD_4;$OLD$ 취소 및 $ISSUE$ 시행을;;;;;;;;;;;;;
+MILITARYREFORM_BAD_5;결정했습니다.;;;;;;;;;;;;;
+MILITARYREFORM_BAD_6;*;;;;;;;;;;;;;
+MILITARYREFORM_BAD_LOG;우리나라가 $CATEGORY$ 분야의 $OLD$ 취소 및 $ISSUE$ 시행을 결정했습니다.;;;;;;;;;;;;;
+MILITARYREFORM_BAD_BTN1;확인;;;;;;;;;;;;;
+MILITARYREFORM_BAD_BTN2;확인;;;;;;;;;;;;;
+MILITARYREFORM_BAD_BTN3;참조;;;;;;;;;;;;;
+MILITARYREFORM_BAD_MAP;*;;;;;;;;;;;;;
+MODIFIER_CIVILIZATION_PROGRESS;문명화 진행도;;;;;;;;;;;;;
+SUPPRESSION_TECH;억제 효율;;;;;;;;;;;;;
+REFORM_RESEARCH_COST;연구점: [SUB_A7]Y$COST$[SUB_A7]W;;;;;;;;;;;;;
+POLITICS_CIVILIZE;문명화;;;;;;;;;;;;;
+CIVILIZE_DESC;서구의 사상을 완전히 수용함으로써 영향권 맹주의 기술적 진보에 더 가까이 다가갑니다.;;;;;;;;;;;;;
+CIVILIZE_NO_MASTER_DESC;서구의 사상을 완전히 수용함으로써 전세계의 기술적 진보에 더 가까이 다가갑니다.;;;;;;;;;;;;;
+INFLUENCE_RELATION;관계;;;;;;;;;;;;;
+NO_CIV_PROGRESS;문명화를 향한 진전이 없습니다. 군사개혁 또는 경제개혁을 시행해야 합니다.;;;;;;;;;;;;;
+RESEARCH_POINTS_LABEL;연구점:;;;;;;;;;;;;;
+MODIFIER_UNCIV_ECONOMIC;경제개혁비;;;;;;;;;;;;;
+MODIFIER_UNCIV_MILITARY;군사개혁비;;;;;;;;;;;;;
+MODIFIER_SELF_UNCIV_ECONOMIC;경제개혁비;;;;;;;;;;;;;
+MODIFIER_SELF_UNCIV_MILITARY;군사개혁비;;;;;;;;;;;;;
+MODIFIER_LAND_UNIT_START_EXPERIENCE;육군 최초 숙련도;;;;;;;;;;;;;
+MODIFIER_NAVAL_UNIT_START_EXPERIENCE;해군 최초 숙련도;;;;;;;;;;;;;
+MODIFIER_ADMINISTRATIVE_EFFICIENCY;행정 효율;;;;;;;;;;;;;
+ARMY_TECHNOLOGY_LEVELS;육군 기술: $VAL$/$MAX$;;;;;;;;;;;;;
+NAVY_TECHNOLOGY_LEVELS;해군 기술: $VAL$/$MAX$;;;;;;;;;;;;;
+MODIFIER_TARIFF_EFFICIENCY;관세 효율;;;;;;;;;;;;;
+MODIFIER_MAX_LOAN_AMOUNT;최대 채무 한도;;;;;;;;;;;;;
+PROD_YOUR_CURRENT_BUDGET;현재 예산:;;;;;;;;;;;;;
+PROD_YOUR_INVESTMENT;투자:;;;;;;;;;;;;;
+MODIFIER_LAND_ATTACK;육군 여단 공격력;;;;;;;;;;;;;
+MODIFIER_NAVAL_ATTACK;해군 여단 공격력;;;;;;;;;;;;;
+MODIFIER_LAND_DEFENSE;육군 군함 방어력;;;;;;;;;;;;;
+MODIFIER_NAVAL_DEFENSE;해군 군함 방어력;;;;;;;;;;;;;
+free_press_promised;자유 언론 약속;;;;;;;;;;;;;
+yes_meeting_promised;집회권 약속;;;;;;;;;;;;;
+trade_unions_promised;노동조합 약속;;;;;;;;;;;;;
+free_press_promised_desc;국민에게 자유 언론 시행을 약속했고, 국민은 약속의 이행을 기대합니다.;;;;;;;;;;;;;
+yes_meeting_promised_desc;국민에게 공공집회 허용을 약속했고, 국민은 약속의 이행을 기대합니다.;;;;;;;;;;;;;
+trade_unions_promised_desc;국민에게 노동조합 허용을 약속했고, 국민은 약속의 이행을 기대합니다.;;;;;;;;;;;;;
+recent_safari;최근 출타;;;;;;;;;;;;;
+recent_safari2;매우 많은 출타;;;;;;;;;;;;;
+recent_safari_desc;최근 출타가 있었습니다.;;;;;;;;;;;;;
+recent_safari2_desc;최근 너무 많은 출타가 있었습니다.;;;;;;;;;;;;;
+unciv_reactionary_rebels_title;반동주의자;;;;;;;;;;;;;
+unciv_reactionary_rebels_name;$COUNTRY$ 반동주의자;;;;;;;;;;;;;
+unciv_reactionary_rebels_desc;반동주의 반군은 조상이 살아온 전통적인 방식으로 살기를 소망하며 유럽인의 방식을 모방하는 모든 관념을 거부합니다.;;;;;;;;;;;;;
+unciv_reactionary_rebels_army;$COUNTRY$ 육군;;;;;;;;;;;;;
+SET_ECONOMIC_REFORM_EFFECT; [SUB_A7]Y$NAME$[SUB_A7]W 경제개혁을 시행합니다.\n;;;;;;;;;;;;;
+SET_MILITARY_REFORM_EFFECT; [SUB_A7]Y$NAME$[SUB_A7]W 군사개혁을 시행합니다.\n;;;;;;;;;;;;;
+NATIONALIZE_INDUSTRY_EFFECT; 국유화를 수행합니다.\n;;;;;;;;;;;;;
+DIPLOMACY_ALMOST_WESTERN_NATION_STATUS;준문명국;;;;;;;;;;;;;
+DIPLOMACY_PRIMITIVENATION_STATUS;미개국;;;;;;;;;;;;;
+UNCIV_CANT_RESEARCH;연구하려면 문명화를 해야 합니다.;;;;;;;;;;;;;
+TB_NATIONALFOCUS_CULTURE;핵심문화 또는 수용문화에 속한 국민 [SUB_A7]Y$NUM$[SUB_A7]W명이 국민중점을 [SUB_A7]Y$FOCUS$[SUB_A7]W개 제공합니다.;;;;;;;;;;;;;
+meiji_restoration_boost;메이지 유신;;;;;;;;;;;;;
+meiji_restoration_boost_desc;천황의 이름으로 전진!;;;;;;;;;;;;;
+OTHER_PORT;접근할 수 없는 군항입니다.;;;;;;;;;;;;;
+MODIFIER_UNCIV_ECONOMIC_UH;상원의 지지;;;;;;;;;;;;;
+MODIFIER_UNCIV_MILITARY_UH;상원의 지지;;;;;;;;;;;;;
+MOVEMENT_RADICALISM_ADJUST;[SUB_A7]Y$MOVEMENT$[SUB_A7]W 급진주의: $AMOUNT$;;;;;;;;;;;;;
+MILITARY_REFORM_COST_DESC;군사개혁으로 인한 비용 변동: ;;;;;;;;;;;;;
+ECONOMIC_REFORM_COST_DESC;경제개혁으로 인한 비용 변동: ;;;;;;;;;;;;;
+MAPMODE_19;문명도;;;;;;;;;;;;;
+CHI_absolute_monarchy;중화제국;;;;;;;;;;;;;
+EVTOPTB23212;계속 하늘을 지켜봐!;;;;;;;;;;;;;
+LOSE_CIVILIZED_EFFECT; [SUB_A7]Y비문명국[SUB_A7]W으로 전락합니다.\n;;;;;;;;;;;;;
+french_growth_nerf;프랑스 인구 감소;;;;;;;;;;;;;
+french_growth_nerf_desc;인구성장률이 낮습니다.;;;;;;;;;;;;;
+EVTNAME37226;인구 감소;;;;;;;;;;;;;
+EVTDESC37226;프랑스는 오랫동안 유럽 최대 인구를 자랑했으나, 19세기부터 20세기에 이르며 이해할 수 없는 이유로 인해 극도로 낮은 출산율을 보입니다. 빅토리아시대 후기에 이르면 프랑스는 러시아, 독일, 영국, 이탈리아가 총인구에서 자신들을 추월했음을 인식할 것입니다.;;;;;;;;;;;;;
+EVTOPTA37226;엄청난 충격이다!;;;;;;;;;;;;;
+nationalize_title;생산수단 탈환!;;;;;;;;;;;;;
+nationalize_desc;더는 우리 민족의 땀으로 서양 오랑캐를 살찌우지 말아야 합니다! 외국인이 소유한 모든 자산을 몰수해 국가가 보살필 때가 왔습니다.;;;;;;;;;;;;;
+EVTNAME90950;자산 압류!;;;;;;;;;;;;;
+EVTDESC90950;배은망덕한 $FROMCOUNTRY$ 정부가 우리의 투자자산을 압류하고 자신들의 것이라 주장했습니다!;;;;;;;;;;;;;
+EVTOPTA90950;있을 수 없는 일이다! ;;;;;;;;;;;;;
+EVTOPTB90950;놔두자.;;;;;;;;;;;;;
+MOVEMENT_RADICALISM;운동 급진주의;;;;;;;;;;;;;
+MOVEMENT_RADICALISM_DESC;운동 중인 국민이 원하는 바를 얻고자 정치적 절차를 얼마나 신뢰하는지를 설명합니다. 수치가 높은([SUB_A7]Y100[SUB_A7]W) 운동을 억제하지 않으면 반군 봉기로 전환됩니다.;;;;;;;;;;;;;
+NUMBER_MOVEMENT_SUPPORTERS;지지자 수;;;;;;;;;;;;;
+NUMBER_MOVEMENT_SUPPORTERS_DESC;운동이 클수록 억제하기 어렵습니다. 지지자가 적은 개혁을 시행하면 지지자가 더 많은 모든 운동이 급진화합니다.;;;;;;;;;;;;;
+PRODUCTION_CLOSE_FACTORY_BECAUSE_FOREIGN_TOOLTIP;해외 공장은 폐쇄할 수 없습니다.\n;;;;;;;;;;;;;
+CAN_NATIONALIZE; = 해외 투자자 존재;;;;;;;;;;;;;
+IS_NOT_IN_A_SPHERE; ≠ 영향권에 속함;;;;;;;;;;;;;
+ACTIVATE_TECH_EFFECT; 기술 활성화: [SUB_A7]Y$NAME$[SUB_A7]W;;;;;;;;;;;;;
+TECHNOLOGYVIEW_NO_RESEARCH_UNCIV_TOOLTIP;고급 기술은 문명국만 사용할 수 있습니다. [SUB_A7]Y정치 항목[SUB_A7]W에서 문명화를 통해 기초기술을 습득하고 스스로 연구를 시작할 수 있습니다.;;;;;;;;;;;;;
+RELATION_BETWEEN;\n현재 $COUNTRY1$-$COUNTRY2$ 관계: $RELATION$;;;;;;;;;;;;;
+ADD_RELATIVE_INCOME_EFFECT; 세금 대비 수입: $VALUE$[SUB_A4] \n;;;;;;;;;;;;;
+CORRUPTION_LESS_THAN; 부패도 < ;;;;;;;;;;;;;
+CORRUPTION_MORE_THAN; 부패도 > ;;;;;;;;;;;;;
+MOVEMENT_RADICALISM_FROM_SIZE;지원자: $VAL$ ;;;;;;;;;;;;;
+dar_al_funun;다르 알 푼눈;;;;;;;;;;;;;
+dar_al_funun_desc;페르시아 최최의 현대적 대학입니다.;;;;;;;;;;;;;
+BOL_2305;아타카마;;;;;;;;;;;x
+BOL_2314;포토시;;;;;;;;;;;x
+serfdom_not_abolished;농노제 합법;;;;;;;;;;;;;
+XIN;신강;;;;;;;;;;;;;;
+YNN;운귀;;;;;;;;;;;;;;
+GXI;양광;;;;;;;;;;;;;;
+MCK;만주;;;;;;;;;;;;;;
+LEADERSHIP;지휘력;;;;;;;;;;;;;
+XBI;섬감;;;;;;;;;;;;;;
+EVTNAME23213;광기의 산맥;;;;;;;;;;;;;
+EVTDESC23213;우리 남극 탐사대가 끔찍한 존재를 깨웠습니다. 어마어마한 이색적인 도시의 폐허에서 탐사대는 동물도 식물도 아닌 정체불명의 존재를 발견했습니다. 고대에 지구를 지배한 존재. 다시 강림한 말할 수 없는 배고픔으로 가득한 존재.;;;;;;;;;;;;;
+EVTOPTA23213;좋지 않다...;;;;;;;;;;;;;
