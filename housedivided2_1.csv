@@ -1,12 +1,27 @@
-PV_INTERNAL_IMMIGRATION;Internal Migration: ;Migration interne : ;Interne Migration: ;;;;;;;;;;;x,,,,,,,,,
-PV_EXTERNAL_IMMIGRATION;External Migration: ;Immigration : ;Externe Migration: ;;;;;;;;;;;x,,,,,,,,,
-COUNTRYALERT_CanRemoveFromSphere;We can remove nations from our �YSphere of Influence�!:;Nous pouvons sortir des pays de notre �YSphere of Influence� !;Wir k�nnen Nationen aus unserer �YEinflusssph�re�! entfernen:;;;;;;;;;;;x,,,,,,,,,
-PV_CLERGY_LIT_DESC1;$NUM$ of your population in $LOC$ are Clergy.;$NUM$ de votre population en $LOC$ sont ;$NUM$ unserer Bev�lkerung in $LOC$ geh�ren dem Klerus an.;;;;;;;;;;;x,,,,,,,,,
-PV_CLERGY_LIT_DESC2;Optimal is $OPT$.;L'id�al serait $OPT$.;Optimal sind $OPT$.;;;;;;;;;;;x,,,,,,,,,
-PV_CLERGY_LIT_DESC3;Monthly change base value: $VAL$;Modification de base mensuelle : $VAL$;monatliche Grundver�nderung: $VAL$;;;;;;;;;;;x,,,,,,,,,
-"IN_SOCIAL_MOVEMENT;in social movement;en mouvement social;in einer sozialen Bewegung;;;;;;;;;;;x																														",,,,,,,,,
-"NOT_IN_SOCIAL_MOVEMENT;not in social movement;pas en mouvement social;in keiner sozialen Bewegung;;;;;;;;;;;x																														",,,,,,,,,
-"IN_POLITICAL_MOVEMENT;in political movement;en mouvement politique;in einer politischen Bewegung;;;;;;;;;;;x																														",,,,,,,,,
-"NOT_IN_POLITICAL_MOVEMENT;not in political movement;pas en mouvement politique;in keiner politischen Bewegung;;;;;;;;;;;x																														",,,,,,,,,
-"the_meiji_restoration2_title;Early Meiji Restoration;Premi�re restauration Meiji;Fr�he Meiji-Restauration;;;;;;;;;;;x																														",,,,,,,,,
-"the_meiji_restoration2_desc;Japan is traditionally considered to have been founded by Emperor Jimmu in 660 B.C. and while the Imperial Lineage was still considered unbroken since then the Imperial Office had throughout the Edo period	 been reduced to a revered and respected but ultimately	 politically powerless institution. By embracing a restoration of Imperial Rule	 along with a programme of swift industrial modernization constitutionalism and economic freedom Japan might be able to break the fetters placed upon her by the impositions of the Western World.;Selon la tradition", le Japon aurait �t� fond� par l'empereur Jimmu en 660 avant notre �re et alors que la lign�e imp�riale aurait depuis �t� ininterrompue, le Bureau imp�rial n'�tait, pendant la p�riode Edo, qu'une institution, certes respect�e, mais priv�e de pouvoir politique. Moyennant le r�tablissement du r�gne imp�rial, ainsi que la mise ne place d'un vaste programme de modernisation industriel, de constitutionalisme et de libert� �conomique," le Japon devrait pouvoir rompre les fers que lui a impos� le monde occidental.;Die Gr�ndung Japans wird �blicherweise dem Kaiser Jimmu im Jahr 660 v.Chr. zugeschrieben und obwohl die kaiserliche Abstammungslinie seitdem ununterbrochen ist	 wurde das Kaiseramt w�hrend der Edo-Zeit kontinuierlich zu einer verehrten und respektierten aber letztendlich machtlosen politischen Institution reduziert. Durch die Restauration der kaiserlichen Herrschaft im Einklang einem Programm f�r rasche industrielle Modernisierung	 Konstitutionalismus und Gewerbefreiheit k�nnte Japan die Fesseln sprengen	 die ihm von der westlichen Welt angelegt wurden.;;Tradicionalmente	 se considera que Jap�n fue fundado por el emperador Jimmu en el a�o 660 a. de.C. y	 aunque el linaje imperial se considera ininterrumpido desde entonces a lo largo del per�odo Edo la funci�n del Emperador fue reducida a una instituci�n venerada y respetada pero carente de poder pol�tico. Al adoptar la restauraci�n del gobierno imperial	 junto a un programa de r�pida modernizaci�n industrial	 constitucionalismo y libertad econ�mica	 Jap�n puede ser capaz de romper las cadenas de las imposiciones del mundo occidental.;;;;;;;;;x"
+Key;English;;;;;;;;;;;;;
+PV_INTERNAL_IMMIGRATION;국내 이민: ;;;;;;;;;;;;;
+PV_EXTERNAL_IMMIGRATION;국외 이민: ;;;;;;;;;;;;;
+COUNTRYALERT_CanRemoveFromSphere;[SUB_A7]Y영향권[SUB_A7]W 이탈 가능 국가: :;;;;;;;;;;;;;
+PV_CLERGY_LIT_DESC1;$LOC$ 주민 중 $NUM$명이 성직자입니다.;;;;;;;;;;;;;
+PV_CLERGY_LIT_DESC2;$OPT$명이 최적입니다.;;;;;;;;;;;;;
+PV_CLERGY_LIT_DESC3;월간 변동 기본값: $VAL$;;;;;;;;;;;;;
+IN_SOCIAL_MOVEMENT; = 사회 운동 존재\n;;;;;;;;;;;;;
+NOT_IN_SOCIAL_MOVEMENT; = 사회 운동 존재\n;;;;;;;;;;;;;
+IN_POLITICAL_MOVEMENT; ≠ 정치 운동 존재\n;;;;;;;;;;;;;
+NOT_IN_POLITICAL_MOVEMENT; ≠ 정치 운동 존재\n;;;;;;;;;;;;;
+the_meiji_restoration2_title;초기 메이지 유신;;;;;;;;;;;;;
+the_meiji_restoration2_desc;일본은 구전에 따르면 기원전 660년에 진무 천황이 세운 나라로 이후로도 황통은 여전히 확고하게 여겨졌지만, 에도 시대 동안 천황 정부는 존중받고 존경받지만 정치적으로는 무력한 기관으로 전락했습니다. 신속한 산업 현대화, 입헌주의, 경제개혁을 통해 천황 통치의 유신을 받아들임으로써 일본은 서구의 강요로 인해 채워진 족쇄를 풀지도 모릅니다.;;;;;;;;;;;;;
+TPG;태평;;;;;;;;;;;;;
+TPG_democracy;태평민국;;;;;;;;;;;;;
+TPG_bourgeois_dictatorship;태평민국;;;;;;;;;;;;;
+TPG_proletarian_dictatorship;태평 코뮌;;;;;;;;;;;;;
+TPG_fascist_dictatorship;태평;;;;;;;;;;;;;
+TPG_presidential_dictatorship;태평 군벌;;;;;;;;;;;;;
+TPG_ADJ;태평령;;;;;;;;;;;;;
+TPG_conservative;서왕;;;;;;;;;;;;;
+TPG_liberal;익왕;;;;;;;;;;;;;
+TPG_reactionary;동왕;;;;;;;;;;;;;
+TPG_socialist;북왕;;;;;;;;;;;;;
+TPG_anarcho_liberal;급진당;;;;;;;;;;;;;
+TPG_communist;공산당;;;;;;;;;;;;;
+TPG_fascist;파쇼당;;;;;;;;;;;;;
