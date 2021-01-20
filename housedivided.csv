@@ -333,235 +333,234 @@ EVTOPTA90006;옳은 결정이다.;;;;;;;;;;;;;
 EVTNAME90007;식민지 반동;;;;;;;;;;;;;
 EVTDESC90007;우리나라의 정당한 요구가 온건하나 우리나라와 $CB_TARGET_NAME$ 간의 식민지 균형 재조정에 대한 국제사회의 지원은 없는 것 같습니다. 지금은 차질이 빚어지고 있지만, 언젠가 해가 지지 않는 제국을 이룩하리라는 점은 의심의 여지가 없습니다.;;;;;;;;;;;;;
 EVTOPTA90007;알았다.;;;;;;;;;;;;;
-EVTNAME90008;Its time to act!;Il est temps d'agir !;Es ist Zeit, zu handeln!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-EVTDESC90008;$CB_TARGET_NAME$ devient trop gros pour ses bottes, tout le monde en convient. Pendant trop longtemps, ils se sont pavanés sur de la scène mondiale, pensant qu'ils pouvaient faire ce qu'ils voulaient. Heureusement, le reste du monde est au moins d'accord avec nous, et notre population est fermement derrière nous : $CB_TARGET_NAME$ doit être rétrogradé d'un rang ou deux.;$CB_TARGET_NAME$ wird zu groß für deren Schuhgröße, wie alle zustimmen können. Schon viel zu lang sind sie über die Weltbühne stolziert und dachten, dass sie alles tun und lassen können, wie es ihnen gefällt. Glücklicherweise stimmt uns der Rest der Welt endlich zu und unsere gesamte Bevölkerung steht klar hinter uns : $CB_TARGET_NAME$ muss um ein oder zwei Stufen runtergeholt werden.;;;;;;;;;;;x,,,,,,
-EVTOPTA90008;Good call.;Bon plan.;Eine gute Entscheidung.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTNAME90009;Misguided fools!;Ce sont des égarés !;Fehlgeleitete Dummköpfe!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTDESC90009;While the hubris of $CB_TARGET_NAME$ is evident to us, apparently others fail to see it. Their so-called sovereignty apparently allows them to have their own army and to do as they will without deferring to us. It has even been implied that we are the arrogant ones!;Alors que l'orgueil de $CB_TARGET_NAME$ est évident pour nous," il semble que les autres ne le voient pas. Leur soi-disant souveraineté leur permet apparemment d'avoir leur propre armée et de faire ce qu'ils veulent sans en référer à nous. On a même laissé entendre que nous serions arrogants !;""Obwohl der Größenwahn von $CB_TARGET_NAME$  absolut offensichtlich für uns ist"," teilen andere scheinbar unseren Blickwinkel nicht. Ihre sogenannte """"Souveränität"""" erlaubt es ihnen anscheinend", ihre eigene Armee zu haben und zu machen, was sie wollen," ohne "";;;;;;;;;;;x",,,,,,,,,,,,
-EVTOPTA90009;Good call.;Bon plan.;Eine gute Entscheidung.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-VOTER_ISSUES;Voter Issues;Questions électorales;Wählerprobleme;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OL_VIEW_NATFOCUS;Toggles §YNational Focus§W view;Active la vue §YCause nationale§W;Schaltet die Ansicht zu §YNationalem Fokus§W um;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OL_VIEW_NATFOCUS_HEADER;National Focus;Cause nationale;Nationaler Fokus;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OL_VIEW_NATFOCUS_TOOLTIP;National Focus (§Y$FOCUS$§!) in §Y$STATE$§!;Cause nationale (§Y$FOCUS$§!) en §Y$STATE$§!;Nationaler Fokus (§Y$FOCUS$§!) in §Y$STATE$§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OL_VIEW_RALLYPOINTS;Toggles §YRally Points§W view;Active la vue §YPoints de ralliement§W;Schaltet die Ansicht zu §YSammelpunkten§W um;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OL_VIEW_RALLYPOINTS_HEADER;Rally Points;Points de ralliement;Sammelpunkte;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OL_VIEW_RALLYPOINTS_TOOLTIP;All nearby recruited units will head towards §Y$PROV$§!;Toutes les unités regroupées à proximité vont marcher sur §Y$PROV$§!;Alle in der Nähe rekrutierten Einheiten werden sich Richtung §Y$PROV$§! begeben;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OL_VIEW_RALLYPOINTS_MERGE_TOOLTIP; and will try to merge up to §Y$LIMIT$§! when arrive here.; et vont tenter de fusionner à concurrence de §Y$LIMIT$§! quand elles y arriveront.;und werden zu einer Menge von §Y$LIMIT$§! zusammengeführt, sobald sie ankommen.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-OL_VIEW_MERGE_ON;§G(Merge ON)§!;§G(Fusion Act.)§!;§G(Zusammenführen ANSCHALTEN)§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OL_VIEW_MERGE_OFF;§Y(Merge OFF)§!;§Y(Fusion Dés.)§!;§Y(Zusammenführen AUSSCHALTEN)§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OUR_CB_DETECTED_SETUP;When our war justification process is detected;Quand notre tentative de justification de guerre est détectée;Sobald unser Prozess der Kriegsrechtfertigung aufgedeckt wird;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OUR_CB_DETECTED_HEADER;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;;;;;;x,,,,,,,,,,,,,,,,,,
-OUR_CB_DETECTED_1;War Justification;Justification de guerre;Kriegsrechtfertigung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OUR_CB_DETECTED_2;Our attempt to justify war using;Notre tentative de justifier la guerre par;Unser Versuch, den Krieg zu rechtfertigen, ;;;;;;;;;;;x,,,,,,,,,,,,,,,,
-OUR_CB_DETECTED_3;§Y$CASUS$§! Casus Belli;le Casus Belli §Y$CASUS$§!;mithilfe des §Y$CASUS$§! Casus Belli;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OUR_CB_DETECTED_4;against;contre;gegen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OUR_CB_DETECTED_5;$TARGET$;$TARGET$;$TARGET$;;$TARGET$;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OUR_CB_DETECTED_6;was detected! This costs us §R$BADBOY$§! infamy;a été détectée ! Cela nous coûte §R$BADBOY$§! d'infamie.;wurde entlarvt. Dies kostet uns  §R$BADBOY$§! Schande;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OUR_CB_DETECTED_LOG;Our war justification process against $TARGET$ was detected.;Notre tentative de justification de guerre contre $TARGET$ a été détectée.;Unser Prozess der Kriegsrechtfertigung gegen $TARGET$ wurde entlarvt.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OUR_CB_DETECTED_BTN1;OK;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x,,,,,,,,,,,,,,,,,,
-OUR_CB_DETECTED_BTN2;OK;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x,,,,,,,,,,,,,,,,,,
-OUR_CB_DETECTED_BTN3;Goto;Voir;Gehe zu;Id do;Ir allí;Andare;Ugrás;Pøejít na;;;;;;x,,,,,,,,,,,,,,,,,,
-OUR_CB_DETECTED_MAP;*;*;*;*;*;*;*;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_TOWARDS_US_DETECTED_SETUP;A war justification process against us is detected;Une tentative de justification de guerre contre nous est détectée;Ein Prozess der Kriegsrechtfertigung gegen uns wurde entlarvt.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_TOWARDS_US_DETECTED_HEADER;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_TOWARDS_US_DETECTED_1;War Justification;Justification de guerre;Kriegsrechtfertigung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_TOWARDS_US_DETECTED_2;An attempt to justify war using;Une tentative de justifier une guerre par le;Ein Versuch, den Krieg zu rechtfertigen, ;;;;;;;;;;;x,,,,,,,,,,,,,,,,
-CB_TOWARDS_US_DETECTED_3;§Y$CASUS$§! Casus Belli;Casus Belli §Y$CASUS$§;mithilfe des §Y$CASUS$§! Casus Belli;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_TOWARDS_US_DETECTED_4;against us by;contre nous par;gegen uns, durch;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-CB_TOWARDS_US_DETECTED_5;$COUNTRY$;$COUNTRY$;$COUNTRY$;;$COUNTRY$;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_TOWARDS_US_DETECTED_6;was detected!;a été détectée !;wurde entlarvt! ;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_TOWARDS_US_DETECTED_LOG;A war justification process against us by $COUNTRY$ was detected;Une tentative de justifier une guerre contre nous par $COUNTRY$ a été détectée;Ein Prozess der Kriegsrechtfertigung von $COUNTRY$ gegen uns wurde entlarvt.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_TOWARDS_US_DETECTED_BTN1;OK;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_TOWARDS_US_DETECTED_BTN2;OK;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_TOWARDS_US_DETECTED_BTN3;Goto;Voir;Gehe zu;Id do;Ir allí;Andare;Ugrás;Pøejít na;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_TOWARDS_US_DETECTED_MAP;*;*;*;*;*;*;*;;;;;;;x,,,,,,,,,,,,,,,,,,
-OTHERS_CB_DETECTED_SETUP;A war justification process against someone is detected;A war justification process against someone is detected;Ein Prozess der Kriegsrechtfertigung gegen jemanden wurde entlarvt.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OTHERS_CB_DETECTED_HEADER;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;$MONARCHTITLE$;;;;;;x,,,,,,,,,,,,,,,,,,
-OTHERS_CB_DETECTED_1;War Justification;Justification de guerre;Kriegsrechtfertigung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OTHERS_CB_DETECTED_2;An attempt to justify war using;Une tentative de justifier une guerre par le;Ein Versuch, den Krieg zu rechtfertigen, ;;;;;;;;;;;x,,,,,,,,,,,,,,,,
-OTHERS_CB_DETECTED_3;§Y$CASUS$§! Casus Belli;Casus Belli §Y$CASUS$§;mithilfe des §Y$CASUS$§! Casus Belli;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OTHERS_CB_DETECTED_4;against $TARGET$ by;contre $TARGET$ par;gegen $TARGET$, durch;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-OTHERS_CB_DETECTED_5;$COUNTRY$;$COUNTRY$;$COUNTRY$;;$COUNTRY$;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OTHERS_CB_DETECTED_6;was detected!;a été détectée !;wurde entlarvt! ;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OTHERS_CB_DETECTED_LOG;A war justification process against $TARGET$ by $COUNTRY$ was detected;Une tentative de justifier une guerre contre $TARGET$ par $COUNTRY$ a été détectée;Ein Prozess der Kriegsrechtfertigung von $COUNTRY$ gegen $TARGET$ wurde entlarvt;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-OTHERS_CB_DETECTED_BTN1;OK;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x,,,,,,,,,,,,,,,,,,
-OTHERS_CB_DETECTED_BTN2;OK;D'accord;OK;OK;OK;OK;Rendben;OK;;;;;;x,,,,,,,,,,,,,,,,,,
-OTHERS_CB_DETECTED_BTN3;Goto;Voir;Gehe zu;Id do;Ir allí;Andare;Ugrás;Pøejít na;;;;;;x,,,,,,,,,,,,,,,,,,
-OTHERS_CB_DETECTED_MAP;*;*;*;*;*;*;*;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_gen_plus;CB generation speed increased;Augmentation de la vitesse de génération des CB;CB Generationengeschwindigkeit erhöht ;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_gen_minus;CB generation speed decreased;Diminution de la vitesse de génération des CB;CB Generationengeschwindigkeit reduziert;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_gen_plus_desc;Justifying wars can be done faster;Justifier des guerres peut se faire plus rapidement;Die Rechtfertigung eines Krieges kann schneller erledigt werden;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-CB_gen_minus_desc;Justifying wars now takes longer;Justifier des guerres prend maintenant plus de temps;Die Rechtfertigung eines Krieges dauert nun länger;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-BUILDING_AT_MAX_TERRAIN;Level $CURR$/$MAX$ (§R$TERRAINMOD$§! $TERRAIN$);Niveau $CURR$/$MAX$ (§R$TERRAINMOD$§! $TERRAIN$);Level $CURR$/$MAX$ (§R$TERRAINMOD$§! $TERRAIN$);;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_INVEST;Foreign Investment;Invest. à l'étranger;Ausländische Investition;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_TAB_INVEST;Shows overview of investment in foreign countries;Montrer l'aperçu des investissements à l'étranger;Zeigt eine Übersicht der Investitionen im Ausland;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-FLAG_SUBMENU_INTERESTING;Set country as interesting.;Définir le pays comme intéressant.;Markiert das Land als interessant.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-FLAG_SUBMENU_NOTINTERESTING;Set country as §Ynot§! interesting.;Définir le pays comme §Ypas§! intéressant.;Markiert das Land als §Ynicht§! interessant.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MESSAGE_TYPE_INTERESTING;Interesting;Intéressant;Interessant;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MESSAGE_TYPE_NOT_INTERESTING;Other;Autre;Anderes;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MESSAGE_SEARCH;Search:;Chercher;Suchen:;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MESSAGE_BUTTON_SEARCH;Search;Chercher;Suche ;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MESSAGE_BUTTON_CLEAR;Clear;Effacer;Löschen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MESSAGE_SEARCH_TOOLTIP;Enter key words separated by §Yspace§! to filter the list.;Entrez les mot-clefs séparés par §YEspace§! pour filtrer la liste.;Trennt Schlüsselwörter mithilfe der §YLeertaste§!, um die Liste zu filtern. ;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-SIDEMENU_menubar_msg_settings;Click to open message filter settings.;Clic gauche pour sélectionner les filtres de messages;Klicken, um die Einstellungen des Nachrichtenfilters zu öffnen.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-RULE_BUILD_FACTORY_INVEST;Build foreign factory;Construire une usine à l'étranger;Eine ausländische Fabrikanlage bauen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-RULE_EXPAND_FACTORY_INVEST;Expand foreign factory;Agrandir une usine à l'étranger;Eine ausländische Fabrikanlage ausbauen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-RULE_OPEN_FACTORY_INVEST;Open foreign factory;Ouvrir une usine à l'étranger;Eine ausländische Fabrikanlage eröffnen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-RULE_BUILD_RAILWAY_INVEST;Investors can build foreign railways;Les investisseurs peuvent construire des chemins de fer à l'étranger;Investoren können eine ausländische Eisenbahnlinie bauen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-RULE_CAN_INVEST_IN_POP_PROJECTS;Invest in pop projects;Investir dans des projets;In Pop-Projekte investieren;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-RULE_POP_BUILD_FACTORY_INVEST;Investors can build foreign factory;Des investisseurs peuvent construire une usine à l'étranger;Investoren können eine ausländische Fabrikanlage bauen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-RULE_POP_EXPAND_FACTORY_INVEST;Investors can expand foreign factory;Des investisseurs peuvent agrandir une usine à l'étranger;Investoren können eine ausländische Fabrikanlage erweitern;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-RULE_POP_OPEN_FACTORY_INVEST;Investors can open foreign factory;Des investisseurs peuvent ouvrir une usine à l'étranger;Investoren können eine ausländische Fabrikanlage eröffnen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_OUR_INVEST;Our investment: $AMOUNT$¤ ($PERCENTAGE$%);Notre investissement : $AMOUNT$ ¤ ($PERCENTAGE$ %);Unsere Investition: $AMOUNT$¤ ($PERCENTAGE$%);;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MSG_FILTER_HEADER;Messages filter settings;Filtres de messages;Nachrichtenfilter-Einstellungen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MSG_FILTER_TITLE;We are interested in:;Sommes intéressés par;Wir interessieren uns für:;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MSG_FILTER_DESELECT;Deselect All;Tout déselectionner;Alle Markierungen aufheben;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MSG_FILTER_BEST_GUESS;Best Guess;Les plus utiles;Einschätzung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MSG_FILTER_ENEMIES;Enemies;Ennemis;Feinde;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MSG_FILTER_ALLIES;Allies;Alliés;Verbündete;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MSG_FILTER_NEIGHBOURS;Neighbors;Voisins;Nachbarn;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MSG_FILTER_SPHERE;Sphere;Sphère;Wirkungsbereich;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-PRODUCTION_BROWSE_INVEST;Other;Autres;Anderes;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-DIPLOMACY_OPINION_INVESTMENT;§Y$GP_ADJ$§W investment: §Y$VALUE$§!¤;Investissement §Y$GP_ADJ$§W : §Y$VALUE$§! ¤;§Y$GP_ADJ$§W Investition: §Y$VALUE$§!¤;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MSG_FILTER_TOOLTIP_HEADER;In message filter settings window, you can select countries that you are interested in. All the messages and alerts will be shown only for those important countries.;Dans les paramètres de filtre des messages, vous pouvez sélectionner les pays qui vous intéressent. Tous les messages et alertes ne seront montrés que pour ces pays importants.;Im Nachrichtenfilter-Fenster könnt Ihr Länder auswählen, für die Ihr Euch interessiert. Alle Nachrichten und Warnungen werden nur für diese wichtigen Länder angezeigt.;;;;;;;;;;;x,,,,,,,,,,,,,,,
-MSG_FILTER_TOOLTIP_DELAYED;§YLeft click§! replaces current selection.\n§YRight click§! adds to current selection.\n§YLeft click + SHIFT§! toggles filter.;§YClic gauche§! remplace la sélection actuelle.\n§YClic droit§! ajoute à la sélection actuelle.\n§YClic gauche + Maj§! alterne le filtre.;§YLinksklick§! Ersetzt die aktuelle Auswahl.\n§YRechtsklick§! Ergänzt die aktuelle Auswahl.\n§YLinksklick + SHIFT§! Schaltet den Filter um.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MSG_FILTER_TOOLTIP_DESELECT;Deselect all countries from the list.;Déselectionner tous les pays de la liste.;Wählt alle Länder von dieser Liste ab.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MSG_FILTER_TOOLTIP_BESTGUESS;Select countries by using best guess method.;Sélectionner les pays en utilisant la méthode du choix optimal.;Wählt Länder nach Einschätzung aus.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MSG_FILTER_TOOLTIP_ENEMIES;Select countries that are your enemies.;Sélectionner les pays ennemis.;Wählt Länder, die Eure Feinde sind.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-MSG_FILTER_TOOLTIP_ALLIES;Select countries that are your allies.;Sélectionner les pays alliés.;Wählt Länder, die Eure Verbündeten sind.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-MSG_FILTER_TOOLTIP_NEIGHBOURS;Select countries that are your neighbors.;Sélectionner les pays voisins.;Wählt Länder, die Eure Nachbarn sind.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-MSG_FILTER_TOOLTIP_SPHERE;Select countries that are in your sphere. (if you are a great power);Sélectionner les pays de votre sphère d'influence (si vous êtes une grande puissance);Wählt Länder, die sich in Eurem Wirkungsbereich befinden (wenn Ihr eine Großmacht seid);;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-MSG_FILTER_TOOLTIP_CONTINENT;Select countries that owns any province on the continent.;Sélectionner les pays possédant des provinces sur le continent.;Wählt Länder, die eine Provinz auf dem Kontinent besitzen.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_FOREIGN_TOOLTIP;We don't have the right to do that in a foreign country;Nous n'avons pas le droit de faire cela dans un pays étranger;Wir haben nicht das Recht, dies in einem anderen Land zu tun;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-INVESTMENT_PENALTY_FACTOR;Other national investors;Autres investisseurs nationaux;Andere ausländische Investoren;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-SPHERE_SHARE_NOT_IN_SPHERE;Not in a sphere so free to sell on the world market;Pas dans une sphère d'influence, donc libre de vendre sur le marché mondial;Nicht in einem Einflussgebiet, das auf dem Weltmarkt verkaufen darf;;;;;;;;;;;x,,,,,,,,,,,,,,,,
-SPHERE_SHARE_UNCIV;Uncivilized nation, will make §Y$PERCENTAGE$%§! of all resources available on leaders market;Nation non civilisée, laissera disponibles §Y$PERCENTAGE$ %§! de toutes les ressources sur les marchés dominants;Unzivilisierte Nation, §Y$PERCENTAGE$%§! aller Ressourcen werden auf dem Markt des Anführers bereitgestellt;;;;;;;;;;;x,,,,,,,,,,,,,,,
-SPHERE_SHARE_2NDRANK;Second rank nation, will make §Y$PERCENTAGE$%§! of all resources available on leaders market (Base: §Y$BASE_PERCENTAGE$%§!);Nation de second rang, laissera disponibles §Y$PERCENTAGE$ %§! de toutes les ressources sur les marchés dominants (Base : §Y$BASE_PERCENTAGE$ %§!);Zweitrangige Nation, §Y$PERCENTAGE$%§! aller Ressourcen werden auf dem Markt des Anführers bereitgestellt (Basis: §Y$BASE_PERCENTAGE$%§!);;;;;;;;;;;x,,,,,,,,,,,,,,,
-SPHERE_SHARE_CIV;Civilized nation, will make §Y$PERCENTAGE$%§! of all resources available on leaders market (Base: §Y$BASE_PERCENTAGE$%§!);Nation civilisée, laissera disponibles §Y$PERCENTAGE$ %§! de toutes les ressources sur les marchés dominants (Base : §Y$BASE_PERCENTAGE$ %§!);Zivilisierte Nation, §Y$PERCENTAGE$%§! aller Ressourcen werden auf dem Markt des Anführers bereitgestellt (Basis: §Y$BASE_PERCENTAGE$%§!);;;;;;;;;;;x,,,,,,,,,,,,,,,
-RULE_ALLOW_FOREIGN_INVESTMENT;Allow foreign investment;Autoriser les investissements étrangers;Erlaubt ausländische Investitionen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-POLITICS_DECISIONS_TAB;Decisions;Décisions;Entscheidungen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-POLITICS_MOVEMENTS_TAB;Movements;Mouvements;Bewegungen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTNAME90100;Longing for a Free Press;En faveur de la liberté de la presse;Sehnsucht nach Pressefreiheit;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTNAME90102;Longing for Public Meetings;En faveur de la liberté de réunion;Sehnsucht nach Versammlungsfreiheit;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTNAME90104;Longing for Trade Unions;En faveur des syndicats;Sehnsucht nach Handelsgewerkschaften;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTDESC90100;The People long for a Free Press, and as our neighbours adopt this reform it makes their longing all the stronger.;Le peuple est en faveur de la liberté de la presse. Nos voisins ayant adopté cette réforme, son désir est d'autant plus fort.;Die Bevölkerung sehnt sich nach Pressefreiheit, und je mehr unserer Nachbarn diese Reform annehmen, umso stärker wird dieses Verlangen.;;;;;;;;;;;x,,,,,,,,,,,,,,
-EVTOPTA90100;Perhaps we can work something out;Peut-être pourra-t-on en tirer quelque chose !;Vielleicht können wir uns einigen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTOPTB90100;Never!;Jamais !;Niemals!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTDESC90102;The People long for the right to Public Meetings, and as our neighbours adopt this reform it makes their longing all the stronger. ;Le peuple est en faveur de la liberté de réunion. Nos voisins ayant adopté cette réforme, son désir est d'autant plus fort. ;Die Bevölkerung sehnt sich nach Versammlungsfreiheit, und je mehr unserer Nachbarn diese Reform annehmen, umso stärker wird dieses Verlangen.;;;;;;;;;;;x,,,,,,,,,,,,,,
-EVTDESC90104;The People long for Trade Unions, and as our neighbours adopt this reform it makes their longing all the stronger. ;Le peuple est en faveur des syndicats. Nos voisins ayant adopté cette réforme, son désir est d'autant plus fort. ;Die Bevölkerung sehnt sich nach Handelsgewerkschaften, und je mehr unserer Nachbarn diese Reform annehmen, umso stärker wird dieses Verlangen.;;;;;;;;;;;x,,,,,,,,,,,,,,
-EVTNAME90101;Broken promises;Promesses non tenues;Gebrochene Versprechen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTDESC90101;Despite our promise to reform the press, nothing has changed and the people are somewhat upset.;En dépit de notre promesse de réformer la presse, rien n'a changé et les gens sont quelque peu déçus.;Trotz unseres Versprechens, die Presse zu reformieren, hat sich nichts verändert und die Bevölkerung ist ein wenig aufgebracht.;;;;;;;;;;;x,,,,,,,,,,,,,,
-EVTOPTA90101;How depressing;Comme c'est déprimant;Wie niederschmetternd;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTDESC90103;Despite our promise to allow public meetings, nothing has changed and the people are somewhat upset.;En dépit de notre promesse de permettre la liberté de réunion, rien n'a changé et les gens sont quelque peu déçus.;Trotz unseres Versprechens, Versammlungsfreiheit zu erlauben, hat sich nichts verändert und die Bevölkerung ist ein wenig aufgebracht.;;;;;;;;;;;x,,,,,,,,,,,,,,
-EVTOPTA90103;I hate crowds;Je déteste les foules;Ich hasse Menschenmengen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTDESC90105;Despite our promise to allow trade unions, nothing has changed and the people are somewhat upset.;En dépit de notre promesse de permettre l'existence des syndicats, rien n'a changé et les gens sont quelque peu déçus;Trotz unseres Versprechens, Handelsgewerkschaften zu erlauben, hat sich nichts verändert und die Bevölkerung ist ein wenig aufgebracht.;;;;;;;;;;;x,,,,,,,,,,,,,,
-EVTOPTA90105;Better dead than red!;Mieux vaut morts que rouges !;Besser tot als rot!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MOVEMENT_RADICALISM_BASE;Base: §R$VAL$§%§!;Base: §R$VAL$§ %§!;Basis: §R$VAL$§%§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MOVEMENT_RADICALISM_ACCUMULATED;Suppression: §R$VAL$§%§!;Répression : §R$VAL$§ %§!;Unterdrückung: §R$VAL$§%§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MOVEMENT_RADICALISM_GRANTED_REFORMS;Granted reforms: §G$VAL$§%§!;Réformes accordées : §G$VAL$§ %§!;Gewährte Reformen: §G$VAL$§%§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MOVEMENT_RADICALISM_CULTURE;$CULTURE$: $VAL$;$CULTURE$: $VAL$;$CULTURE$: $VAL$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-ALREADY_SUPPRESSED;Movement is not radical and can't be suppressed;Ce mouvement n'est pas radical et ne peut être réprimé;Die Bewegung ist nicht radikal und kann nicht unterdrückt werden;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTNAME90900;The Middle Kingdom;L'empire du Milieu;Das Königreich der Mitte;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-"EVTDESC90900;""We are now sufficently advanced for the European barbarians to regard us as """"Civilised"""""," and so they must respect our right to centralise and reject foreign influence throughout China."";Nous sommes suffisamment avancés pour que les barbares européens nous considèrent comme civilisés. Ainsi"," ils doivent respecter notre droit à centraliser et à rejeter les influences étrangères à travers la Chine.;""Wir sind nun ausreichend fortgeschritten"," damit die europäischen Barbaren uns als """"zivilisiert"""" betrachten"," nun müssen sie daher unser Recht auf Zentralisierung und die Ablehnung des ausländischen Einflusses in China anerkennen."";;;;;;;;;;;x",,,,,,,,,,,,,,
-EVTOPTA90900;We are united again;Nous sommes à nouveau unis;Wir sind wieder vereint;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTDESC90901;The Qing's new status has lead them to demand we submit to their authority, accepting will mean an end to our independant existence.;Le nouveau statuts des Qing les a conduit à nous demander de nous soumettre à leur autorité. Accepter sonnera le glas de notre indépendance.;Der neue Status der Qing hat sie dazu verleitet von uns zu verlangen, sich ihrer Autorität zu unterwerfen. Wenn wir annehmen, bedeutet dies das Ende unserer unabhängigen Existenz.;;;;;;;;;;;x,,,,,,,,,,,,,,,
-EVTOPTA90901;We are united again;Nous sommes à nouveau unis;Wir sind wieder vereint;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-EVTOPTA90910;Wagons West!;Wagons à l'ouest !;Wagen gen Westen!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-SUPPRESSION_POINTS;Suppression points;Points de répression;Unterdrückungspunkte;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-school_reforms;School system;Système d'éducation;Schulsystem;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_schools;No School system;Système inexistant;Kein Schulsystem;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-low_schools;Basic School system;Système de base;Einfaches Schulsystem;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-acceptable_schools;Acceptable School system;Système acceptable;Akzeptables Schulsystem;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-good_schools;Good School system;Système de bon niveau;Gutes Schulsystem;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_schools_l;No School system;Système d'éducation inexistant;Kein Schulsystem;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-low_schools_l;Basic School system;Système d'éducation de base;Einfaches Schulsystem;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-acceptable_schools_l;Acceptable School system;Système d'éducation acceptable;Akzeptables Schulsystem;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-good_schools_l;Good School system;Système d'éducation de bon niveau;Gutes Schulsystem;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-no_schools_desc;No public Schools.;Pas d'écoles publiques.;Keine öffentlichen Schulen.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-low_schools_desc;Public Schools are uncommon.;Les écoles publiques sont rares.;Öffentliche Schulen sind nicht verbreitet.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-acceptable_schools_desc;Public Schools are common.;Les écoles publiques sont fréquentes.;Öffentliche Schulen sind verbreitet.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-good_schools_desc;There are really a lot of Public Schools.;Il y a beaucoup d'écoles publiques.;Es gibt wirklich viele öffentliche Schulen.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NATIONALIST_UNION_MOVEMENT;$COUNTRY_ADJ$ Unification Movement;Mouvement d'unification $COUNTRY_ADJ$;$COUNTRY_ADJ$ Vereinigungs-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NATIONALIST_LIBERATION_MOVEMENT;$COUNTRY$ Liberation Movement;Mouvement de libération de $COUNTRY$;$COUNTRY$ Befreiungs-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-SUPRESSION_MONTHLY_GAIN;Monthly gain: §G$VAL$§!;Gain mensuel : §G$VAL$§!;Monatlicher Zuwach: §G$VAL$§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_EDUCATION_EFFICIENCY;Education efficiency;Efficacité de l'éducation;Bildungseffizienz;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-MODIFIER_SUPPRESSION_POINT_GAIN;Suppression point gain;Point de répression gagné;Gewinn an Unterdrückungspunkten;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NOT_SOCIAL_MOVEMENT_STRENGTH_TR;Social movement strength is lower than §Y$VAL$§W.\n;Mouvement social dont la force est inférieure à §Y$VAL$§W.\n;Die Stärke der sozialen Bewegung ist niedriger als §Y$VAL$§W.\n;;;;;;;;;;;,,,,,,,,,,,,,,,,,,
-SOCIAL_MOVEMENT_STRENGTH_TR;Social movement strength is higher than §Y$VAL$§W.\n;Mouvement social dont la force est supérieure à §Y$VAL$§W.\n;Die Stärke der sozialen Bewegung ist größer als §Y$VAL$§W.\n;;;;;;;;;;;,,,,,,,,,,,,,,,,,,
-NOT_POLITICAL_MOVEMENT_STRENGTH_TR;Political movement strength is lower than §Y$VAL$§W.\n;Mouvement politique dont la force est inférieure à §Y$VAL$§W.\n;Die Stärke der politischen Bewegung ist niedriger als §Y$VAL$§W.\n;;;;;;;;;;;,,,,,,,,,,,,,,,,,,
-POLITICAL_MOVEMENT_STRENGTH_TR;Political movement strength is higher than §Y$VAL$§W.\n;Mouvement politique dont la force est supérieure à §Y$VAL$§W.\n;Die Stärke der politischen Bewegung ist größer als §Y$VAL$§W.\n;;;;;;;;;;;,,,,,,,,,,,,,,,,,,
-SUPPRESS;Suppress;Réprimer;Unterdrücken;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-SUPPRESSION_DESC;Suppress this movement. This will cost $VAL$ points and make the movement likely to be more radical (§R+$HIT$§!) in the future.;Réprimer ce mouvement. Cela coûtera $VAL$ points et rendra le mouvement plus radical (§R+$HIT$§!) dans le futur.;Unterdrückt diese Bewegungt. Dies kostet $VAL$ Punkte und erhöht die Chancen, dass diese Bewegung in Zukunft (§R+$HIT$§!)radikaler wird.;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-CANT_SUPPRESS_DESC;We need more points to be able to suppress this movement. We have §R$VAL$§! suppression points and it requires §Y$NEED$§!.;Nous avons besoin de plus de points pour pouvoir réprimer ce mouvement. Nous avons §R$VAL$§! points de répression et il en faut §Y$NEED$§!.;Wir benötigen mehr Punkte um diese Bewegung unterdrücken zu können. Wir haben §R$VAL$§! Unterdrückungspunkte, benötigen jedoch  §Y$NEED$§!.;;;;;;;;;;;,,,,,,,,,,,,,,,,,
-REFORM_MOVEMENT_DESC;Movement calling for the enactment of §Y$REFORM$§!;Mouvement appelant à l'avènement de §Y$REFORM$§!;Bewegung für die Verabschiedung von §Y$REFORM$§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NATIONALIST_UNION_MOVEMENT_DESC;Movement calling for the forming of §Y$COUNTRY$§!;Mouvement appelant à la formation de §Y$COUNTRY$§!;Bewegung für die Gründung von §Y$COUNTRY$§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NATIONALIST_LIBERATION_MOVEMENT_DESC;Movement calling for the liberation of §Y$COUNTRY$§!;Mouvement appelant à la libération de §Y$COUNTRY$§!;Bewegung für die Befreiung von §Y$COUNTRY$§!;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-SUPPRESSION_LABEL_DESC;Suppression points measure your governments power to suppress popular movements;Les points de répression mesurent le pouvoir pour le gouvernement de réprimer les mouvements populaires;Unterdrückungspunkte geben die Macht Eurer Regierung an, Volksbewegungen zu unterdrücken;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
-MOVEMENT_REFORM_SUPPORT;There is a popular movement of size $VAL$ lobbying for the enactment of this reform.;Il y a un mouvement populaire, d'une taille de $VAL$, qui milite pour l'adoption de cette réforme.;Es gibt eine Volksbewegung der Größe $VAL$, die für die Verabschiedung dieser Reform lobbiiert.;;;;;;;;;;;x,,,,,,,,,,,,,,,
-movement_no_slavery;Abolitionist Movement;Mouvement abolitionniste;Anti-Sklaverei-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_yes_slavery;Pro-Enslavement League;Ligue pro-esclavagiste;Pro-Versklavungs-Liga;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_landed_voting;Suffrage Movement;Mouvement pour le droit de vote;Wahlrecht-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_wealth_weighted_voting;Suffrage Movement;Mouvement pour le droit de vote;Wahlrecht-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_wealth_voting;Suffrage Movement;Mouvement pour le droit de vote;Wahlrecht-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_universal_weighted_voting;Suffrage Movement;Mouvement pour le droit de vote;Wahlrecht-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_universal_voting;Suffrage Movement;Mouvement pour le droit de vote;Wahlrecht-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_party_appointed;Campaign for Political Representation;Campagne pour la représentation politique;Kampagne für politische Vertretung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_appointed;Campaign for Political Representation;Campagne pour la représentation politique;Kampagne für politische Vertretung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_state_equal_weight;Campaign for Political Representation;Campagne pour la représentation politique;Kampagne für politische Vertretung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_population_equal_weight;Campaign for Political Representation;Campagne pour la représentation politique;Kampagne für politische Vertretung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_first_past_the_post;Campaign for Political Representation;Campagne pour la représentation politique;Kampagne für politische Vertretung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_jefferson_method;Campaign for Political Representation;Campagne pour la représentation politique;Kampagne für politische Vertretung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_proportional_representation;Campaign for Political Representation;Campagne pour la représentation politique;Kampagne für politische Vertretung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_no_meeting;Campaign for the abolishment of Public Meetings;Campagne pour l'abolissement de la liberté de réunion;Kampagne zur Abschaffung der Versammlungsfreiheit;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_yes_meeting;Campaign for Public Meetings;Campagne pour la liberté de réunion;Kampagne für Versammlungsfreiheit;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_censored_press;Campaign for Censored Press;Campagne pour la censure de la presse;Kampagne für Pressezensur;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_free_press;Campaign for Free Press;Campagne pour la presse libre;Kampagne für Pressefreiheit;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_state_controlled;Campaign for State Controlled Unions;Campagne pour des syndicats contrôlés par l'état;Kampagne für staatlich kontrollierte Gewerkschaften;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_non_socialist;Campaign for Non-Socialist Unions ;Campagne pour des syndicats non-socialistes;Kampagne für nicht-sozialistische Gewerkschaften;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_all_trade_unions;Campaign for Free Trade unions;Campagne pour la liberté syndicale;Kampagne für Freihandelsgewerkschaften;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_harassment;Voters Rights Movement;Mouvement des droits des électeurs;Wählerrechte-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_gerrymandering;Voters Rights Movement;Mouvement des droits des électeurs;Wählerrechte-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_non_secret_ballots;Voters Rights Movement;Mouvement des droits des électeurs;Wählerrechte-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_secret_ballots;Voters Rights Movement;Mouvement des droits des électeurs;Wählerrechte-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_trinket_wage;Minimum Wage Movement;Mouvement pour un salaire minimum;Mindestlohn-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_low_minimum_wage;Minimum Wage Movement;Mouvement pour un salaire minimum;Mindestlohn-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_acceptable_minimum_wage;Minimum Wage Movement;Mouvement pour un salaire minimum;Mindestlohn-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_good_minimum_wage;Minimum Wage Movement;Mouvement pour un salaire minimum;Mindestlohn-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_fourteen_hours;Maximum Workhours Movement;Mouvement pour une limitation du temps de travail;Maximale Arbeitszeit-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_twelve_hours;Maximum Workhours Movement;Mouvement pour une limitation du temps de travail;Maximale Arbeitszeit-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_ten_hours;Maximum Workhours Movement;Mouvement pour une limitation du temps de travail;Maximale Arbeitszeit-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_eight_hours;Maximum Workhours Movement;Mouvement pour une limitation du temps de travail;Maximale Arbeitszeit-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_trinket_safety;Campaign for Safe Working Conditions;Campagne pour la sécurité au travail;Kampagne für sichere Arbeitsplatzbedingungen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_low_safety;Campaign for Safe Working Conditions;Campagne pour la sécurité au travail;Kampagne für sichere Arbeitsplatzbedingungen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_acceptable_safety;Campaign for Safe Working Conditions;Campagne pour la sécurité au travail;Kampagne für sichere Arbeitsplatzbedingungen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_good_safety;Campaign for Safe Working Conditions;Campagne pour la sécurité au travail;Kampagne für sichere Arbeitsplatzbedingungen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_trinket_subsidies;Campaign for Unemployment Subsidies;Campagne pour des allocations de chômage;Kampagne für Arbeitslosenunterstützung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_low_subsidies;Campaign for Unemployment Subsidies;Campagne pour des allocations de chômage;Kampagne für Arbeitslosenunterstützung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_acceptable_subsidies;Campaign for Unemployment Subsidies;Campagne pour des allocations de chômage;Kampagne für Arbeitslosenunterstützung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_good_subsidies;Campaign for Unemployment Subsidies;Campagne pour des allocations de chômage;Kampagne für Arbeitslosenunterstützung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_trinket_pensions;Campaign for Old Age Security;Campagne pour l'aide aux personnes âgées;Kampagne für Sicherheit im Alter;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_low_pensions;Campaign for Old Age Security;Campagne pour l'aide aux personnes âgées;Kampagne für Sicherheit im Alter;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_acceptable_pensions;Campaign for Old Age Security;Campagne pour l'aide aux personnes âgées;Kampagne für Sicherheit im Alter;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_good_pensions;Campaign for Old Age Security;Campagne pour l'aide aux personnes âgées;Kampagne für Sicherheit im Alter;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_trinket_health_care;Universal Health Care Movement;Mouvement de couverture santé universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_low_health_care;Universal Health Care Movement;Mouvement de couverture santé universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_acceptable_health_care;Universal Health Care Movement;Mouvement de couverture santé universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_good_health_care;Universal Health Care Movement;Mouvement de couverture santé universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_low_schools;Common School Movement;Mouvement pour l'école publique;Gemeinschaftsschulen-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_acceptable_schools;Common School Movement;Mouvement pour l'école publique;Gemeinschaftsschulen-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-movement_good_schools;Common School Movement;Mouvement pour l'école publique;Gemeinschaftsschulen-Bewegung;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-POLITICS_MOVEMENTS;Movements;Mouvements;Bewegungen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-POLITICS_ECONOMIC_REFORMS;Economic Reforms;Réformes économiques;Wirtschaftsreformen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-POLITICS_MILITARY_REFORMS;Military Reforms;Réformes militaires;Militärreformen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_CIVIL_WAR_NAME_USA_CSA_CSA;$ORDER$War of Northern Aggression;$ORDER$ guerre dagression nordiste;$ORDER$Krieg des Nördlichen Angriffs;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_CIVIL_WAR_NAME_USA_CSA_USA;$ORDER$War of the Rebellion;$ORDER$ guerre de rébellion;$ORDER$Rebellionskrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_GUNBOAT_NAME;$ORDER$$FIRST$ intervention in $SECOND_COUNTRY$;$ORDER$$FIRST$ intervention en $SECOND_COUNTRY$;$ORDER$$FIRST$ Intervention in $SECOND_COUNTRY$;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-AGRESSION_WAR_GUNBOAT_NAME;Gunboat Diplomacy;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_GUNBOAT_NAME_FRA_MEX;$ORDER$Pastry War;$ORDER$ guerre de la pâtisserie;$ORDER$Kuchenkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;$ORDER$ guerre mexicano-américaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;$ORDER$ guerre américaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;$ORDER$ guerre mexicano-américaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;$ORDER$ guerre américaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
+EVTNAME90008;행동할 시간!;;;;;;;;;;;;;
+EVTDESC90008;모두가 동의하듯이 $CB_TARGET_NAME$은 자신의 분수를 모릅니다. 너무 오랫동안 원하는 것을 할 수 있다고 생각하면서 세계무대를 거닐었습니다. 다행스럽게도, 드디어 다른 국가들도 우리나라처럼 바로 $CB_TARGET_NAME$의 콧대를 납작하게 만들어야 한다고 생각하고 있고, 국민도 이를 확고하게 지지하고 있습니다. ;;;;;;;;;;;;;
+EVTOPTA90008;좋은 소식이군.;;;;;;;;;;;;;
+EVTNAME90009;그릇된 바보들!;;;;;;;;;;;;;
+EVTDESC90009;$CB_TARGET_NAME$의 자만심이 명백히 드러났지만, 다른 국가들은 이를 보지 못하고 있습니다. $CB_TARGET_NAME$이 외치는 이른바 주권은 우리에게 결정권을 맡기지 않고 스스로 군대를 가지고 스스로의 뜻대로 하도록 허용합니다. 이는 심지어 우리가 오만한 자임을 넌지시 암시하기도 합니다!;;;;;;;;;;;;;
+EVTOPTA90009;옳은 결정이다.;;;;;;;;;;;;;
+VOTER_ISSUES;유권자 쟁점;;;;;;;;;;;;;
+OL_VIEW_NATFOCUS;[SUB_A7]Y국민중점[SUB_A7]W의 표시를 전환합니다.;;;;;;;;;;;;;
+OL_VIEW_NATFOCUS_HEADER;국민중점;;;;;;;;;;;;;
+OL_VIEW_NATFOCUS_TOOLTIP;[SUB_A7]Y$STATE$[SUB_A7]W의 국민중점: [SUB_A7]Y$FOCUS$[SUB_A7]W;;;;;;;;;;;;;
+OL_VIEW_RALLYPOINTS;[SUB_A7]Y합류지점[SUB_A7]W의 표시를 전환합니다.;;;;;;;;;;;;;
+OL_VIEW_RALLYPOINTS_HEADER;합류지점;;;;;;;;;;;;;
+OL_VIEW_RALLYPOINTS_TOOLTIP;징집이 완료된 인접 부대들이 해당 [SUB_A7]Y$PROV$[SUB_A7]W 지역으로 향합니다.;;;;;;;;;;;;;
+OL_VIEW_RALLYPOINTS_MERGE_TOOLTIP; 그리고 해당 지역에 도착할 때마다 보급 한계([SUB_A7]Y$LIMIT$[SUB_A7]W)까지 병합합니다.;;;;;;;;;;;;;
+OL_VIEW_MERGE_ON;[SUB_A7]Y(병합 켜짐)[SUB_A7]W;;;;;;;;;;;;;
+OL_VIEW_MERGE_OFF;[SUB_A7]Y(병합 꺼짐)[SUB_A7]W;;;;;;;;;;;;;
+OUR_CB_DETECTED_SETUP;우리나라의 전쟁 정당화 과정이 발각됐을 때;;;;;;;;;;;;;
+OUR_CB_DETECTED_HEADER;$MONARCHTITLE$;;;;;;;;;;;;;
+OUR_CB_DETECTED_1;전쟁 정당화;;;;;;;;;;;;;
+OUR_CB_DETECTED_2;$TARGET$에 대한;;;;;;;;;;;;;
+OUR_CB_DETECTED_3;[SUB_A7]Y$CASUS$[SUB_A7]W;;;;;;;;;;;;;
+OUR_CB_DETECTED_4;전쟁명분을 이용한;;;;;;;;;;;;;
+OUR_CB_DETECTED_5;전쟁 정당화 시도가;;;;;;;;;;;;;
+OUR_CB_DETECTED_6;발각됐습니다! 이로 인해 악명이 [SUB_A7]R$BADBOY$[SUB_A7]W 증가합니다.;;;;;;;;;;;;;
+OUR_CB_DETECTED_LOG;$TARGET$에 대한 우리나라의 전쟁 정당화 과정이 발각됐습니다.;;;;;;;;;;;;;
+OUR_CB_DETECTED_BTN1;확인;;;;;;;;;;;;;
+OUR_CB_DETECTED_BTN2;확인;;;;;;;;;;;;;
+OUR_CB_DETECTED_BTN3;참조;;;;;;;;;;;;;
+OUR_CB_DETECTED_MAP;*;;;;;;;;;;;;;
+CB_TOWARDS_US_DETECTED_SETUP;우리나라에 대한 전쟁 정당화 과정이 발각됐을 때;;;;;;;;;;;;;
+CB_TOWARDS_US_DETECTED_HEADER;$MONARCHTITLE$;;;;;;;;;;;;;
+CB_TOWARDS_US_DETECTED_1;전쟁 정당화;;;;;;;;;;;;;
+CB_TOWARDS_US_DETECTED_2;우리나라에 대한;;;;;;;;;;;;;
+CB_TOWARDS_US_DETECTED_3;[SUB_A7]Y$CASUS$[SUB_A7]W;;;;;;;;;;;;;
+CB_TOWARDS_US_DETECTED_4;전쟁명분을 이용한;;;;;;;;;;;;;
+CB_TOWARDS_US_DETECTED_5;$COUNTRY$의 전쟁 정당화 시도가;;;;;;;;;;;;;
+CB_TOWARDS_US_DETECTED_6;발각됐습니다!;;;;;;;;;;;;;
+CB_TOWARDS_US_DETECTED_LOG;우리나라에 대한 $COUNTRY$의 전쟁 정당화 과정이 발각됐습니다.;;;;;;;;;;;;;
+CB_TOWARDS_US_DETECTED_BTN1;확인;;;;;;;;;;;;;
+CB_TOWARDS_US_DETECTED_BTN2;확인;;;;;;;;;;;;;
+CB_TOWARDS_US_DETECTED_BTN3;참조;;;;;;;;;;;;;
+CB_TOWARDS_US_DETECTED_MAP;*;;;;;;;;;;;;;
+OTHERS_CB_DETECTED_SETUP;한 국가에 대한 다른 국가의 전쟁 정당화 과정이 발각됐을 때;;;;;;;;;;;;;
+OTHERS_CB_DETECTED_HEADER;$MONARCHTITLE$;;;;;;;;;;;;;
+OTHERS_CB_DETECTED_1;전쟁 정당화;;;;;;;;;;;;;
+OTHERS_CB_DETECTED_2;$TARGET$에 대한;;;;;;;;;;;;;
+OTHERS_CB_DETECTED_3;[SUB_A7]Y$CASUS$[SUB_A7]W;;;;;;;;;;;x
+OTHERS_CB_DETECTED_4;전쟁명분을 이용한;;;;;;;;;;;;;
+OTHERS_CB_DETECTED_5;$COUNTRY$의 전쟁 정당화 시도가;;;;;;;;;;;;;
+OTHERS_CB_DETECTED_6;발각됐습니다!;;;;;;;;;;;;;
+OTHERS_CB_DETECTED_LOG;$TARGET$에 대한 $COUNTRY$의 전쟁 정당화 과정이 발각됐습니다.;;;;;;;;;;;;;
+OTHERS_CB_DETECTED_BTN1;확인;;;;;;;;;;;;;
+OTHERS_CB_DETECTED_BTN2;확인;;;;;;;;;;;;;
+OTHERS_CB_DETECTED_BTN3;참조;;;;;;;;;;;;;
+OTHERS_CB_DETECTED_MAP;*;*;*;*;*;*;*;;;;;;;x
+CB_gen_plus;전쟁 정당화 속도 증가;;;;;;;;;;;;;
+CB_gen_minus;전쟁 정당화 속도 감소;;;;;;;;;;;;;
+CB_gen_plus_desc;전쟁 정당화를 더 빨리 마칠 수 있습니다.;;;;;;;;;;;;;
+CB_gen_minus_desc;전쟁 정당화가 더 오래 걸립니다.;;;;;;;;;;;;;
+BUILDING_AT_MAX_TERRAIN;$CURR$/$MAX$단계([SUB_A7]R$TERRAINMOD$[SUB_A7]W $TERRAIN$);;;;;;;;;;;;;
+PRODUCTION_INVEST;해외 투자;;;;;;;;;;;;;
+PRODUCTION_TAB_INVEST;해외 투자의 개요를 열람합니다.;;;;;;;;;;;;;
+FLAG_SUBMENU_INTERESTING;흥미로운 국가로 설정합니다.;;;;;;;;;;;;;
+FLAG_SUBMENU_NOTINTERESTING;[SUB_A7]Y흥미롭지 않은[SUB_A7]W 국가로 설정합니다.;;;;;;;;;;;;;
+MESSAGE_TYPE_INTERESTING;흥미로움;;;;;;;;;;;;;
+MESSAGE_TYPE_NOT_INTERESTING;기타;;;;;;;;;;;;;
+MESSAGE_SEARCH;검색:;;;;;;;;;;;;;
+MESSAGE_BUTTON_SEARCH;검색;;;;;;;;;;;;;
+MESSAGE_BUTTON_CLEAR;초기화;;;;;;;;;;;;;
+MESSAGE_SEARCH_TOOLTIP;[SUB_A7]Y스페이스[SUB_A7]W로 구분된 단어를 입력해 목록을 분류합니다.;;;;;;;;;;;;;
+SIDEMENU_menubar_msg_settings;클릭해 전보 필터 설정을 엽니다.;;;;;;;;;;;;;
+RULE_BUILD_FACTORY_INVEST;해외 공장 건설;;;;;;;;;;;;;
+RULE_EXPAND_FACTORY_INVEST;해외 공장 확장;;;;;;;;;;;;;
+RULE_OPEN_FACTORY_INVEST;해외 공장 가동;;;;;;;;;;;;;
+RULE_BUILD_RAILWAY_INVEST;투자자의 해외 철도 건설;;;;;;;;;;;;;
+RULE_CAN_INVEST_IN_POP_PROJECTS;주민의 건설계획 투자;;;;;;;;;;;;;
+RULE_POP_BUILD_FACTORY_INVEST;투자자의 해외 공장 건설;;;;;;;;;;;;;
+RULE_POP_EXPAND_FACTORY_INVEST;투자자의 해외 공장 확장;;;;;;;;;;;;;
+RULE_POP_OPEN_FACTORY_INVEST;투자자의 해외 공장 가동;;;;;;;;;;;;;
+PRODUCTION_OUR_INVEST;우리나라의 투자량: $AMOUNT$[SUB_A7]W[SUB_A4] ($PERCENTAGE$%);;;;;;;;;;;;;
+MSG_FILTER_HEADER;전보 필터 설정;;;;;;;;;;;;;
+MSG_FILTER_TITLE;흥미로운 국가:;;;;;;;;;;;;;
+MSG_FILTER_DESELECT;전체 해제;;;;;;;;;;;;;
+MSG_FILTER_BEST_GUESS;최고의 추측;;;;;;;;;;;;;
+MSG_FILTER_ENEMIES;적국;;;;;;;;;;;;;
+MSG_FILTER_ALLIES;동맹국;;;;;;;;;;;;;
+MSG_FILTER_NEIGHBOURS;인접국;;;;;;;;;;;;;
+MSG_FILTER_SPHERE;영향권;;;;;;;;;;;;;
+PRODUCTION_BROWSE_INVEST;기타;;;;;;;;;;;;;
+DIPLOMACY_OPINION_INVESTMENT;투자량: [SUB_A7]Y$VALUE$[SUB_A7]W[SUB_A4] ;;;;;;;;;;;;;
+MSG_FILTER_TOOLTIP_HEADER;전보 필터 설정창에서 흥미로운 국가를 선택할 수 있습니다. 모든 전보와 알림은 해당 중요 국가에 대해서만 표시합니다.;;;;;;;;;;;;;
+MSG_FILTER_TOOLTIP_DELAYED;[SUB_A7]Y마우스 좌클릭[SUB_A7]W으로 현재 선택한 국가를 교체합니다.\n[SUB_A7]Y마우스 우클릭[SUB_A7]W으로 다른 국가를 추가합니다.\n[SUB_A7]Y마우스 좌클릭 + 쉬프트[SUB_A7]W로 필터의 꺼짐/켜짐을 전환합니다.;;;;;;;;;;;;;
+MSG_FILTER_TOOLTIP_DESELECT;목록의 모든 국가를 해제합니다.;;;;;;;;;;;;;
+MSG_FILTER_TOOLTIP_BESTGUESS;최고의 추측법을 사용해 국가를 선택합니다.;;;;;;;;;;;;;
+MSG_FILTER_TOOLTIP_ENEMIES;우리나라의 적국을 선택합니다.;;;;;;;;;;;;;
+MSG_FILTER_TOOLTIP_ALLIES;우리나라의 동맹국을 선택합니다.;;;;;;;;;;;;;
+MSG_FILTER_TOOLTIP_NEIGHBOURS;우리나라의 인접국을 선택합니다.;;;;;;;;;;;;;
+MSG_FILTER_TOOLTIP_SPHERE;(강대국일 경우) 우리나라의 영향권에 속한 국가를 선택합니다.;;;;;;;;;;;;;
+MSG_FILTER_TOOLTIP_CONTINENT;국토 전체가 같은 대륙에 속한 국가를 선택합니다.;;;;;;;;;;;;;
+PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_FOREIGN_TOOLTIP;해외 공장을 철거할 권리가 없습니다.;;;;;;;;;;;;;
+INVESTMENT_PENALTY_FACTOR;타국 투자자;;;;;;;;;;;;;
+SPHERE_SHARE_NOT_IN_SPHERE;어느 영향권에도 속하지 않은 국가는 세계시장에서의 판매에서 자유롭습니다.;;;;;;;;;;;;;
+SPHERE_SHARE_UNCIV;비문명국은 국내에서 유통되는 자원의 [SUB_A7]Y$PERCENTAGE$%[SUB_A7]W를 영향권 맹주의 시장에 우선적으로 제공합니다.;;;;;;;;;;;;;
+SPHERE_SHARE_2NDRANK;지역강국은 국내에서 유통되는 자원의 [SUB_A7]Y$PERCENTAGE$%[SUB_A7]W를 영향권 맹주의 시장에 우선적으로 제공합니다.(기본 비율: [SUB_A7]Y$BASE_PERCENTAGE$%[SUB_A7]W);;;;;;;;;;;;;
+SPHERE_SHARE_CIV;문명국은 국내에서 유통되는 자원의 [SUB_A7]Y$PERCENTAGE$%[SUB_A7]W를 영향권 맹주의 시장에 우선적으로 제공합니다.(기본 비율: [SUB_A7]Y$BASE_PERCENTAGE$%[SUB_A7]W);;;;;;;;;;;;;
+RULE_ALLOW_FOREIGN_INVESTMENT;해외 투자 허용;;;;;;;;;;;;;
+POLITICS_DECISIONS_TAB;결정;;;;;;;;;;;;;
+POLITICS_MOVEMENTS_TAB;운동;;;;;;;;;;;;;
+EVTNAME90100;자유 언론에 대한 갈망;;;;;;;;;;;;;
+EVTNAME90102;공공집회에 대한 갈망;;;;;;;;;;;;;
+EVTNAME90104;노동조합에 대한 갈망;;;;;;;;;;;;;
+EVTDESC90100;국민이 자유 언론을 갈망하고 있으며, 인접국들이 해당 개혁을 채택하면서 국민의 갈망은 더욱 강해졌습니다.;;;;;;;;;;;;;
+EVTOPTA90100;아마도 잘 해결할 수 있다.;;;;;;;;;;;;;
+EVTOPTB90100;절대 안된다!;;;;;;;;;;;;;
+EVTDESC90102;국민이 집회권을 갈망하고 있으며, 인접국들이 해당 개혁을 채택하면서 국민의 갈망은 더욱 강해졌습니다.;;;;;;;;;;;;;
+EVTDESC90104;국민이 노동조합을 갈망하고 있으며, 인접국들이 해당 개혁을 채택하면서 국민의 갈망은 더욱 강해졌습니다.;;;;;;;;;;;;;
+EVTNAME90101;약속 파기;;;;;;;;;;;;;
+EVTDESC90101;언론개혁 약속에도 상황은 달라지지 않았고 국민은 더 분노했습니다.;;;;;;;;;;;;;
+EVTOPTA90101;정말 우울하다.;;;;;;;;;;;;;
+EVTDESC90103;공공집회 허가 약속에도 상황은 달라지지 않았고 국민은 더 분노했습니다.;;;;;;;;;;;;;
+EVTOPTA90103;군중이 싫다.;;;;;;;;;;;;;
+EVTDESC90105;노동조합 허가 약속에도 상황은 달라지지 않았고 국민은 더 분노했습니다.;;;;;;;;;;;;;
+EVTOPTA90105;죽음이 빨갱이보다 낫다!;;;;;;;;;;;;;
+MOVEMENT_RADICALISM_BASE;기본값: [SUB_A7]R$VAL$[SUB_A7]W;;;;;;;;;;;;;
+MOVEMENT_RADICALISM_ACCUMULATED;억제: [SUB_A7]R$VAL$[SUB_A7]W;;;;;;;;;;;;;
+MOVEMENT_RADICALISM_GRANTED_REFORMS;개혁 승인: [SUB_A7]R$VAL$[SUB_A7]W;;;;;;;;;;;;;
+MOVEMENT_RADICALISM_CULTURE;$CULTURE$: $VAL$;;;;;;;;;;;;;
+ALREADY_SUPPRESSED;운동이 급진적이지 않으므로 억제할 수 없습니다.;;;;;;;;;;;;;
+EVTNAME90900;중화;;;;;;;;;;;;;
+EVTDESC90900;현재 유럽 오랑캐가 '문명국'으로 여길 만큼 충분히 발전했으므로, 유럽은 중국 전역에 걸쳐 중앙집권화를 실시하고 외국 영향력을 거부할 권리를 존중해야 합니다.;;;;;;;;;;;;;
+EVTOPTA90900;다시 하나로 모여야 한다.;;;;;;;;;;;;;
+EVTDESC90901;청나라의 새로운 지위가 청의 권위에 복종하도록 만들었고, 이에 대한 수용은 독립적 지위의 종식을 의미합니다.;;;;;;;;;;;;;
+EVTOPTA90901;다시 하나로 모여야 한다.;;;;;;;;;;;;;
+EVTOPTA90910;서양의 마차!;;;;;;;;;;;;;
+SUPPRESSION_POINTS;억제점;;;;;;;;;;;;;
+school_reforms;교육제도;;;;;;;;;;;;;
+no_schools;교육제도 부재;;;;;;;;;;;;;
+low_schools;교육제도 기본적;;;;;;;;;;;;;
+acceptable_schools;교육제도 적당;;;;;;;;;;;;;
+good_schools;교육제도 좋음;;;;;;;;;;;;;
+no_schools_l;교육제도 부재;;;;;;;;;;;;;
+low_schools_l;교육제도 기본적;;;;;;;;;;;;;
+acceptable_schools_l;교육제도 적당;;;;;;;;;;;;;
+good_schools_l;교육제도 좋음;;;;;;;;;;;;;
+no_schools_desc;공립학교가 없습니다.;;;;;;;;;;;;;
+low_schools_desc;공립학교가 드뭅니다.;;;;;;;;;;;;;
+acceptable_schools_desc;공립학교가 흔합니다.;;;;;;;;;;;;;
+good_schools_desc;공립학교가 매우 많습니다.;;;;;;;;;;;;;
+NATIONALIST_UNION_MOVEMENT;$COUNTRY$ 통일 운동;;;;;;;;;;;;;
+NATIONALIST_LIBERATION_MOVEMENT;$COUNTRY$ 해방 운동;;;;;;;;;;;;;
+SUPRESSION_MONTHLY_GAIN;월간 증가: $VAL$;;;;;;;;;;;;;
+MODIFIER_EDUCATION_EFFICIENCY;교육 효율;;;;;;;;;;;;;
+MODIFIER_SUPPRESSION_POINT_GAIN;억제점 획득;;;;;;;;;;;;;
+NOT_SOCIAL_MOVEMENT_STRENGTH_TR; 사회 운동 강도 < [SUB_A7]Y$VAL$[SUB_A7]W\n;;;;;;;;;;;;;
+SOCIAL_MOVEMENT_STRENGTH_TR; 사회 운동 강도 > [SUB_A7]Y$VAL$[SUB_A7]W\n;;;;;;;;;;;;;
+NOT_POLITICAL_MOVEMENT_STRENGTH_TR; 정치 운동 강도 < [SUB_A7]Y$VAL$[SUB_A7]W\n;;;;;;;;;;;;;
+POLITICAL_MOVEMENT_STRENGTH_TR; 정치 운동 강도 > [SUB_A7]Y$VAL$[SUB_A7]W\n;;;;;;;;;;;;;
+SUPPRESS;억제;;;;;;;;;;;;;
+SUPPRESSION_DESC;해당 운동을 억제합니다. 억제점을 $VAL$ 소모하며 미래에 [SUB_A7]R+$HIT$[SUB_A7]W 급진화할 가능성이 높습니다.;;;;;;;;;;;;;
+CANT_SUPPRESS_DESC;해당 운동을 억제하려면 억제점이 더 필요합니다. 현재 억제점은 [SUB_A7]R$VAL$[SUB_A7]W이며 필요한 억제점은 [SUB_A7]Y$NEED$[SUB_A7]W입니다.;;;;;;;;;;;;;
+REFORM_MOVEMENT_DESC;[SUB_A7]Y$REFORM$[SUB_A7]W의 시행을 요구하는 운동입니다.;;;;;;;;;;;;;
+NATIONALIST_UNION_MOVEMENT_DESC;[SUB_A7]Y$COUNTRY$[SUB_A7]W의 결성을 요구하는 운동입니다.;;;;;;;;;;;;;
+NATIONALIST_LIBERATION_MOVEMENT_DESC;[SUB_A7]Y$COUNTRY$[SUB_A7]W의 해방을 요구하는 운동입니다.;;;;;;;;;;;;;
+SUPPRESSION_LABEL_DESC;억제점은 정부가 가진 대중운동 억제력의 척도입니다.;;;;;;;;;;;;;
+MOVEMENT_REFORM_SUPPORT;해당 개혁의 시행을 요구하는 $VAL$명 규모의 대중운동이 있습니다.;;;;;;;;;;;;;
+movement_no_slavery;노예제 폐지 운동;;;;;;;;;;;;;
+movement_yes_slavery;노예제 찬성 연맹;;;;;;;;;;;;;
+movement_landed_voting;참정권 운동;;;;;;;;;;;;;
+movement_wealth_weighted_voting;참정권 운동;;;;;;;;;;;;;
+movement_wealth_voting;참정권 운동;;;;;;;;;;;;;
+movement_universal_weighted_voting;참정권 운동;;;;;;;;;;;;;
+movement_universal_voting;참정권 운동;;;;;;;;;;;;;
+movement_party_appointed;정치적 대표성 운동;;;;;;;;;;;;;
+movement_appointed;정치적 대표성 운동;;;;;;;;;;;;;
+movement_state_equal_weight;정치적 대표성 운동;;;;;;;;;;;;;
+movement_population_equal_weight;정치적 대표성 운동;;;;;;;;;;;;;
+movement_first_past_the_post;정치적 대표성 운동;;;;;;;;;;;;;
+movement_jefferson_method;정치적 대표성 운동;;;;;;;;;;;;;
+movement_proportional_representation;정치적 대표성 운동;;;;;;;;;;;;;
+movement_no_meeting;공공집회 폐지 운동;;;;;;;;;;;;;
+movement_yes_meeting;공공집회 운동;;;;;;;;;;;;;
+movement_censored_press;검열 언론 운동;;;;;;;;;;;;;
+movement_free_press;자유 언론 운동;;;;;;;;;;;;;
+movement_state_controlled;관제 노동조합 운동;;;;;;;;;;;;;
+movement_non_socialist;비사회주의 노동조합 운동;;;;;;;;;;;;;
+movement_all_trade_unions;자유 노동조합 운동;;;;;;;;;;;;;
+movement_harassment;참정권 운동;;;;;;;;;;;;;
+movement_gerrymandering;참정권 운동;;;;;;;;;;;;;
+movement_non_secret_ballots;참정권 운동;;;;;;;;;;;;;
+movement_secret_ballots;참정권 운동;;;;;;;;;;;;;
+movement_trinket_wage;최저임금 운동;;;;;;;;;;;;;
+movement_low_minimum_wage;최저임금 운동;;;;;;;;;;;;;
+movement_acceptable_minimum_wage;최저임금 운동;;;;;;;;;;;;;
+movement_good_minimum_wage;최저임금 운동;;;;;;;;;;;;;
+movement_fourteen_hours;최대 노동시간 운동;;;;;;;;;;;;;
+movement_twelve_hours;최대 노동시간 운동;;;;;;;;;;;;;
+movement_ten_hours;최대 노동시간 운동;;;;;;;;;;;;;
+movement_eight_hours;최대 노동시간 운동;;;;;;;;;;;;;
+movement_trinket_safety;노동환경 안전 운동;;;;;;;;;;;;;
+movement_low_safety;노동환경 안전 운동;;;;;;;;;;;;;
+movement_acceptable_safety;노동환경 안전 운동;;;;;;;;;;;;;
+movement_good_safety;노동환경 안전 운동;;;;;;;;;;;;;
+movement_trinket_subsidies;실업보조금 운동;;;;;;;;;;;;;
+movement_low_subsidies;실업보조금 운동;;;;;;;;;;;;;
+movement_acceptable_subsidies;실업보조금 운동;;;;;;;;;;;;;
+movement_good_subsidies;실업보조금 운동;;;;;;;;;;;;;
+movement_trinket_pensions;노후 보장 운동;;;;;;;;;;;;;
+movement_low_pensions;노후 보장 운동;;;;;;;;;;;;;
+movement_acceptable_pensions;노후 보장 운동;;;;;;;;;;;;;
+movement_good_pensions;노후 보장 운동;;;;;;;;;;;;;
+movement_trinket_health_care;보편적 보건복지 운동;;;;;;;;;;;;;
+movement_low_health_care;보편적 보건복지 운동;;;;;;;;;;;;;
+movement_acceptable_health_care;보편적 보건복지 운동;;;;;;;;;;;;;
+movement_good_health_care;보편적 보건복지 운동;;;;;;;;;;;;;
+movement_low_schools;공립학교 운동;;;;;;;;;;;;;
+movement_acceptable_schools;공립학교 운동;;;;;;;;;;;;;
+movement_good_schools;공립학교 운동;;;;;;;;;;;;;
+POLITICS_MOVEMENTS;운동;;;;;;;;;;;;;
+POLITICS_ECONOMIC_REFORMS;경제개혁;;;;;;;;;;;;;
+POLITICS_MILITARY_REFORMS;군사개혁;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_USA_CSA_CSA;$ORDER$북부의 침공;;;;;;;;;;;;;
+NORMAL_CIVIL_WAR_NAME_USA_CSA_USA;$ORDER$남부의 반란;;;;;;;;;;;;;
+NORMAL_WAR_GUNBOAT_NAME;$ORDER$$FIRST_COUNTRY$의 $SECOND_COUNTRY$ 개입;;;;;;;;;;;;;
+NORMAL_WAR_GUNBOAT_NAME_FRA_MEX;$ORDER$과자 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$미국-멕시코 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_NAME_USA_MEX_MEX;$ORDER$미국의 멕시코 침공;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_USA;$ORDER$미국-멕시코 전쟁;;;;;;;;;;;;;
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_MEX;$ORDER$미국의 멕시코 침공;;;;;;;;;;;;;
 NORMAL_WAR_GUNBOAT_NAME_ENG_CHI;$ORDER$Opium War;$ORDER$ guerre de l'opium;$ORDER$Opiumkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
 NORMAL_WAR_ADD_SPHERE_NAME_ENG_CHI;$ORDER$Opium War;$ORDER$ guerre de l'opium;$ORDER$Opiumkrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
 NORMAL_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST$ War of Independence;$ORDER$$FIRST$ guerre d'indépendance;$ORDER$$FIRST$ Unabhängigkeitskrieg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,
