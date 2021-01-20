@@ -119,8 +119,8 @@ POP_PROMOTE_INFO_ON_SEL;$WHERE$ 주민 $VAL$명이 $WHO$ 이직에 성공했습�
 POP_LEAVE_INFO_ON_SEL;$WHERE$ 주민 $VAL$명이 $WHO$ 이직을 그만뒀습니다.;;;;;;;;;;;;;
 DOMINION;자치령;;;;;;;;;;;;;
 SATELLITE;종속국;;;;;;;;;;;;;
-DOMINION_OF_NOCOLOR;종주국;;;;;;;;;;;;;
-SATELLITE_OF_NOCOLOR;종주국;;;;;;;;;;;;;
+DOMINION_OF_NOCOLOR;종주국(자치령);;;;;;;;;;;;;
+SATELLITE_OF_NOCOLOR;종주국(종속국);;;;;;;;;;;;;
 DIPLOMACY_CANNOT_SET_PRIO_MYVASSAL;항상 우리나라의 [SUB_A7]Y영향권[SUB_A7]W에 속하는 [SUB_A7]Y$TYPE$입니다.;;;;;;;;;;;;;
 DIPLOMACY_TRUCE_WITH;휴전국:;;;;;;;;;;;;;
 DIPLOMACY_CASUSBELLIS;전쟁명분:;;;;;;;;;;;;;
