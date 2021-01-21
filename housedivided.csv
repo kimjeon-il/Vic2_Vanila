@@ -190,10 +190,10 @@ TRADE_FLOW_DESC_RGO;국내 $POP$들이 매일마다 $RESOURCE$ 품목을 $AMOUNT
 TRADE_FLOW_DESC_RGO_ACTION_MINING;생산;;;;;;;;;;;;;
 TRADE_FLOW_DESC_RGO_ACTION_FARMING;생산;;;;;;;;;;;;;
 TRADE_FLOW_DESC_ARTISAN;국내 장인들이 매일마다 $RESOURCE$ 품목을 $AMOUNT$ 생산합니다.;;;;;;;;;;;;;
-TRADE_FLOW_DESC_FACTORY;국내 $STATE$ $FACTORY$에서 매일마다 $RESOURCE$ 품목을 $AMOUNT$ 생산합니다.;;;;;;;;;;;;;
+TRADE_FLOW_DESC_FACTORY;국내 $STATE$ $FACTORY$ 노동자들이 매일마다 $RESOURCE$ 품목을 $AMOUNT$ 생산합니다.;;;;;;;;;;;;;
 TRADE_FLOW_CONSUME_DESC_ARTISAN;장인들이 $OUTPUT$ 생산에 $RESOURCE$ 품목을 $AMOUNT$ 사용합니다.;;;;;;;;;;;;;
 TRADE_FLOW_CONSUME_DESC_RGO;$POP$들이 $OUTPUT$ 생산에 $RESOURCE$ 품목을 $AMOUNT$ 사용합니다.;;;;;;;;;;;;;
-TRADE_FLOW_CONSUME_DESC_FACTORY;국내 $STATE$ $FACTORY$에서 공산품 생산 및 공장 유지보수에 $RESOURCE$ 품목을 $AMOUNT$ 사용합니다.;;;;;;;;;;;;;
+TRADE_FLOW_CONSUME_DESC_FACTORY;국내 $STATE$ $FACTORY$ 노동자들이 공산품 생산 및 공장 유지보수에 $RESOURCE$ 품목을 $AMOUNT$ 사용합니다.;;;;;;;;;;;;;
 TRADE_FLOW_CONSUME_DESC_POPS;$POP$들이 일일 수요 충족에 $RESOURCE$ 품목을 $AMOUNT$ 사용합니다.;;;;;;;;;;;;;
 TRADE_FLOW_CONSUME_DESC_MILITARY;군대에서 일일 보급품 소비에 $RESOURCE$ 품목을 $AMOUNT$ 사용합니다.;;;;;;;;;;;;;
 TRADE_FLOW_MAY_USE_MILITARY_DESC;$INPUT$ 품목은 군대의 일일 보급품 소비에 사용될 수 있습니다.;;;;;;;;;;;;;
