@@ -143,11 +143,11 @@ COLONIZE_PHASE_INFLUENCE;식민지 경쟁;;;;;;;;;;;;;
 COLONIZE_PHASE_INFLUENCE_DESC;두 국가가 식민력을 갖고 어느 한쪽이 영향력을 행사하지 못할 때까지 싸웁니다. 투자할 때마다 주의 긴장이 고조되며, 긴장이 너무 높지면 위기로 변합니다.;;;;;;;;;;;;;
 COLONIZE_PHASE_COLONIZATION;식민화;;;;;;;;;;;;;
 COLONIZE_PHASE_COLONIZATION_DESC;이전 단계의 승자가 $MONTHS$개월 안에 식민지를 설립하지 않으면 모든 투자가 사라집니다.;;;;;;;;;;;;;
-TICKING_WARSCORE_DESC_GRACE;필요 전쟁점수: $VAL$ ([SUB_A7]Y$DAY$[SUB_A7]W일 남음);;;;;;;;;;;;;
-TICKING_WARSCORE_DESC_GRACE_EXPLAIN;영토 전쟁목표를 [SUB_A7]G$MIN$%[SUB_A7]W 이상 충족하면 청구국의 전쟁점수를 점차적으로 높입니다.\n[SUB_A7]Y$DAYS$일[SUB_A7]W의 유예기간 안에 전쟁목표를 달성하지 못하면, 반대로 피청구국의 전쟁점수를 높입니다. 전쟁목표를 청구국이 점령했다가 피청구국이 탈환하면 전쟁점수가 점차적으로 [SUB_A7]Y0[SUB_A7]W으로 되돌아갑니다.;;;;;;;;;;;;;
+TICKING_WARSCORE_DESC_GRACE;필요 승점: $VAL$ ([SUB_A7]Y$DAY$[SUB_A7]W일 남음);;;;;;;;;;;;;
+TICKING_WARSCORE_DESC_GRACE_EXPLAIN;영토 전쟁목표를 [SUB_A7]G$MIN$%[SUB_A7]W 이상 충족하면 청구국의 승점을 점차적으로 높입니다.\n[SUB_A7]Y$DAYS$일[SUB_A7]W의 유예기간 안에 전쟁목표를 달성하지 못하면, 반대로 피청구국의 승점을 높입니다. 전쟁목표를 청구국이 점령했다가 피청구국이 탈환하면 승점이 점차적으로 [SUB_A7]Y0[SUB_A7]W으로 되돌아갑니다.;;;;;;;;;;;;;
 TICKING_WARSCORE_FULFILL_TERRITORY_WG;[SUB_A7]G전쟁목표로 지정된 주에 속하는 지역을 $MIN$% 이상 점령하면 충족합니다.[SUB_A7]W;;;;;;;;;;;;;
 TICKING_WARSCORE_FULFILL_TERRITORY_ANY;[SUB_A7]G피청구국 영토를 $MIN$% 이상 점령하면 충족합니다.[SUB_A7]W;;;;;;;;;;;;;
-TICKING_WARSCORE_FULFILL_BATTLE;[SUB_A7]G$BAT$[SUB_A7]W번 이상의 전투에서 얻은 전쟁점수가 더 높으면 충족합니다.[SUB_A7]W;;;;;;;;;;;;;
+TICKING_WARSCORE_FULFILL_BATTLE;[SUB_A7]G$BAT$[SUB_A7]W번 이상의 전투에서 얻은 승점이 더 높으면 충족합니다.[SUB_A7]W;;;;;;;;;;;;;
 CREATE_PROTECTORATE;보호령 설립;;;;;;;;;;;;;
 JAN;얀마옌;;;;;;;;;;;;;
 JAN_ADJ;얀마옌령;;;;;;;;;;;;;
@@ -157,22 +157,6 @@ JAN_socialist;사회당;;;;;;;;;;;;;
 JAN_anarcho_liberal;급진당;;;;;;;;;;;;;;
 JAN_communist;공산당;;;;;;;;;;;;;;
 JAN_fascist;국가결집당;;;;;;;;;;;;;;
-COUNTRYALERT_NO_Colonial;Nothing in our colonies needs attention.;;Nichts in unseren Kolonien bedarf unserer Aufmerksamkeit.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-COUNTRYALERT_NO_Crisis;No current crisis.;;Kein aktueller Konflikt.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-COUNTRYALERT_Crisis;Current crisis is at a temperature of §Y$TEMPERATURE$§!;;Aktuelle Konflikttemperatur: §Y$TEMPERATURE$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-HAS_GOODS_IN_STATE;Producing $GOODS$ in state.;;Produziert $GOODS$ im Staat.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-HAS_NO_GOODS_IN_STATE;Is not producing $GOODS$ in state.;;Produziert kein(e) $GOODS$ im Staat.;;;;;;;;x;;;,,,,,,,,,,,,,,,
-MILITARY_MOBILIZE_CRISIS_IMPACT;§R§!;;§RWährend man sich auf einer Seite in einem Konflikt befindet, wird die Mobilisierung die Temperatur erhöhen und zum Krieg führen!§!;;;;;;;;x;;;,,,,,,,,,,,,,,
-NORMAL_WAR_LIBERATE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;$ORDER$$FIRST$ guerre de libération $COUNTRY_ADJ$;$ORDER$$FIRST$-$COUNTRY_ADJ$er Freiheitskrieg;;$ORDER$ Guerra $FIRST$ de liberación $COUNTRY_ADJ$;;;;;;;;;x,,,,,,,,,,,,,,,
-AGRESSION_WAR_LIBERATE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Liberation;;$ORDER$$FIRST$-$COUNTRY_ADJ$er Befreiungskrieg;;;;;;;;x;;;,,,,,,,,,,,,,,,
-CANT_COLONIZE;§RUnable to colonize:§!;;§RKolonisierung nicht möglich:§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-COLONIZE_LAST_INVESTMENT;We have just invested in this area. Next investment can be done after §Y$DATE$§!;;Wir haben gerade erst in diese Gegend investiert. Nächste Investition möglich nach §Y$DATE$§! ;;;;;;;;x;;;,,,,,,,,,,,,,,,
-COLONY_INVEST_COST;Cost of investment: §Y$COST$§! Colonial Power;;Investitionskosten: §Y$COST$§! Kolonialmacht;;;;;;;;x;;;,,,,,,,,,,,,,,,
-COLONY_INVEST_COST_LACK;Cost of investment: §R$COST$§! Colonial Power;;Investitionskosten: §R$COST$§! Kolonialmacht;;;;;;;;x;;;,,,,,,,,,,,,,,,
-COLONIAL_INVESTMENT;Currently invested: §R$VALUE$§!;;Aktuell investiert: §R$VALUE$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-COLONIAL_MAINTENANCE;Power tied up in maintenance: §R$VALUE$§!;;Durch Versorgung gebundene Kolonialmacht: §R$VALUE$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-AVAILABLE_COLONIAL_POWER;Available: §Y$VALUE$§!;;Verfügbar: §Y$VALUE$§!;;;;;;;;x;;;,,,,,,,,,,,,,,,
-PW_PROTECTORATE;Protectorate;;Protektorat;;;;;;;;x;;;,,,,,,,,,,,,,,,
 COUNTRYALERT_NO_Colonial;식민지가 주의를 필요로 하지 않습니다.;;;;;;;;;;;;;
 COUNTRYALERT_NO_Crisis;현재 위기가 없습니다.;;;;;;;;;;;;;
 COUNTRYALERT_Crisis;현재 위기 심각도: [SUB_A7]Y$TEMPERATURE$[SUB_A7]W;;;;;;;;;;;;;
