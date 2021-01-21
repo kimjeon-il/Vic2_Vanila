@@ -8,7 +8,7 @@ UNIT_BORROWED;해당 부대는 일시적으로 우리의 지휘를 받고 있습
 DISBAND_TOO_SMALL_UNIT;인원 부족 여단 해산;;;;;;;;;;;;;
 DISBAND_TOO_SMALL_UNIT_DRO;현재 병사 주민이 최대 병력이 아닌 여단을 모두 해산합니다.;;;;;;;;;;;;;
 CONFIRM_DISBAND_TOO_SMALL_TITLE;인원이 부족한 부대를 모두 해산합니다.;;;;;;;;;;;;;
-CONFIRM_DISBAND_TOO_SMALL_DESC;병사 주민이 최대 병력이 아닌 여단을 모두 해산하며, 더는 해당 여단에 대한 유지비를 지급할 필요가 없습니다. 여단의 잔류 인력은 모두 환원됩니다.;;;;;;;;;;;;;
+CONFIRM_DISBAND_TOO_SMALL_DESC;병사 주민이 최대 병력이 아닌 여단을 모두 해산하며, 더는 유지비를 지급할 필요가 없습니다. 여단의 잔류 인력은 모두 환원됩니다.;;;;;;;;;;;;;
 MODIFIER_RESEARCH_POINTS_ON_CONQUER;정복에 대한 연구점 추가;;;;;;;;;;;;;
 colonial_negotiations;식민지 협상;;;;;;;;;;;;;
 colonial_negotiations_desc;기관총은 군대가 대량돌격 전술을 사용하는 부대를 초토할 수 있도록 만들었는데, 이는 식민화를 반대하는 '비문명국'을 물리칠 때 특히 유용합니다.;;;;;;;;;;;;;
